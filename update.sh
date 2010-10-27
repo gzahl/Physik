@@ -6,6 +6,7 @@ wget --output-document="Praktikumsordnung.pdf"  http://www.studservice.uni-kiel.
 for pdffile in *.pdf
 do
 pdftotext $pdffile
+echo "$pdffile in Text umwandeln.."
 done
 cd ..
 cd 2-Fach
@@ -17,6 +18,7 @@ wget --output-document="Praktikumsordnung.pdf"  http://www.studservice.uni-kiel.
 for pdffile in *.pdf
 do
 pdftotext $pdffile
+echo "$pdffile in Text umwandeln.."
 done
 
 cd ..
