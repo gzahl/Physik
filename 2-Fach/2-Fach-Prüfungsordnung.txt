@@ -1475,9 +1475,9 @@ Klausuren, mündliche Prüfungen, Referate, Hausarbeiten, Tests, Multiple-Choice
 Take-Home-Klausuren,
 Protokolle,
 Präsentationen,
-Hausarbeiten,
 Lerngruppenbeschreibungen,
 Praktikumsberichte,
+Hausarbeiten,
 Stundenvorbereitungen, Stunden- und Unterrichtsentwürfe sowie Portfolios sein.
 Art und Zahl der Prüfungsleistungen, die in einem Modul zu erbringen sind,
 ergeben sich aus dem Anhang 2.
@@ -2292,25 +2292,6 @@ Seminar
 
 IPN-chem-FD1
 
-Chemie
-Lehrform
-
-SWS
-
-a) Grundlagen fachbezogenen Lehrens und
-Lernens im Fach Chemie
-
-Vorlesung
-
-1
-
-b) Grundlagen fachbezogenen Lehrens und
-Lernens im Fach Chemie
-
-Seminar
-
-1
-
 LP
 
 Prüfungsleistung(en)
@@ -2331,7 +2312,27 @@ benotet
 
 25 %
 
+Chemie
+
 2,5
+
+Lehrform
+
+SWS
+
+a) Grundlagen fachbezogenen Lehrens und
+Lernens im Fach Chemie
+
+Vorlesung
+
+1
+
+b) Grundlagen fachbezogenen Lehrens und
+Lernens im Fach Chemie
+
+Seminar
+
+1
 
 LP
 
@@ -5916,9 +5917,9 @@ Pflicht
 
 Praktikum
 
-−
+
 
-−
+
 
 5
 
@@ -6274,6 +6275,7 @@ Griechisch
 Informatik
 Italienisch
 Lateinische Philologie
+Mathematik
 Philosophie
 Russisch
 Spanisch
