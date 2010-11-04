@@ -1,1293 +1,333 @@
 Christian-Albrechts-Universität zu Kiel
 
-Dokumentation der Studien -und Prüfungsordnungen
-
 Ordnungsnummer:
 
-0-1-2.1
-
+Dokumentation der Studien -und Prüfungsordnungen
 (Keine amtliche Bekanntmachung)
 
-Prüfungsverfahrensordnung
-Bachelor und Master
+0-1-2.1 Blatt: 1 10/10
+
+Prüfungsverfahrensordnung Bachelor und Master
 Az.: 103/0-0125
 
-Blatt: 1
-10/10
-
-Prüfungsverfahrensordnung (Satzung)
-der Christian-Albrechts-Universität zu Kiel
-für Studierende der Bachelor- und Master-Studiengänge
-Vom 21. Februar 2008
-Veröffentlichung vom 24. April 2008 (NBl. MWV. Schl.-H. S. 100), geändert durch
-Satzung vom 3. Juli 2008 (NBl. MWV. Schl.-H. S. 163), geändert durch Satzung vom
-20. November 2008, Veröffentlichung vom 12. Dezember 2008 (NBl. MWV. Schl.-H.
-S. 187), geändert durch Satzung vom 14. Mai 2009, Veröffentlichung vom 15. Juni
-2009 (NBl. MWV. Schl.-H. S. 21), geändert durch Satzung vom 17. August 2009,
-Veröffentlichung vom 01. Oktober 2009 (NBl. MWV. Schl.-H. S. 40), geändert durch
-Satzung vom 19. November 2009, Veröffentlichung vom 04. Dezember 2009 (NBl.
-MWV. Schl.-H. S. 46), geändert durch Satzung vom 11. Februar 2010,
-Veröffentlichung vom 01. März 2010 (NBl. MWV. Schl.-H. S. 4), geändert durch
-Satzung vom 23. Juli 2010, Veröffentlichung vom 11. Oktober 2010 (NBl. MWV.
-Schl.-H. S. 59)
-Aufgrund des § 52 Abs. 1 Satz 2 des Hochschulgesetzes (HSG) in der Fassung der
-Bekanntmachung vom 28. Februar 2007 (GVOBl. Schl.-H. 2007, S. 184) wird nach
-Beschlussfassung durch den Senat der Christian-Albrechts-Universität zu Kiel am 12.
-Juni 2007, am 10. Oktober 2007, am 21. November 2007 und am 13. Februar 2008
-die folgende Satzung erlassen:
-Inhaltsübersicht:
-§1
-§2
-§3
-§4
-§5
-§6
-§7
-§8
-§9
-§ 10
-§ 11
-§ 12
-§ 13
-§ 14
-§ 15
-§ 16
-
-Geltungsbereich
-Studienaufbau, Modularisierung und Leistungspunkte
-Prüfungsausschuss
-Bestellung und Benennung der Prüferinnen und Prüfer
-Unterrichts- und Prüfungssprache
-Anrechnung von Studienzeiten, Studienleistungen und Prüfungsleistungen
-Art und Aufbau der Prüfung
-Anmeldung und Zulassung zu Modulprüfungen, Prüfungszeiträume
-Modulprüfungen und Modulnoten
-Wiederholung und endgültiges Nichtbestehen von Modulprüfungen
-Bachelor- und Master-Arbeit
-Nachteilsausgleich für Studierende mit Handicap
-Bewertung von Prüfungsleistungen
-Bestehen der Bachelor- oder Master-Prüfung und Bildung der Gesamtnote
-Endgültiges Nichtbestehen der Bachelor- oder Master-Prüfung
-Nichtbestehen wegen erheblicher Überschreitung der Regelstudienzeit
+Prüfungsverfahrensordnung (Satzung) der Christian-Albrechts-Universität zu Kiel für Studierende der Bachelor- und Master-Studiengänge Vom 21. Februar 2008 Veröffentlichung vom 24. April 2008 (NBl. MWV. Schl.-H. S. 100), geändert durch Satzung vom 3. Juli 2008 (NBl. MWV. Schl.-H. S. 163), geändert durch Satzung vom 20. November 2008, Veröffentlichung vom 12. Dezember 2008 (NBl. MWV. Schl.-H. S. 187), geändert durch Satzung vom 14. Mai 2009, Veröffentlichung vom 15. Juni 2009 (NBl. MWV. Schl.-H. S. 21), geändert durch Satzung vom 17. August 2009, Veröffentlichung vom 01. Oktober 2009 (NBl. MWV. Schl.-H. S. 40), geändert durch Satzung vom 19. November 2009, Veröffentlichung vom 04. Dezember 2009 (NBl. MWV. Schl.-H. S. 46), geändert durch Satzung vom 11. Februar 2010, Veröffentlichung vom 01. März 2010 (NBl. MWV. Schl.-H. S. 4), geändert durch Satzung vom 23. Juli 2010, Veröffentlichung vom 11. Oktober 2010 (NBl. MWV. Schl.-H. S. 59) Aufgrund des § 52 Abs. 1 Satz 2 des Hochschulgesetzes (HSG) in der Fassung der Bekanntmachung vom 28. Februar 2007 (GVOBl. Schl.-H. 2007, S. 184) wird nach Beschlussfassung durch den Senat der Christian-Albrechts-Universität zu Kiel am 12. Juni 2007, am 10. Oktober 2007, am 21. November 2007 und am 13. Februar 2008 die folgende Satzung erlassen: Inhaltsübersicht: §1 §2 §3 §4 §5 §6 §7 §8 §9 § 10 § 11 § 12 § 13 § 14 § 15 § 16 Geltungsbereich Studienaufbau, Modularisierung und Leistungspunkte Prüfungsausschuss Bestellung und Benennung der Prüferinnen und Prüfer Unterrichts- und Prüfungssprache Anrechnung von Studienzeiten, Studienleistungen und Prüfungsleistungen Art und Aufbau der Prüfung Anmeldung und Zulassung zu Modulprüfungen, Prüfungszeiträume Modulprüfungen und Modulnoten Wiederholung und endgültiges Nichtbestehen von Modulprüfungen Bachelor- und Master-Arbeit Nachteilsausgleich für Studierende mit Handicap Bewertung von Prüfungsleistungen Bestehen der Bachelor- oder Master-Prüfung und Bildung der Gesamtnote Endgültiges Nichtbestehen der Bachelor- oder Master-Prüfung Nichtbestehen wegen erheblicher Überschreitung der Regelstudienzeit
 
 Christian-Albrechts-Universität zu Kiel
 
-Dokumentation der Studien -und Prüfungsordnungen
-
 Ordnungsnummer:
 
-0-1-2.1
-
+Dokumentation der Studien -und Prüfungsordnungen
 (Keine amtliche Bekanntmachung)
 
-Prüfungsverfahrensordnung
-Bachelor und Master
+0-1-2.1 Blatt: 2 10/10
+
+Prüfungsverfahrensordnung Bachelor und Master
 Az.: 103/0-0125
 
-§ 17
-§ 18
-§ 19
-§ 20
-§ 21
-§ 22
-§ 23
-§ 24
-§ 25
-§ 26
-§ 27
-§ 28
+§ 17 § 18 § 19 § 20 § 21 § 22 § 23 § 24 § 25 § 26 § 27 § 28
 
-Blatt: 2
-10/10
+Zeugnis Urkunde über die Verleihung des Akademischen Grades Bescheinigung über Studien- und Prüfungsleistungen Versäumnis und Rücktritt; Fristverlängerung Unerlaubte Hilfsmittel, Täuschung und Ordnungsverstoß Ungültigkeit der Bachelor- oder Master-Prüfung Rüge von Verfahrensmängeln Einsicht in die Prüfungsakten Widerspruchsverfahren Datenerhebung Übergangsbestimmungen In-Kraft-Treten §1 Geltungsbereich
 
-Zeugnis
-Urkunde über die Verleihung des Akademischen Grades
-Bescheinigung über Studien- und Prüfungsleistungen
-Versäumnis und Rücktritt; Fristverlängerung
-Unerlaubte Hilfsmittel, Täuschung und Ordnungsverstoß
-Ungültigkeit der Bachelor- oder Master-Prüfung
-Rüge von Verfahrensmängeln
-Einsicht in die Prüfungsakten
-Widerspruchsverfahren
-Datenerhebung
-Übergangsbestimmungen
-In-Kraft-Treten
-§1
-Geltungsbereich
-
-(1) Diese Prüfungsverfahrensordnung gilt für alle Bachelor- und alle MasterStudiengänge der Christian-Albrechts-Universität zu Kiel. Sie wird durch
-Fachprüfungsordnungen und die Gemeinsame Prüfungsordnung der ChristianAlbrechts-Universität zu Kiel für Studierende der Zwei-Fächer-Bachelor- und
-Master-Studiengänge (Zwei-Fächer-Prüfungsordnung) ergänzt.
-(2) Für die Zulassung zu importierten Modulen und die Durchführung der jeweiligen
-Modulprüfung gelten die entsprechenden Bestimmungen des anbietenden Fachs.
-§2
-Studienaufbau, Modularisierung und Leistungspunkte
-(1) Die Regelstudienzeit und das Studienvolumen betragen grundsätzlich
-1. in einem Bachelor-Studiengang mindestens drei und höchstens vier Jahre
-und mindestens 180 und höchstens 240 Leistungspunkte,
-2. in einem Master-Studiengang mindestens ein Jahr und höchstens zwei
-Jahre und mindestens 60 und höchstens 120 Leistungspunkte.
-(2) Für den Erwerb eines Mastergrades ist unter Einbeziehung des vorangehenden,
-zu einem ersten berufsqualifizierenden Abschluss führenden Studiums der
-Erwerb von 300 Leistungspunkten erforderlich. Konsekutive Bachelor- und
-Master-Studiengänge der Christian-Albrechts-Universität zu Kiel, die nach
-Maßgabe der Studien- und Prüfungsordnung inhaltlich aufeinander aufbauen,
-dürfen dabei zusammen eine Regelstudienzeit von fünf Jahren nicht
-überschreiten.
-(3) Das Studium in den Bachelor- und Master-Studiengängen ist modularisiert.
-Module fassen Stoffgebiete zu thematisch und zeitlich abgerundeten, in sich
+(1) Diese Prüfungsverfahrensordnung gilt für alle Bachelor- und alle MasterStudiengänge der Christian-Albrechts-Universität zu Kiel. Sie wird durch Fachprüfungsordnungen und die Gemeinsame Prüfungsordnung der ChristianAlbrechts-Universität zu Kiel für Studierende der Zwei-Fächer-Bachelor- und Master-Studiengänge (Zwei-Fächer-Prüfungsordnung) ergänzt. (2) Für die Zulassung zu importierten Modulen und die Durchführung der jeweiligen Modulprüfung gelten die entsprechenden Bestimmungen des anbietenden Fachs. §2 Studienaufbau, Modularisierung und Leistungspunkte (1) Die Regelstudienzeit und das Studienvolumen betragen grundsätzlich 1. in einem Bachelor-Studiengang mindestens drei und höchstens vier Jahre und mindestens 180 und höchstens 240 Leistungspunkte, 2. in einem Master-Studiengang mindestens ein Jahr und höchstens zwei Jahre und mindestens 60 und höchstens 120 Leistungspunkte. (2) Für den Erwerb eines Mastergrades ist unter Einbeziehung des vorangehenden, zu einem ersten berufsqualifizierenden Abschluss führenden Studiums der Erwerb von 300 Leistungspunkten erforderlich. Konsekutive Bachelor- und Master-Studiengänge der Christian-Albrechts-Universität zu Kiel, die nach Maßgabe der Studien- und Prüfungsordnung inhaltlich aufeinander aufbauen, dürfen dabei zusammen eine Regelstudienzeit von fünf Jahren nicht überschreiten. (3) Das Studium in den Bachelor- und Master-Studiengängen ist modularisiert. Module fassen Stoffgebiete zu thematisch und zeitlich abgerundeten, in sich
 
 Christian-Albrechts-Universität zu Kiel
 
-Dokumentation der Studien -und Prüfungsordnungen
-
 Ordnungsnummer:
 
-0-1-2.1
-
+Dokumentation der Studien -und Prüfungsordnungen
 (Keine amtliche Bekanntmachung)
 
-Prüfungsverfahrensordnung
-Bachelor und Master
+0-1-2.1 Blatt: 3 10/10
+
+Prüfungsverfahrensordnung Bachelor und Master
 Az.: 103/0-0125
 
-Blatt: 3
-10/10
+abgeschlossenen und mit Leistungspunkten versehenen abprüfbaren Einheiten zusammen. Sie erstrecken sich in der Regel über maximal zwei Semester. Module und Prüfungen können innerhalb eines Studiengangs nur einmal angerechnet werden. Jedem Modul werden Leistungspunkte nach den Vorgaben des European Credit Transfer and Accumulation System (ECTS) zugeordnet. (4) Der Zugang zum Master-Studium ist an besondere Voraussetzungen geknüpft. Näheres regeln die Zwei-Fächer-Prüfungsordnung und die Fachprüfungsordnungen. Sieht die Zwei-Fächer-Prüfungsordnung oder eine Fachprüfungsordnung eine Mindestnote für den Zugang zum Master vor und ist diese nicht erreicht worden, erfolgt eine Zulassung auch, wenn die Bewerberin oder der Bewerber - nachweist, dass sie oder er in ihrem oder seinem Studiengang oder mindestens einem Teilstudiengang, in dem der Bachelor-Abschluss erworben wurde, der ersten Kohorte dieses Bachelor-Studiengangs an der jeweiligen Hochschule angehört und - die Mindestnote für den Masterzugang um maximal 0,7 verfehlt hat.
 
-abgeschlossenen und mit Leistungspunkten versehenen abprüfbaren Einheiten
-zusammen. Sie erstrecken sich in der Regel über maximal zwei Semester.
-Module und Prüfungen können innerhalb eines Studiengangs nur einmal
-angerechnet werden. Jedem Modul werden Leistungspunkte nach den Vorgaben
-des European Credit Transfer and Accumulation System (ECTS) zugeordnet.
-(4) Der Zugang zum Master-Studium ist an besondere Voraussetzungen geknüpft.
-Näheres
-regeln
-die
-Zwei-Fächer-Prüfungsordnung
-und
-die
-Fachprüfungsordnungen. Sieht die Zwei-Fächer-Prüfungsordnung oder eine
-Fachprüfungsordnung eine Mindestnote für den Zugang zum Master vor und ist
-diese nicht erreicht worden, erfolgt eine Zulassung auch, wenn die Bewerberin
-oder der Bewerber
-- nachweist, dass sie oder er in ihrem oder seinem Studiengang oder
-mindestens einem Teilstudiengang, in dem der Bachelor-Abschluss erworben
-wurde, der ersten Kohorte dieses Bachelor-Studiengangs an der jeweiligen
-Hochschule angehört und
-- die Mindestnote für den Masterzugang um maximal 0,7 verfehlt hat.
-
-§3
-Prüfungsausschuss
-(1) Für die Organisation der Prüfungen und die durch diese Prüfungsordnung
-zugewiesenen Aufgaben bilden die Fakultäten Prüfungsausschüsse nach den
-folgenden Vorschriften, sofern die Fachprüfungsordnungen keine abweichenden
-Regelungen treffen.
-(2) Der Prüfungsausschuss besteht aus drei Mitgliedern der Gruppe der
-Hochschullehrerinnen und Hochschullehrer, einem Mitglied aus der Gruppe des
-wissenschaftlichen Dienstes und einem Mitglied aus der Gruppe der
-Studierenden. Die Mitglieder und ihre Stellvertreter werden vom Fakultätskonvent
-gewählt. Die Mitglieder des Prüfungsausschusses wählen aus der
-Mitgliedergruppe der Hochschullehrerinnen und Hochschullehrer eine Vorsitzende
-oder einen Vorsitzenden und eine stellvertretende Vorsitzende oder einen
-stellvertretenden Vorsitzenden. Eine Prodekanin oder ein Prodekan oder die oder
-der Fakultätsbeauftragte für Angelegenheiten der Lehre, des Studiums und der
-Prüfungen ist Mitglied mit beratender Stimme.
-(3) Die Amtszeit der Mitglieder aus der Gruppe der Hochschullehrerinnen und
-Hochschullehrer und der Gruppe des wissenschaftlichen Dienstes beträgt zwei
-Jahre, die des studentischen Mitglieds ein Jahr. Die Wiederwahl ist zulässig. Der
-Fakultätskonvent kann für den Rest der Amtsperiode ein Mitglied durch Neuwahl
-ersetzen.
+§3 Prüfungsausschuss (1) Für die Organisation der Prüfungen und die durch diese Prüfungsordnung zugewiesenen Aufgaben bilden die Fakultäten Prüfungsausschüsse nach den folgenden Vorschriften, sofern die Fachprüfungsordnungen keine abweichenden Regelungen treffen. (2) Der Prüfungsausschuss besteht aus drei Mitgliedern der Gruppe der Hochschullehrerinnen und Hochschullehrer, einem Mitglied aus der Gruppe des wissenschaftlichen Dienstes und einem Mitglied aus der Gruppe der Studierenden. Die Mitglieder und ihre Stellvertreter werden vom Fakultätskonvent gewählt. Die Mitglieder des Prüfungsausschusses wählen aus der Mitgliedergruppe der Hochschullehrerinnen und Hochschullehrer eine Vorsitzende oder einen Vorsitzenden und eine stellvertretende Vorsitzende oder einen stellvertretenden Vorsitzenden. Eine Prodekanin oder ein Prodekan oder die oder der Fakultätsbeauftragte für Angelegenheiten der Lehre, des Studiums und der Prüfungen ist Mitglied mit beratender Stimme. (3) Die Amtszeit der Mitglieder aus der Gruppe der Hochschullehrerinnen und Hochschullehrer und der Gruppe des wissenschaftlichen Dienstes beträgt zwei Jahre, die des studentischen Mitglieds ein Jahr. Die Wiederwahl ist zulässig. Der Fakultätskonvent kann für den Rest der Amtsperiode ein Mitglied durch Neuwahl ersetzen.
 
 Christian-Albrechts-Universität zu Kiel
 
-Dokumentation der Studien -und Prüfungsordnungen
-
 Ordnungsnummer:
 
-0-1-2.1
-
+Dokumentation der Studien -und Prüfungsordnungen
 (Keine amtliche Bekanntmachung)
 
-Prüfungsverfahrensordnung
-Bachelor und Master
+0-1-2.1 Blatt: 4 10/10
+
+Prüfungsverfahrensordnung Bachelor und Master
 Az.: 103/0-0125
 
-Blatt: 4
-10/10
-
-(4) Der Prüfungsausschuss sorgt für die ordnungsgemäße Durchführung der
-Prüfungen und überträgt diese Aufgabe in allen Regelfällen der oder dem
-Vorsitzenden des Prüfungsausschusses. Der Prüfungsausschuss achtet
-insbesondere darauf, dass die Bestimmungen der Prüfungsordnung eingehalten
-werden; er entscheidet über das endgültige Bestehen oder das Nicht-Bestehen
-einer
-Bacheloroder
-Master-Prüfung,
-über
-Widersprüche
-gegen
-Prüfungsentscheidungen und gibt Anregungen zur Reform der Prüfungsordnung.
-Die oder der Vorsitzende des Prüfungsausschusses berichtet dem
-Fakultätskonvent in geeigneter Weise über die Entwicklung der Prüfungs- und
-Studienzeiten einschließlich der Bearbeitungszeiten für die Bachelor- und MasterArbeiten sowie über die Verteilung der Fach- und Gesamtnoten. Das studentische
-Mitglied wirkt bei der Bewertung und Anrechnung von Studien- und
-Prüfungsleistungen nicht mit.
-(5) Der Prüfungsausschuss ist beschlussfähig, wenn die Mehrheit der Mitglieder und
-mindestens zwei Mitglieder aus der Gruppe der Hochschullehrerinnen und
-Hochschullehrer anwesend sind. Der Ausschuss entscheidet mit einfacher
-Mehrheit. Bei Stimmengleichheit gilt ein Antrag als abgelehnt.
-(6) Die Sitzungen des Prüfungsausschusses sind nicht öffentlich. Die Mitglieder des
-Prüfungsausschusses und ihre Vertreterinnen oder Vertreter unterliegen der
-Amtsverschwiegenheit. Sofern sie nicht im öffentlichen Dienst stehen, sind sie
-durch die Vorsitzende oder den Vorsitzenden zur Verschwiegenheit zu
-verpflichten. Die Mitglieder des Prüfungsausschusses haben das Recht,
-Prüfungen beizuwohnen.
-§4
-Bestellung und Benennung der Prüferinnen und Prüfer
-(1) Der jeweilige Prüfungsausschuss bestellt die Prüferinnen und Prüfer. Der
-Prüfungsausschuss kann die Bestellung der oder dem Vorsitzenden übertragen.
-(2) Zu Prüferinnen und Prüfern dürfen grundsätzlich nur Hochschullehrerinnen und
-Hochschullehrer und Privatdozentinnen und Privatdozenten bestellt werden. Der
-Prüfungsausschuss kann auch andere Personen zu Prüferinnen und Prüfern
-bestellen, sofern sie für Bachelor-Studiengänge mindestens einen BachelorAbschluss und für Master-Studiengänge mindestens einen Master-Abschluss
-oder jeweils eine mindestens gleichwertige Qualifikation besitzen. Beisitzerin oder
-Beisitzer darf nur sein, wer die Abschlussprüfung in dem jeweiligen Studiengang
-oder eine vergleichbare Prüfung abgelegt hat.
-(3) Personen, bei denen ein Grund vorliegt, der geeignet ist, Misstrauen gegen eine
-unparteiische Prüfungstätigkeit zu rechtfertigen, dürfen nicht als Prüferinnen oder
-Prüfer bestellt werden.
+(4) Der Prüfungsausschuss sorgt für die ordnungsgemäße Durchführung der Prüfungen und überträgt diese Aufgabe in allen Regelfällen der oder dem Vorsitzenden des Prüfungsausschusses. Der Prüfungsausschuss achtet insbesondere darauf, dass die Bestimmungen der Prüfungsordnung eingehalten werden; er entscheidet über das endgültige Bestehen oder das Nicht-Bestehen einer Bacheloroder Master-Prüfung, über Widersprüche gegen Prüfungsentscheidungen und gibt Anregungen zur Reform der Prüfungsordnung. Die oder der Vorsitzende des Prüfungsausschusses berichtet dem Fakultätskonvent in geeigneter Weise über die Entwicklung der Prüfungs- und Studienzeiten einschließlich der Bearbeitungszeiten für die Bachelor- und MasterArbeiten sowie über die Verteilung der Fach- und Gesamtnoten. Das studentische Mitglied wirkt bei der Bewertung und Anrechnung von Studien- und Prüfungsleistungen nicht mit. (5) Der Prüfungsausschuss ist beschlussfähig, wenn die Mehrheit der Mitglieder und mindestens zwei Mitglieder aus der Gruppe der Hochschullehrerinnen und Hochschullehrer anwesend sind. Der Ausschuss entscheidet mit einfacher Mehrheit. Bei Stimmengleichheit gilt ein Antrag als abgelehnt. (6) Die Sitzungen des Prüfungsausschusses sind nicht öffentlich. Die Mitglieder des Prüfungsausschusses und ihre Vertreterinnen oder Vertreter unterliegen der Amtsverschwiegenheit. Sofern sie nicht im öffentlichen Dienst stehen, sind sie durch die Vorsitzende oder den Vorsitzenden zur Verschwiegenheit zu verpflichten. Die Mitglieder des Prüfungsausschusses haben das Recht, Prüfungen beizuwohnen. §4 Bestellung und Benennung der Prüferinnen und Prüfer (1) Der jeweilige Prüfungsausschuss bestellt die Prüferinnen und Prüfer. Der Prüfungsausschuss kann die Bestellung der oder dem Vorsitzenden übertragen. (2) Zu Prüferinnen und Prüfern dürfen grundsätzlich nur Hochschullehrerinnen und Hochschullehrer und Privatdozentinnen und Privatdozenten bestellt werden. Der Prüfungsausschuss kann auch andere Personen zu Prüferinnen und Prüfern bestellen, sofern sie für Bachelor-Studiengänge mindestens einen BachelorAbschluss und für Master-Studiengänge mindestens einen Master-Abschluss oder jeweils eine mindestens gleichwertige Qualifikation besitzen. Beisitzerin oder Beisitzer darf nur sein, wer die Abschlussprüfung in dem jeweiligen Studiengang oder eine vergleichbare Prüfung abgelegt hat. (3) Personen, bei denen ein Grund vorliegt, der geeignet ist, Misstrauen gegen eine unparteiische Prüfungstätigkeit zu rechtfertigen, dürfen nicht als Prüferinnen oder Prüfer bestellt werden.
 
 Christian-Albrechts-Universität zu Kiel
 
-Dokumentation der Studien -und Prüfungsordnungen
-
 Ordnungsnummer:
 
-0-1-2.1
-
+Dokumentation der Studien -und Prüfungsordnungen
 (Keine amtliche Bekanntmachung)
 
-Prüfungsverfahrensordnung
-Bachelor und Master
+0-1-2.1 Blatt: 5 10/10
+
+Prüfungsverfahrensordnung Bachelor und Master
 Az.: 103/0-0125
 
-Blatt: 5
-10/10
-
-(4) Liegen für eine bestimmte Prüfung aus Sicht einer Prüfungskandidatin oder eines
-Prüfungskandidaten Befangenheitsgründe im Hinblick auf die bestellte Prüferin
-oder den bestellten Prüfer vor, hat die Prüfungskandidatin oder der
-Prüfungskandidat den zuständigen Prüfungsausschuss unverzüglich auf diesen
-Umstand
-hinzuweisen.
-Im
-Übrigen
-gelten
-die
-Regelungen
-des
-Landesverwaltungsgesetzes.
-§5
-Unterrichts- und Prüfungssprache
-Unterrichts- und Prüfungssprache ist Deutsch, sofern die Fachprüfungsordnungen
-keine abweichenden Regelungen vorsehen.
-§6
-Anrechnung von Studienzeiten, Studienleistungen und Prüfungsleistungen
-(1) Studienzeiten einschließlich berufspraktischer Tätigkeiten, Studien- und
-Prüfungsleistungen, die in einem anderen Studiengang an der ChristianAlbrechts-Universität oder demselben oder einem anderen Studiengang an einer
-Universität oder gleichgestellten Hochschule in der Bundesrepublik Deutschland
-oder im Ausland erbracht worden sind, werden angerechnet, sofern sie
-gleichwertig sind. Dies ist der Fall, wenn sie in Inhalt, Umfang und Anforderungen
-denjenigen des betreffenden Studienfaches an der Christian-Albrechts-Universität
-zu Kiel entsprechen. Dabei ist kein schematischer Vergleich, sondern eine
-Gesamtbewertung im Hinblick auf die Bedeutung der Leistungen für den Zweck
-der Prüfungen und der Lernziele vorzunehmen. Die Fachprüfungsordnung kann
-regeln, dass bei der Anrechnung von Studienzeiten, Studien- und
-Prüfungsleistungen, die an einer Universität oder gleichgestellten Hochschule in
-der Bundesrepublik Deutschland erbracht worden sind, auf eine
-Gleichwertigkeitsprüfung verzichtet wird.
-(2) Absatz 1 gilt auch für Studienzeiten, Studien- und Prüfungsleistungen in staatlich
-anerkannten Fernstudien und an anderen Bildungseinrichtungen, insbesondere
-an Fachhochschulen.
-(3) Für die Feststellung der Gleichwertigkeit im Ausland erbrachter Studienzeiten,
-Studien- und Prüfungsleistungen sind die von der Kultusministerkonferenz und
-der Hochschulrektorenkonferenz gebilligten Äquivalenzvereinbarungen, andere
-zwischenstaatliche Vereinbarungen sowie Absprachen im Rahmen von
-Hochschulpartnerschaften
-und
-Hochschulkooperationsvereinbarungen
-maßgebend.
-(4) Die Anrechnung von in Deutschland erbrachten Studienzeiten, Studien- und
-Prüfungsleistungen erfolgt von Amts wegen; im Übrigen erfolgt die Anrechnung
+(4) Liegen für eine bestimmte Prüfung aus Sicht einer Prüfungskandidatin oder eines Prüfungskandidaten Befangenheitsgründe im Hinblick auf die bestellte Prüferin oder den bestellten Prüfer vor, hat die Prüfungskandidatin oder der Prüfungskandidat den zuständigen Prüfungsausschuss unverzüglich auf diesen Umstand hinzuweisen. Im Übrigen gelten die Regelungen des Landesverwaltungsgesetzes. §5 Unterrichts- und Prüfungssprache Unterrichts- und Prüfungssprache ist Deutsch, sofern die Fachprüfungsordnungen keine abweichenden Regelungen vorsehen. §6 Anrechnung von Studienzeiten, Studienleistungen und Prüfungsleistungen (1) Studienzeiten einschließlich berufspraktischer Tätigkeiten, Studien- und Prüfungsleistungen, die in einem anderen Studiengang an der ChristianAlbrechts-Universität oder demselben oder einem anderen Studiengang an einer Universität oder gleichgestellten Hochschule in der Bundesrepublik Deutschland oder im Ausland erbracht worden sind, werden angerechnet, sofern sie gleichwertig sind. Dies ist der Fall, wenn sie in Inhalt, Umfang und Anforderungen denjenigen des betreffenden Studienfaches an der Christian-Albrechts-Universität zu Kiel entsprechen. Dabei ist kein schematischer Vergleich, sondern eine Gesamtbewertung im Hinblick auf die Bedeutung der Leistungen für den Zweck der Prüfungen und der Lernziele vorzunehmen. Die Fachprüfungsordnung kann regeln, dass bei der Anrechnung von Studienzeiten, Studien- und Prüfungsleistungen, die an einer Universität oder gleichgestellten Hochschule in der Bundesrepublik Deutschland erbracht worden sind, auf eine Gleichwertigkeitsprüfung verzichtet wird. (2) Absatz 1 gilt auch für Studienzeiten, Studien- und Prüfungsleistungen in staatlich anerkannten Fernstudien und an anderen Bildungseinrichtungen, insbesondere an Fachhochschulen. (3) Für die Feststellung der Gleichwertigkeit im Ausland erbrachter Studienzeiten, Studien- und Prüfungsleistungen sind die von der Kultusministerkonferenz und der Hochschulrektorenkonferenz gebilligten Äquivalenzvereinbarungen, andere zwischenstaatliche Vereinbarungen sowie Absprachen im Rahmen von Hochschulpartnerschaften und Hochschulkooperationsvereinbarungen maßgebend. (4) Die Anrechnung von in Deutschland erbrachten Studienzeiten, Studien- und Prüfungsleistungen erfolgt von Amts wegen; im Übrigen erfolgt die Anrechnung
 
 Christian-Albrechts-Universität zu Kiel
 
-Dokumentation der Studien -und Prüfungsordnungen
-
 Ordnungsnummer:
 
-0-1-2.1
-
+Dokumentation der Studien -und Prüfungsordnungen
 (Keine amtliche Bekanntmachung)
 
-Prüfungsverfahrensordnung
-Bachelor und Master
+0-1-2.1 Blatt: 6 10/10
+
+Prüfungsverfahrensordnung Bachelor und Master
 Az.: 103/0-0125
 
-Blatt: 6
-10/10
-
-auf Antrag der Kandidatin oder des Kandidaten. Die oder der Studierende hat die
-für die Anerkennung erforderlichen Unterlagen vorzulegen.
-(5) Der Prüfungsausschuss trifft die Entscheidungen nach Absatz 1 bis 3 und kann
-für die Anrechnung Auflagen machen.
-(6) Werden Studien- und Prüfungsleistungen angerechnet, sind die Noten, soweit die
-Notensysteme vergleichbar sind, zu übernehmen. Bei nicht vergleichbaren
-Notensystemen wird der Vermerk „bestanden“ aufgenommen. Eine
-Kennzeichnung der Anrechnung im Zeugnis ist zulässig.
-(7) Werden Modulprüfungen angerechnet, ist die Zahl an Leistungspunkten
-gutzuschreiben, die dem Modul an der Christian-Albrechts-Universität, auf das sie
-angerechnet werden, zugeordnet werden. Über die Anrechnung der Bacheloroder Master-Arbeit entscheidet der Fachprüfungsausschuss.
-§7
-Art und Aufbau der Prüfung
-Die Bachelor- oder Master-Prüfung besteht aus den nach dem jeweiligen Studienplan
-erforderlichen studienbegleitend zu erbringenden Modulprüfungen und der Bacheloroder Master-Arbeit. Die Fachprüfungsordnung kann für Master-Studiengänge
-zusätzlich eine mündliche Abschlussprüfung vorsehen, die mit einer entsprechenden
-Leistungspunktzahl zu versehen ist. Die für die Fachmodule zur Verfügung stehende
-Leistungspunktzahl, gemessen an der studentischen Arbeitsbelastung, ist
-entsprechend zu vermindern.
-§8
-Anmeldung und Zulassung zu Modulprüfungen, Prüfungszeiträume
-(1) Der Senat setzt nach Stellungnahme der Fakultäten die Prüfungszeiträume und
-für jeden Prüfungszeitraum einen eigenen Anmeldezeitraum fest.
-(2) Der zuständige Prüfungsausschuss terminiert Klausuren und mündliche
-Prüfungen in der Regel innerhalb der festgesetzten Prüfungszeiträume. Für
-einzelne Klausuren und mündliche Prüfungen sowie andere Prüfungsarten kann
-der zuständige Prüfungsausschuss bei Bedarf Prüfungstermine außerhalb dieser
-Prüfungszeiträume festsetzen. Das Prüfungsamt gibt die Prüfungstermine
-spätestens bei Beginn des Anmeldezeitraums in geeigneter Weise bekannt. Die
-Termine für Prüfungen, die außerhalb von Prüfungszeiträumen stattfinden, sind
-von den Lehrpersonen zu Beginn der Lehrveranstaltungen des Moduls gesondert
-bekanntzugeben.
-(3) Innerhalb von zwei Semestern sind mindestens zwei Prüfungsmöglichkeiten
-anzubieten. Abweichend von Satz 1 muss in den Fällen, in denen die Teilnahme
-an der Prüfung aus fachlich-inhaltlichen oder prüfungsrechtlichen Gründen an den
+auf Antrag der Kandidatin oder des Kandidaten. Die oder der Studierende hat die für die Anerkennung erforderlichen Unterlagen vorzulegen. (5) Der Prüfungsausschuss trifft die Entscheidungen nach Absatz 1 bis 3 und kann für die Anrechnung Auflagen machen. (6) Werden Studien- und Prüfungsleistungen angerechnet, sind die Noten, soweit die Notensysteme vergleichbar sind, zu übernehmen. Bei nicht vergleichbaren Notensystemen wird der Vermerk „bestanden“ aufgenommen. Eine Kennzeichnung der Anrechnung im Zeugnis ist zulässig. (7) Werden Modulprüfungen angerechnet, ist die Zahl an Leistungspunkten gutzuschreiben, die dem Modul an der Christian-Albrechts-Universität, auf das sie angerechnet werden, zugeordnet werden. Über die Anrechnung der Bacheloroder Master-Arbeit entscheidet der Fachprüfungsausschuss. §7 Art und Aufbau der Prüfung Die Bachelor- oder Master-Prüfung besteht aus den nach dem jeweiligen Studienplan erforderlichen studienbegleitend zu erbringenden Modulprüfungen und der Bacheloroder Master-Arbeit. Die Fachprüfungsordnung kann für Master-Studiengänge zusätzlich eine mündliche Abschlussprüfung vorsehen, die mit einer entsprechenden Leistungspunktzahl zu versehen ist. Die für die Fachmodule zur Verfügung stehende Leistungspunktzahl, gemessen an der studentischen Arbeitsbelastung, ist entsprechend zu vermindern. §8 Anmeldung und Zulassung zu Modulprüfungen, Prüfungszeiträume (1) Der Senat setzt nach Stellungnahme der Fakultäten die Prüfungszeiträume und für jeden Prüfungszeitraum einen eigenen Anmeldezeitraum fest. (2) Der zuständige Prüfungsausschuss terminiert Klausuren und mündliche Prüfungen in der Regel innerhalb der festgesetzten Prüfungszeiträume. Für einzelne Klausuren und mündliche Prüfungen sowie andere Prüfungsarten kann der zuständige Prüfungsausschuss bei Bedarf Prüfungstermine außerhalb dieser Prüfungszeiträume festsetzen. Das Prüfungsamt gibt die Prüfungstermine spätestens bei Beginn des Anmeldezeitraums in geeigneter Weise bekannt. Die Termine für Prüfungen, die außerhalb von Prüfungszeiträumen stattfinden, sind von den Lehrpersonen zu Beginn der Lehrveranstaltungen des Moduls gesondert bekanntzugeben. (3) Innerhalb von zwei Semestern sind mindestens zwei Prüfungsmöglichkeiten anzubieten. Abweichend von Satz 1 muss in den Fällen, in denen die Teilnahme an der Prüfung aus fachlich-inhaltlichen oder prüfungsrechtlichen Gründen an den
 
 Christian-Albrechts-Universität zu Kiel
 
-Dokumentation der Studien -und Prüfungsordnungen
-
 Ordnungsnummer:
 
-0-1-2.1
-
+Dokumentation der Studien -und Prüfungsordnungen
 (Keine amtliche Bekanntmachung)
 
-Prüfungsverfahrensordnung
-Bachelor und Master
+0-1-2.1 Blatt: 7 10/10
+
+Prüfungsverfahrensordnung Bachelor und Master
 Az.: 103/0-0125
 
-Blatt: 7
-10/10
-
-nochmaligen Besuch der zugrunde liegenden Lehrveranstaltung gebunden ist, die
-zweite Prüfungsmöglichkeit spätestens angeboten werden, wenn die
-Lehrveranstaltung erneut stattfindet. Die genauen Prüfungsmodalitäten werden zu
-Beginn der Lehrveranstaltung von der Dozentin oder dem Dozenten bekannt
-gegeben.
-(4) Der zuständige Prüfungsausschuss achtet darauf, dass innerhalb des eigenen
-Fachs mehrere Prüfungen, die gemäß Studienverlaufsplan in demselben
-Semester absolviert werden sollen, grundsätzlich nicht auf einen Tag und
-möglichst auch nicht auf zwei aufeinander folgende Tage gelegt werden.
-(5) Zu jeder Prüfung meldet sich die Kandidatin oder der Kandidat in dem
-dazugehörigen Anmeldezeitraum bei dem zuständigen Prüfungsamt an. Die
-Einzelheiten des Anmeldeverfahrens gibt das Prüfungsamt zu Beginn der
-Vorlesungszeit in geeigneter Weise bekannt.
-(6) Zugelassen wird nur, wer in dem betreffenden Studiengang an der ChristianAlbrechts-Universität zu Kiel immatrikuliert ist und seinen Prüfungsanspruch für
-die jeweilige Prüfung in diesem Studiengang nicht verloren hat. Die Zulassung zu
-einer Prüfung, einschließlich der Bachelor- oder Master-Arbeit, erfordert weiterhin,
-dass die zusätzlichen Voraussetzungen der Fachprüfungsordnung und im Fall der
-Zwei-Fächer-Studiengänge zusätzlich der Zwei-Fächer-Prüfungsordnung erfüllt
-sind. Die Anwesenheit bei Vorlesungen, deren Inhalt Gegenstand einer Prüfung
-ist, muss nicht nachgewiesen werden. Studierende, die in einem anderen
-Studiengang an der Christian-Albrechts-Universität immatrikuliert sind, können bei
-Vorliegen der übrigen Voraussetzungen im Rahmen freier Kapazitäten zu
-einzelnen Prüfungen zugelassen werden.
-(7) Der Antrag auf Zulassung muss eine Erklärung enthalten, dass die Kandidatin
-oder der Kandidat den Prüfungsanspruch nicht verloren hat und sich nicht an
-einer anderen Hochschule in demselben oder einem fachlich entsprechenden
-Studiengang in einem Prüfungsverfahren befindet. Bei mündlichen Prüfungen
-muss zusätzlich eine Erklärung darüber abgegeben werden, ob die Kandidatin
-oder der Kandidat der Zulassung von Zuhörerinnen oder Zuhörern widerspricht.
-(8) Über die Zulassung entscheidet die oder der Vorsitzende des
-Prüfungsausschusses oder eine von ihr oder ihm beauftragte Person. Die
-Zulassung ist zu versagen, wenn die in Absatz 6 genannten Voraussetzungen
-nicht erfüllt sind oder der Antrag unvollständig war und trotz Aufforderung nicht
-fristgemäß vervollständigt worden ist.
+nochmaligen Besuch der zugrunde liegenden Lehrveranstaltung gebunden ist, die zweite Prüfungsmöglichkeit spätestens angeboten werden, wenn die Lehrveranstaltung erneut stattfindet. Die genauen Prüfungsmodalitäten werden zu Beginn der Lehrveranstaltung von der Dozentin oder dem Dozenten bekannt gegeben. (4) Der zuständige Prüfungsausschuss achtet darauf, dass innerhalb des eigenen Fachs mehrere Prüfungen, die gemäß Studienverlaufsplan in demselben Semester absolviert werden sollen, grundsätzlich nicht auf einen Tag und möglichst auch nicht auf zwei aufeinander folgende Tage gelegt werden. (5) Zu jeder Prüfung meldet sich die Kandidatin oder der Kandidat in dem dazugehörigen Anmeldezeitraum bei dem zuständigen Prüfungsamt an. Die Einzelheiten des Anmeldeverfahrens gibt das Prüfungsamt zu Beginn der Vorlesungszeit in geeigneter Weise bekannt. (6) Zugelassen wird nur, wer in dem betreffenden Studiengang an der ChristianAlbrechts-Universität zu Kiel immatrikuliert ist und seinen Prüfungsanspruch für die jeweilige Prüfung in diesem Studiengang nicht verloren hat. Die Zulassung zu einer Prüfung, einschließlich der Bachelor- oder Master-Arbeit, erfordert weiterhin, dass die zusätzlichen Voraussetzungen der Fachprüfungsordnung und im Fall der Zwei-Fächer-Studiengänge zusätzlich der Zwei-Fächer-Prüfungsordnung erfüllt sind. Die Anwesenheit bei Vorlesungen, deren Inhalt Gegenstand einer Prüfung ist, muss nicht nachgewiesen werden. Studierende, die in einem anderen Studiengang an der Christian-Albrechts-Universität immatrikuliert sind, können bei Vorliegen der übrigen Voraussetzungen im Rahmen freier Kapazitäten zu einzelnen Prüfungen zugelassen werden. (7) Der Antrag auf Zulassung muss eine Erklärung enthalten, dass die Kandidatin oder der Kandidat den Prüfungsanspruch nicht verloren hat und sich nicht an einer anderen Hochschule in demselben oder einem fachlich entsprechenden Studiengang in einem Prüfungsverfahren befindet. Bei mündlichen Prüfungen muss zusätzlich eine Erklärung darüber abgegeben werden, ob die Kandidatin oder der Kandidat der Zulassung von Zuhörerinnen oder Zuhörern widerspricht. (8) Über die Zulassung entscheidet die oder der Vorsitzende des Prüfungsausschusses oder eine von ihr oder ihm beauftragte Person. Die Zulassung ist zu versagen, wenn die in Absatz 6 genannten Voraussetzungen nicht erfüllt sind oder der Antrag unvollständig war und trotz Aufforderung nicht fristgemäß vervollständigt worden ist.
 
 Christian-Albrechts-Universität zu Kiel
 
-Dokumentation der Studien -und Prüfungsordnungen
-
 Ordnungsnummer:
 
-0-1-2.1
-
+Dokumentation der Studien -und Prüfungsordnungen
 (Keine amtliche Bekanntmachung)
 
-Prüfungsverfahrensordnung
-Bachelor und Master
+0-1-2.1 Blatt: 8 10/10
+
+Prüfungsverfahrensordnung Bachelor und Master
 Az.: 103/0-0125
 
-Blatt: 8
-10/10
-
-§9
-Modulprüfungen und Modulnoten
-(1) Durch die Modulprüfung wird festgestellt, ob die oder der Studierende die
-Lernziele des Moduls erreicht hat.
-(2) Modulprüfungen finden studienbegleitend statt und können aus einer oder
-mehreren Prüfungen bestehen.
-(3) Art und Zahl der zu erbringenden Prüfungsleistungen richten sich nach der
-Fachprüfungsordnung und im Fall der Zwei-Fächer-Studiengänge zusätzlich
-nach der Zwei-Fächer-Prüfungsordnung. Eine Klausur kann teilweise oder
-vollständig in Form eines Multiple-Choice-Verfahrens durchgeführt werden. Der
-Prüfungsausschuss kann eine Klausur in besonderen Ausnahmefällen,
-insbesondere wenn eine zeitnahe Wiederholung der Prüfung sonst nicht möglich
-wäre und eine damit verbundene Verlängerung des Studiums im Einzelfall zu
-einer unverhältnismäßigen Härte führen würde, durch eine mündliche Prüfung
-ersetzen.
-(4) Wird das Modul durch eine einzige benotete Prüfung abgeprüft, entspricht die
-Modulnote der in der Prüfung erzielten Note. Nicht benotete Module werden mit
-„bestanden“ oder „nicht bestanden“ bewertet. Setzt sich die Modulprüfung aus
-mehreren Prüfungen zusammen, errechnet sich die Modulnote aus dem
-gewichteten arithmetischen Mittel der erzielten Noten. Die Art der Gewichtung
-wird in der Fachprüfungsordnung festgelegt. Wird keine Regelung getroffen, wird
-das arithmetische Mittel gebildet. Wird eine Prüfung von mehreren Prüferinnen
-oder Prüfern gemeinsam konzipiert, wird die Note nach den Vorgaben in § 13
-Abs. 2 und 3 gemeinsam festgelegt.
-(5) Hat die Kandidatin oder der Kandidat mehr als die nach dem Studienplan
-erforderliche Anzahl von Prüfungsleistungen erbracht, werden für den Abschluss
-des Moduls und die Bildung der Modulnote diejenigen erforderlichen
-Prüfungsleistungen herangezogen, in denen die besten Noten erzielt wurden.
-Die Fachprüfungsordnungen können abweichende Regelungen treffen.
-(6) Aus mehreren Modulnoten kann eine Bereichsnote gebildet werden. Absatz 4
-Sätze 5 und 6 gelten entsprechend.
-(7) Unmittelbar vor der Erbringung einer Prüfungsleistung muss die Kandidatin oder
-der Kandidat eine Erklärung über ihre oder seine Prüfungsfähigkeit abgeben.
-Besteht die Prüfungsleistung in einer Haus-, Seminar-, Bachelor-, Master- oder
-einer vergleichbaren Arbeit, so hat die Kandidatin oder der Kandidat bei der
-Abgabe schriftlich zu versichern, dass sie oder er die Arbeit selbständig verfasst
-und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt und die
-Arbeit in keinem anderen Prüfungsverfahren eingereicht hat.
+§9 Modulprüfungen und Modulnoten (1) Durch die Modulprüfung wird festgestellt, ob die oder der Studierende die Lernziele des Moduls erreicht hat. (2) Modulprüfungen finden studienbegleitend statt und können aus einer oder mehreren Prüfungen bestehen. (3) Art und Zahl der zu erbringenden Prüfungsleistungen richten sich nach der Fachprüfungsordnung und im Fall der Zwei-Fächer-Studiengänge zusätzlich nach der Zwei-Fächer-Prüfungsordnung. Eine Klausur kann teilweise oder vollständig in Form eines Multiple-Choice-Verfahrens durchgeführt werden. Der Prüfungsausschuss kann eine Klausur in besonderen Ausnahmefällen, insbesondere wenn eine zeitnahe Wiederholung der Prüfung sonst nicht möglich wäre und eine damit verbundene Verlängerung des Studiums im Einzelfall zu einer unverhältnismäßigen Härte führen würde, durch eine mündliche Prüfung ersetzen. (4) Wird das Modul durch eine einzige benotete Prüfung abgeprüft, entspricht die Modulnote der in der Prüfung erzielten Note. Nicht benotete Module werden mit „bestanden“ oder „nicht bestanden“ bewertet. Setzt sich die Modulprüfung aus mehreren Prüfungen zusammen, errechnet sich die Modulnote aus dem gewichteten arithmetischen Mittel der erzielten Noten. Die Art der Gewichtung wird in der Fachprüfungsordnung festgelegt. Wird keine Regelung getroffen, wird das arithmetische Mittel gebildet. Wird eine Prüfung von mehreren Prüferinnen oder Prüfern gemeinsam konzipiert, wird die Note nach den Vorgaben in § 13 Abs. 2 und 3 gemeinsam festgelegt. (5) Hat die Kandidatin oder der Kandidat mehr als die nach dem Studienplan erforderliche Anzahl von Prüfungsleistungen erbracht, werden für den Abschluss des Moduls und die Bildung der Modulnote diejenigen erforderlichen Prüfungsleistungen herangezogen, in denen die besten Noten erzielt wurden. Die Fachprüfungsordnungen können abweichende Regelungen treffen. (6) Aus mehreren Modulnoten kann eine Bereichsnote gebildet werden. Absatz 4 Sätze 5 und 6 gelten entsprechend. (7) Unmittelbar vor der Erbringung einer Prüfungsleistung muss die Kandidatin oder der Kandidat eine Erklärung über ihre oder seine Prüfungsfähigkeit abgeben. Besteht die Prüfungsleistung in einer Haus-, Seminar-, Bachelor-, Master- oder einer vergleichbaren Arbeit, so hat die Kandidatin oder der Kandidat bei der Abgabe schriftlich zu versichern, dass sie oder er die Arbeit selbständig verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt und die Arbeit in keinem anderen Prüfungsverfahren eingereicht hat.
 
 Christian-Albrechts-Universität zu Kiel
 
-Dokumentation der Studien -und Prüfungsordnungen
-
 Ordnungsnummer:
 
-0-1-2.1
-
+Dokumentation der Studien -und Prüfungsordnungen
 (Keine amtliche Bekanntmachung)
 
-Prüfungsverfahrensordnung
-Bachelor und Master
+0-1-2.1 Blatt: 9 10/10
+
+Prüfungsverfahrensordnung Bachelor und Master
 Az.: 103/0-0125
 
-Blatt: 9
-10/10
+(8) Eine Modulprüfung ist erfolgreich abgelegt, wenn sie mindestens mit der Note „ausreichend“ (4,0) oder „bestanden“ bewertet wird. Modulprüfungen, die aus mehreren Prüfungen bestehen, sind bestanden, wenn jede einzelne erforderliche Prüfungsleistung bestanden ist. (9) Sind alle für das Modul erforderlichen Prüfungsleistungen erfolgreich erbracht worden, werden die dem Modul zugeordneten Leistungspunkte gutgeschrieben. (10) Über den Verlauf einer mündlichen Prüfung hat eine Prüferin oder ein Prüfer oder eine sachkundige Beisitzerin oder ein sachkundiger Beisitzer eine Niederschrift anzufertigen. Die Niederschrift muss mindestens enthalten: 1. die Formalien der mündlichen Prüfung (Name der Kandidatin oder des Kandidaten, Prüfungsfach, Prüfungstag, Anfangs- und Endzeitpunkt der mündlichen Prüfung), 2. die Gegenstände der Prüfung, 3. die Ergebnisse in den einzelnen Prüfungsfächern und gegebenenfalls das Gesamtergebnis der mündlichen Prüfung, 4. etwaige Unregelmäßigkeiten im Prüfungsverlauf. Die Niederschrift ist von allen beteiligten Prüferinnen oder Prüfern und, sofern eine sachkundige Beisitzerin oder ein sachkundiger Beisitzer bestellt worden ist, auch von dieser oder diesem zu unterschreiben. (11) Bei der mündlichen Prüfung können Studierende, die sich in absehbarer Zeit der gleichen Prüfung unterziehen wollen, als Zuhörerinnen oder Zuhörer zugelassen werden, sofern die Kandidatin oder der Kandidat bei der Meldung zur Prüfung nicht widersprochen hat oder sich die Öffentlichkeit nicht wegen der besonderen Eigenart der Prüfung verbietet. Beratung und Bekanntgabe der Prüfungsergebnisse sind nicht öffentlich.
 
-(8) Eine Modulprüfung ist erfolgreich abgelegt, wenn sie mindestens mit der Note
-„ausreichend“ (4,0) oder „bestanden“ bewertet wird. Modulprüfungen, die aus
-mehreren Prüfungen bestehen, sind bestanden, wenn jede einzelne
-erforderliche Prüfungsleistung bestanden ist.
-(9) Sind alle für das Modul erforderlichen Prüfungsleistungen erfolgreich erbracht
-worden, werden die dem Modul zugeordneten Leistungspunkte gutgeschrieben.
-(10) Über den Verlauf einer mündlichen Prüfung hat eine Prüferin oder ein Prüfer
-oder eine sachkundige Beisitzerin oder ein sachkundiger Beisitzer eine
-Niederschrift anzufertigen. Die Niederschrift muss mindestens enthalten:
-1. die Formalien der mündlichen Prüfung (Name der Kandidatin oder des
-Kandidaten, Prüfungsfach, Prüfungstag, Anfangs- und Endzeitpunkt der
-mündlichen Prüfung),
-2. die Gegenstände der Prüfung,
-3. die Ergebnisse in den einzelnen Prüfungsfächern und gegebenenfalls das
-Gesamtergebnis der mündlichen Prüfung,
-4. etwaige Unregelmäßigkeiten im Prüfungsverlauf.
-Die Niederschrift ist von allen beteiligten Prüferinnen oder Prüfern und, sofern
-eine sachkundige Beisitzerin oder ein sachkundiger Beisitzer bestellt worden ist,
-auch von dieser oder diesem zu unterschreiben.
-(11) Bei der mündlichen Prüfung können Studierende, die sich in absehbarer Zeit der
-gleichen Prüfung unterziehen wollen, als Zuhörerinnen oder Zuhörer zugelassen
-werden, sofern die Kandidatin oder der Kandidat bei der Meldung zur Prüfung
-nicht widersprochen hat oder sich die Öffentlichkeit nicht wegen der besonderen
-Eigenart der Prüfung verbietet. Beratung und Bekanntgabe der
-Prüfungsergebnisse sind nicht öffentlich.
-
-§ 10
-Wiederholung und endgültiges Nichtbestehen von Modulprüfungen
-(1) Nicht bestandene Prüfungen können zweimal wiederholt werden. In besonderen
-Härtefällen kann der Prüfungsausschuss auf Antrag, der innerhalb eines Monats
-nach Zugang des Bescheids über das endgültige Nichtbestehen der Bacheloroder Master-Prüfung zu stellen ist, eine weitere Wiederholung genehmigen.
-(2) Bestandene Prüfungen können nicht wiederholt werden.
-(3) Eine Modulprüfung ist endgültig nicht bestanden, wenn eine der erforderlichen
-Prüfungen auch in der letzten Wiederholung mit „nicht ausreichend“ (ab 4,1) oder
-„nicht bestanden“ bewertet wurde oder als bewertet gilt.
+§ 10 Wiederholung und endgültiges Nichtbestehen von Modulprüfungen (1) Nicht bestandene Prüfungen können zweimal wiederholt werden. In besonderen Härtefällen kann der Prüfungsausschuss auf Antrag, der innerhalb eines Monats nach Zugang des Bescheids über das endgültige Nichtbestehen der Bacheloroder Master-Prüfung zu stellen ist, eine weitere Wiederholung genehmigen. (2) Bestandene Prüfungen können nicht wiederholt werden. (3) Eine Modulprüfung ist endgültig nicht bestanden, wenn eine der erforderlichen Prüfungen auch in der letzten Wiederholung mit „nicht ausreichend“ (ab 4,1) oder „nicht bestanden“ bewertet wurde oder als bewertet gilt.
 
 Christian-Albrechts-Universität zu Kiel
 
-Dokumentation der Studien -und Prüfungsordnungen
-
 Ordnungsnummer:
 
-0-1-2.1
-
+Dokumentation der Studien -und Prüfungsordnungen
 (Keine amtliche Bekanntmachung)
 
-Prüfungsverfahrensordnung
-Bachelor und Master
+0-1-2.1 Blatt: 10 10/10
+
+Prüfungsverfahrensordnung Bachelor und Master
 Az.: 103/0-0125
 
-Blatt: 10
-10/10
-
-§ 11
-Bachelor- und Master-Arbeit
-(1) Die Bachelor- oder Master-Arbeit soll zeigen, dass die Kandidatin oder der
-Kandidat die Ziele und Anforderungen des gewählten Studiengangs erreicht hat
-und in der Lage ist, innerhalb einer in der Fachprüfungsordnung oder im Fall der
-Zwei-Fächer-Studiengänge in der Zwei-Fächer-Prüfungsordnung vorgegebenen
-Frist ein den Studienzielen entsprechendes wissenschaftliches oder
-künstlerisches Problem aus ihrem oder seinem Fach selbständig unter Anleitung
-einer Betreuerin oder eines Betreuers zu bearbeiten und die Ergebnisse gemäß
-den wissenschaftlichen Gepflogenheiten des Fachs darzustellen. Das Nähere
-regeln die ergänzenden Prüfungsordnungen gemäß § 1 Satz 2.
-(2) Der Antrag auf Zulassung zur Bachelor- und Master-Arbeit ist schriftlich und mit
-Unterschrift der Erstgutachterin oder des Erstgutachters bei dem Prüfungsamt zu
-stellen. Das Thema der Bachelor- oder Master-Arbeit wird von der vorgesehenen
-Betreuerin oder dem vorgesehenen Betreuer festgelegt und dem
-Prüfungsausschuss mitgeteilt. Findet die Kandidatin oder der Kandidat keine
-Betreuerin und keinen Betreuer, sorgt die oder der Vorsitzende des
-Prüfungsausschusses dafür, dass der Kandidatin oder dem Kandidaten ein
-Thema und eine Betreuerin oder ein Betreuer für die Arbeit zugewiesen wird.
-(3) Die Ausgabe des Themas erfolgt über die Vorsitzende oder den Vorsitzenden des
-Prüfungsausschusses; das Thema und das Ausgabedatum sind aktenkundig zu
-machen.
-Die Fachprüfungsordnung kann vorsehen, dass die Prüfungskandidatin oder der
-Prüfungskandidat für die Arbeit Gutachterinnen oder Gutachter und ein Thema
-vorschlagen kann, ohne dass dadurch ein Anspruch auf Berücksichtigung des
-Vorschlags begründet wird. Mit der Ausgabe des Themas bestellt die oder der
-Vorsitzende des Prüfungsausschusses zwei Gutachterinnen bzw. Gutachter.
-Die Erstgutachterin oder der Erstgutachter muss
-- im Fall der Master-Arbeit eine Hochschullehrerin oder ein Hochschullehrer
-oder eine Privatdozentin oder ein Privatdozent und
-- im Fall der Bachelor-Arbeit mindestens eine Promovierte oder ein
-Promovierter sein.
-Die Zweitgutachterin oder der Zweitgutachter muss gemäß § 4 Abs. 2
-prüfungsberechtigt sein.
-Die Gutachterinnen oder Gutachter sind grundsätzlich Mitglieder der zuständigen
-Fakultät. Sofern triftige Gründe vorliegen, kann der Prüfungsausschuss bei der
-Bestellung einer der Gutachterinnen oder Gutachter von dem Erfordernis der
-Fakultätszugehörigkeit absehen. Die Betreuung der Arbeit erfolgt durch die
-Erstgutachterin oder den Erstgutachter, sofern die Fachprüfungsordnung nichts
-anderes vorsieht. Die Arbeit darf mit Zustimmung der Betreuerin oder des
-Betreuers in einer Einrichtung innerhalb oder außerhalb der Christian-Albrechts-
+§ 11 Bachelor- und Master-Arbeit (1) Die Bachelor- oder Master-Arbeit soll zeigen, dass die Kandidatin oder der Kandidat die Ziele und Anforderungen des gewählten Studiengangs erreicht hat und in der Lage ist, innerhalb einer in der Fachprüfungsordnung oder im Fall der Zwei-Fächer-Studiengänge in der Zwei-Fächer-Prüfungsordnung vorgegebenen Frist ein den Studienzielen entsprechendes wissenschaftliches oder künstlerisches Problem aus ihrem oder seinem Fach selbständig unter Anleitung einer Betreuerin oder eines Betreuers zu bearbeiten und die Ergebnisse gemäß den wissenschaftlichen Gepflogenheiten des Fachs darzustellen. Das Nähere regeln die ergänzenden Prüfungsordnungen gemäß § 1 Satz 2. (2) Der Antrag auf Zulassung zur Bachelor- und Master-Arbeit ist schriftlich und mit Unterschrift der Erstgutachterin oder des Erstgutachters bei dem Prüfungsamt zu stellen. Das Thema der Bachelor- oder Master-Arbeit wird von der vorgesehenen Betreuerin oder dem vorgesehenen Betreuer festgelegt und dem Prüfungsausschuss mitgeteilt. Findet die Kandidatin oder der Kandidat keine Betreuerin und keinen Betreuer, sorgt die oder der Vorsitzende des Prüfungsausschusses dafür, dass der Kandidatin oder dem Kandidaten ein Thema und eine Betreuerin oder ein Betreuer für die Arbeit zugewiesen wird. (3) Die Ausgabe des Themas erfolgt über die Vorsitzende oder den Vorsitzenden des Prüfungsausschusses; das Thema und das Ausgabedatum sind aktenkundig zu machen. Die Fachprüfungsordnung kann vorsehen, dass die Prüfungskandidatin oder der Prüfungskandidat für die Arbeit Gutachterinnen oder Gutachter und ein Thema vorschlagen kann, ohne dass dadurch ein Anspruch auf Berücksichtigung des Vorschlags begründet wird. Mit der Ausgabe des Themas bestellt die oder der Vorsitzende des Prüfungsausschusses zwei Gutachterinnen bzw. Gutachter. Die Erstgutachterin oder der Erstgutachter muss - im Fall der Master-Arbeit eine Hochschullehrerin oder ein Hochschullehrer oder eine Privatdozentin oder ein Privatdozent und - im Fall der Bachelor-Arbeit mindestens eine Promovierte oder ein Promovierter sein. Die Zweitgutachterin oder der Zweitgutachter muss gemäß § 4 Abs. 2 prüfungsberechtigt sein. Die Gutachterinnen oder Gutachter sind grundsätzlich Mitglieder der zuständigen Fakultät. Sofern triftige Gründe vorliegen, kann der Prüfungsausschuss bei der Bestellung einer der Gutachterinnen oder Gutachter von dem Erfordernis der Fakultätszugehörigkeit absehen. Die Betreuung der Arbeit erfolgt durch die Erstgutachterin oder den Erstgutachter, sofern die Fachprüfungsordnung nichts anderes vorsieht. Die Arbeit darf mit Zustimmung der Betreuerin oder des Betreuers in einer Einrichtung innerhalb oder außerhalb der Christian-Albrechts-
 
 Christian-Albrechts-Universität zu Kiel
 
-Dokumentation der Studien -und Prüfungsordnungen
-
 Ordnungsnummer:
 
-0-1-2.1
-
+Dokumentation der Studien -und Prüfungsordnungen
 (Keine amtliche Bekanntmachung)
 
-Prüfungsverfahrensordnung
-Bachelor und Master
+0-1-2.1 Blatt: 11 10/10
+
+Prüfungsverfahrensordnung Bachelor und Master
 Az.: 103/0-0125
 
-Blatt: 11
-10/10
-
-Universität zu Kiel durchgeführt werden, wenn dort eine entsprechend qualifizierte
-Anleitung gewährleistet ist. Näheres regelt die Fachprüfungsordnung.
-(4) Thema, Aufgabenstellung und Umfang der Arbeit sind so zu begrenzen, dass die
-Bearbeitungsfrist eingehalten werden kann. Die Fachprüfungsordnung kann den
-quantitativen Umfang der Arbeit begrenzen. Das Thema der Arbeit kann nur
-einmal und innerhalb der in der Fachprüfungsordnung oder im Fall der ZweiFächer-Studiengänge der Zwei-Fächer-Prüfungsordnung vorgesehenen Frist
-zurückgegeben werden. Die oder der Prüfungsausschussvorsitzende sorgt dafür,
-dass die Kandidatin oder der Kandidat das neue Thema spätestens drei Monate
-nach Rückgabe des ersten Themas erhält. Die oder der Vorsitzende des
-Prüfungsausschusses kann die Bearbeitungszeit auf Antrag der Kandidatin oder
-des Kandidaten im Einzelfall verlängern, wenn der Arbeit zugrunde liegende
-Daten nicht rechtzeitig erhoben werden können oder die Arbeit aus technischen
-oder sonstigen Gründen nicht rechtzeitig fertig gestellt werden kann und die
-Kandidatin oder der Kandidat dies nicht zu vertreten hat. Im Übrigen gilt § 52 Abs.
-4 des Hochschulgesetzes entsprechend. Der Verlängerungszeitraum soll die
-Hälfte der Bearbeitungszeit nicht überschreiten.
-(5) Die Fachprüfungsordnung kann vorsehen, dass die Arbeit in einer Fremdsprache
-abgefasst werden kann; diese Regelung kann dahingehend ergänzt werden, dass
-eine Zusammenfassung in deutscher Sprache beizufügen ist. Wird eine solche
-Regelung nicht in die Fachprüfungsordnung aufgenommen, ist die Anfertigung
-von Arbeiten in einer Fremdsprache nur nach Erlaubnis durch den
-Prüfungsausschuss zulässig. Die Erlaubnis kann mit der Auflage verbunden
-werden, dass eine Zusammenfassung in deutscher Sprache beizufügen ist.
-(6) Die Arbeit ist fristgemäß in zweifacher schriftlicher Ausfertigung bei dem
-zuständigen Prüfungssamt einzureichen. Die Fachprüfungsordnung kann die
-Abgabe weiterer Ausfertigungen und die Abgabe einer auf einem für die
-elektronische Datenverarbeitung geeigneten Medium gespeicherten Fassung
-verlangen. Der Abgabezeitpunkt ist aktenkundig zu machen. Zusätzlich zu der
-Erklärung nach § 9 Abs. 7 hat die Kandidatin oder der Kandidat schriftlich zu
-versichern, dass die eingereichte schriftliche Fassung der auf dem Medium
-gespeicherten Fassung entspricht.
-(7) Die Fachprüfungsordnung oder im Fall der Zwei-Fächer-Studiengänge die ZweiFächer-Prüfungsordnung legt fest, innerhalb welcher Zeit die Arbeit nach ihrer
-Abgabe zu bewerten ist. Der festgelegte Bewertungszeitraum darf sechs Wochen
-nicht überschreiten. Bei Nichteinhaltung der Frist ergreift die oder der Vorsitzende
-des Prüfungsausschusses Maßnahmen, die Nachteile für die Prüfungskandidatin
-oder den Prüfungskandidaten verhindern.
-(8) Die Note für die Arbeit ergibt sich aus dem arithmetischen Mittel der von den
-Gutachterinnen oder Gutachtern vergebenen Noten. Ist die Differenz dieser Noten
-größer als 1,0, bestellt die oder der Vorsitzende des Prüfungsausschusses eine
+Universität zu Kiel durchgeführt werden, wenn dort eine entsprechend qualifizierte Anleitung gewährleistet ist. Näheres regelt die Fachprüfungsordnung. (4) Thema, Aufgabenstellung und Umfang der Arbeit sind so zu begrenzen, dass die Bearbeitungsfrist eingehalten werden kann. Die Fachprüfungsordnung kann den quantitativen Umfang der Arbeit begrenzen. Das Thema der Arbeit kann nur einmal und innerhalb der in der Fachprüfungsordnung oder im Fall der ZweiFächer-Studiengänge der Zwei-Fächer-Prüfungsordnung vorgesehenen Frist zurückgegeben werden. Die oder der Prüfungsausschussvorsitzende sorgt dafür, dass die Kandidatin oder der Kandidat das neue Thema spätestens drei Monate nach Rückgabe des ersten Themas erhält. Die oder der Vorsitzende des Prüfungsausschusses kann die Bearbeitungszeit auf Antrag der Kandidatin oder des Kandidaten im Einzelfall verlängern, wenn der Arbeit zugrunde liegende Daten nicht rechtzeitig erhoben werden können oder die Arbeit aus technischen oder sonstigen Gründen nicht rechtzeitig fertig gestellt werden kann und die Kandidatin oder der Kandidat dies nicht zu vertreten hat. Im Übrigen gilt § 52 Abs. 4 des Hochschulgesetzes entsprechend. Der Verlängerungszeitraum soll die Hälfte der Bearbeitungszeit nicht überschreiten. (5) Die Fachprüfungsordnung kann vorsehen, dass die Arbeit in einer Fremdsprache abgefasst werden kann; diese Regelung kann dahingehend ergänzt werden, dass eine Zusammenfassung in deutscher Sprache beizufügen ist. Wird eine solche Regelung nicht in die Fachprüfungsordnung aufgenommen, ist die Anfertigung von Arbeiten in einer Fremdsprache nur nach Erlaubnis durch den Prüfungsausschuss zulässig. Die Erlaubnis kann mit der Auflage verbunden werden, dass eine Zusammenfassung in deutscher Sprache beizufügen ist. (6) Die Arbeit ist fristgemäß in zweifacher schriftlicher Ausfertigung bei dem zuständigen Prüfungssamt einzureichen. Die Fachprüfungsordnung kann die Abgabe weiterer Ausfertigungen und die Abgabe einer auf einem für die elektronische Datenverarbeitung geeigneten Medium gespeicherten Fassung verlangen. Der Abgabezeitpunkt ist aktenkundig zu machen. Zusätzlich zu der Erklärung nach § 9 Abs. 7 hat die Kandidatin oder der Kandidat schriftlich zu versichern, dass die eingereichte schriftliche Fassung der auf dem Medium gespeicherten Fassung entspricht. (7) Die Fachprüfungsordnung oder im Fall der Zwei-Fächer-Studiengänge die ZweiFächer-Prüfungsordnung legt fest, innerhalb welcher Zeit die Arbeit nach ihrer Abgabe zu bewerten ist. Der festgelegte Bewertungszeitraum darf sechs Wochen nicht überschreiten. Bei Nichteinhaltung der Frist ergreift die oder der Vorsitzende des Prüfungsausschusses Maßnahmen, die Nachteile für die Prüfungskandidatin oder den Prüfungskandidaten verhindern. (8) Die Note für die Arbeit ergibt sich aus dem arithmetischen Mittel der von den Gutachterinnen oder Gutachtern vergebenen Noten. Ist die Differenz dieser Noten größer als 1,0, bestellt die oder der Vorsitzende des Prüfungsausschusses eine
 
 Christian-Albrechts-Universität zu Kiel
 
-Dokumentation der Studien -und Prüfungsordnungen
-
 Ordnungsnummer:
 
-0-1-2.1
-
+Dokumentation der Studien -und Prüfungsordnungen
 (Keine amtliche Bekanntmachung)
 
-Prüfungsverfahrensordnung
-Bachelor und Master
+0-1-2.1 Blatt: 12 10/10
+
+Prüfungsverfahrensordnung Bachelor und Master
 Az.: 103/0-0125
 
-Blatt: 12
-10/10
+dritte Gutachterin oder einen dritten Gutachter. Die Note der dritten Gutachterin oder des dritten Gutachters gibt den Ausschlag. Die Fachprüfungsordnung kann eine andere Regelung vorsehen. (9) Die nicht bestandene Arbeit kann einmal wiederholt werden. Das neue Thema der Arbeit wird in angemessener Frist, in der Regel innerhalb von drei Monaten nach Bewertung der ersten Arbeit, ausgegeben. Eine Rückgabe des Themas bei der Wiederholung der Arbeit ist nur zulässig, wenn von dieser Möglichkeit bei der ersten Arbeit kein Gebrauch gemacht worden ist. § 12 Nachteilsausgleich für Studierende mit Handicap (1) Macht eine Kandidatin oder ein Kandidat glaubhaft, dass sie oder er wegen einer chronischen Krankheit oder einer Behinderung nicht in der Lage ist, die Prüfung ganz oder teilweise in der vorgesehenen Form oder innerhalb der in dieser Ordnung genannten Prüfungsfristen abzulegen, kann die oder der Vorsitzende des Prüfungsausschusses die Bearbeitungszeit für Prüfungsleistungen oder die Fristen für das Ablegen von Prüfungen verlängern oder gleichwertige Prüfungen in einer bedarfsgerechten Form gestatten. Entsprechendes gilt für Studienleistungen. Spezielle Regelungen für das Fach Sport sind in der Fachprüfungsordnung enthalten. (2) Bei Entscheidungen der oder des Prüfungsausschussvorsitzenden nach Absatz 1 kann die oder der Beauftragte für Studierende mit Handicap der Universität beteiligt werden. (3) Zur Glaubhaftmachung einer chronischen Krankheit oder einer Behinderung ist ein geeigneter Nachweis zu erbringen.
 
-dritte Gutachterin oder einen dritten Gutachter. Die Note der dritten Gutachterin
-oder des dritten Gutachters gibt den Ausschlag. Die Fachprüfungsordnung kann
-eine andere Regelung vorsehen.
-(9) Die nicht bestandene Arbeit kann einmal wiederholt werden. Das neue Thema der
-Arbeit wird in angemessener Frist, in der Regel innerhalb von drei Monaten nach
-Bewertung der ersten Arbeit, ausgegeben. Eine Rückgabe des Themas bei der
-Wiederholung der Arbeit ist nur zulässig, wenn von dieser Möglichkeit bei der
-ersten Arbeit kein Gebrauch gemacht worden ist.
-§ 12
-Nachteilsausgleich für Studierende mit Handicap
-(1) Macht eine Kandidatin oder ein Kandidat glaubhaft, dass sie oder er wegen einer
-chronischen Krankheit oder einer Behinderung nicht in der Lage ist, die Prüfung
-ganz oder teilweise in der vorgesehenen Form oder innerhalb der in dieser
-Ordnung genannten Prüfungsfristen abzulegen, kann die oder der Vorsitzende
-des Prüfungsausschusses die Bearbeitungszeit für Prüfungsleistungen oder die
-Fristen für das Ablegen von Prüfungen verlängern oder gleichwertige Prüfungen
-in einer bedarfsgerechten Form gestatten. Entsprechendes gilt für
-Studienleistungen. Spezielle Regelungen für das Fach Sport sind in der
-Fachprüfungsordnung enthalten.
-(2) Bei Entscheidungen der oder des Prüfungsausschussvorsitzenden nach Absatz 1
-kann die oder der Beauftragte für Studierende mit Handicap der Universität
-beteiligt werden.
-(3) Zur Glaubhaftmachung einer chronischen Krankheit oder einer Behinderung ist
-ein geeigneter Nachweis zu erbringen.
-
-§ 13
-Bewertung von Prüfungsleistungen
-(1) Schriftliche Prüfungen können von einer Prüferin oder einem Prüfer bewertet
-werden. Gleiches gilt für mündliche und fachpraktische Einzel- oder
-Gruppenprüfungen, sofern sie in einem Lehrveranstaltungstermin in Form eines
-Referates, einer praktischen Aufgabe oder eines vergleichbaren Beitrags vor den
-übrigen Teilnehmerinnen und Teilnehmern an der Lehrveranstaltung
-abgenommen werden. Sonstige mündliche Einzel- oder Gruppenprüfungen
-werden von zwei Prüferinnen oder Prüfern oder einer Prüferin oder einem Prüfer
-in Anwesenheit einer sachkundigen Beisitzerin oder eines sachkundigen
-Beisitzers abgenommen. Letztmögliche Wiederholungsprüfungen werden von
-zwei Prüferinnen oder Prüfern bewertet.
+§ 13 Bewertung von Prüfungsleistungen (1) Schriftliche Prüfungen können von einer Prüferin oder einem Prüfer bewertet werden. Gleiches gilt für mündliche und fachpraktische Einzel- oder Gruppenprüfungen, sofern sie in einem Lehrveranstaltungstermin in Form eines Referates, einer praktischen Aufgabe oder eines vergleichbaren Beitrags vor den übrigen Teilnehmerinnen und Teilnehmern an der Lehrveranstaltung abgenommen werden. Sonstige mündliche Einzel- oder Gruppenprüfungen werden von zwei Prüferinnen oder Prüfern oder einer Prüferin oder einem Prüfer in Anwesenheit einer sachkundigen Beisitzerin oder eines sachkundigen Beisitzers abgenommen. Letztmögliche Wiederholungsprüfungen werden von zwei Prüferinnen oder Prüfern bewertet.
 
 Christian-Albrechts-Universität zu Kiel
 
-Dokumentation der Studien -und Prüfungsordnungen
-
 Ordnungsnummer:
 
-0-1-2.1
-
+Dokumentation der Studien -und Prüfungsordnungen
 (Keine amtliche Bekanntmachung)
 
-Prüfungsverfahrensordnung
-Bachelor und Master
+0-1-2.1 Blatt: 13 10/10
 
-Blatt: 13
-10/10
-
+Prüfungsverfahrensordnung Bachelor und Master
 Az.: 103/0-0125
 
-(2) Für die Benotung der im Rahmen der Bachelor- und Master-Studiengänge
-erbrachten Prüfungsleistungen sind folgende Noten zu verwenden:
-1 = Sehr gut
-
-= eine hervorragende Leistung
-
-2 = Gut
-
-= eine
-Leistung,
-die
-erheblich
-durchschnittlichen Anforderungen liegt
-
-3 = Befriedigend
-
-= eine
-Leistung,
-die
-den
-Anforderungen entspricht
-
-4 = Ausreichend
-
-= eine Leistung, die trotz ihrer Mängel noch den
-Anforderungen genügt
-
-5 = Nicht ausreichend
-
-= eine Leistung, die wegen erheblicher Mängel den
-Anforderung nicht mehr genügt.
-
-über
-
-den
+(2) Für die Benotung der im Rahmen der Bachelor- und Master-Studiengänge erbrachten Prüfungsleistungen sind folgende Noten zu verwenden: 1 = Sehr gut 2 = Gut 3 = Befriedigend 4 = Ausreichend 5 = Nicht ausreichend = eine hervorragende Leistung = eine Leistung, die erheblich durchschnittlichen Anforderungen liegt = eine Leistung, die den Anforderungen entspricht über den
 
 durchschnittlichen
 
-(3) Zur differenzierten Bewertung der Prüfungsleistungen können einzelne Noten um
-0,3 auf Zwischenwerte erhöht oder erniedrigt werden; die Noten 0,7; 4,3; 4,7 und
-5,3 sind dabei ausgeschlossen.
-(4) Ergibt sich die Modulnote aus dem Mittel mehrerer Einzelnoten, wird nur die erste
-Dezimalstelle hinter dem Komma berücksichtigt; alle weiteren Stellen werden
-ohne Rundung gestrichen. Die Note lautet:
-bis 1,5
+= eine Leistung, die trotz ihrer Mängel noch den Anforderungen genügt = eine Leistung, die wegen erheblicher Mängel den Anforderung nicht mehr genügt.
 
-=
+(3) Zur differenzierten Bewertung der Prüfungsleistungen können einzelne Noten um 0,3 auf Zwischenwerte erhöht oder erniedrigt werden; die Noten 0,7; 4,3; 4,7 und 5,3 sind dabei ausgeschlossen. (4) Ergibt sich die Modulnote aus dem Mittel mehrerer Einzelnoten, wird nur die erste Dezimalstelle hinter dem Komma berücksichtigt; alle weiteren Stellen werden ohne Rundung gestrichen. Die Note lautet: bis 1,5 von 1,6 bis einschließlich 2,5 von 2,6 bis einschließlich 3,5 von 3,6 bis einschließlich 4,0 ab 4,1 = = = = = Sehr gut Gut Befriedigend Ausreichend Nicht ausreichend.
 
-Sehr gut
-
-von 1,6 bis einschließlich 2,5
-
-=
-
-Gut
-
-von 2,6 bis einschließlich 3,5
-
-=
-
-Befriedigend
-
-von 3,6 bis einschließlich 4,0
-
-=
-
-Ausreichend
-
-ab 4,1
-
-=
-
-Nicht ausreichend.
-
-(5) Für Noten, die aus mehreren Modulnoten gebildet werden, gilt Absatz 4
-entsprechend.
-(6) Die Gesamtnote wird durch eine ECTS-Note ergänzt. Grundlage für die
-Zuordnung der ECTS-Note zu einer konkreten Gesamtnote ist eine
-Vergleichsgruppe aus den Gesamtnoten, die im Kalenderjahr vor der Festlegung
-der konkreten Gesamtnote erzielt wurden. Werden auf diese Weise nicht die
-Gesamtnoten von mindestens 50 Absolventinnen oder Absolventen erfasst, sind
-weitere Jahrgänge in die Berechnung einzubeziehen. Eine Absolventin oder ein
-Absolvent erhält
--
-
-die Note A, wenn weniger als 10 % der Absolventinnen und Absolventen eine
-bessere Gesamtnote haben,
-die Note B, wenn mindestens 10 %, aber weniger als 35% der Absolventinnen
-und Absolventen eine bessere Gesamtnote haben,
+(5) Für Noten, die aus mehreren Modulnoten gebildet werden, gilt Absatz 4 entsprechend. (6) Die Gesamtnote wird durch eine ECTS-Note ergänzt. Grundlage für die Zuordnung der ECTS-Note zu einer konkreten Gesamtnote ist eine Vergleichsgruppe aus den Gesamtnoten, die im Kalenderjahr vor der Festlegung der konkreten Gesamtnote erzielt wurden. Werden auf diese Weise nicht die Gesamtnoten von mindestens 50 Absolventinnen oder Absolventen erfasst, sind weitere Jahrgänge in die Berechnung einzubeziehen. Eine Absolventin oder ein Absolvent erhält die Note A, wenn weniger als 10 % der Absolventinnen und Absolventen eine bessere Gesamtnote haben, die Note B, wenn mindestens 10 %, aber weniger als 35% der Absolventinnen und Absolventen eine bessere Gesamtnote haben,
 
 Christian-Albrechts-Universität zu Kiel
 
-Dokumentation der Studien -und Prüfungsordnungen
-
 Ordnungsnummer:
 
-0-1-2.1
-
+Dokumentation der Studien -und Prüfungsordnungen
 (Keine amtliche Bekanntmachung)
 
-Prüfungsverfahrensordnung
-Bachelor und Master
+0-1-2.1 Blatt: 14 10/10
+
+Prüfungsverfahrensordnung Bachelor und Master
 Az.: 103/0-0125
 
 -
 
-Blatt: 14
-10/10
+die Note C, wenn mindestens 35 %, aber weniger als 65% der Absolventinnen und Absolventen eine bessere Gesamtnote haben, die Note D, wenn mindestens 65 %, aber weniger als 90 % der Absolventinnen und Absolventen eine bessere Gesamtnote haben, die Note E, wenn mindestens 90 % der Absolventinnen und Absolventen eine bessere Gesamtnote haben.
 
-die Note C, wenn mindestens 35 %, aber weniger als 65% der Absolventinnen
-und Absolventen eine bessere Gesamtnote haben,
-die Note D, wenn mindestens 65 %, aber weniger als 90 % der
-Absolventinnen und Absolventen eine bessere Gesamtnote haben,
-die Note E, wenn mindestens 90 % der Absolventinnen und Absolventen eine
-bessere Gesamtnote haben.
-
-(7) Die Bewertung einer schriftlichen Prüfungsleistung ist innerhalb der in der
-Fachprüfungsordnung festgelegten Frist, spätestens jedoch sechs Wochen nach
-Erbringung der Prüfungsleistung bekannt zu geben. Die Prüfungsergebnisse sind
-rechtzeitig vor der nächsten Wiederholungsmöglichkeit bekannt zu geben. Die
-Ergebnisse einer mündlichen Prüfung sind der Kandidatin oder dem Kandidaten
-im Anschluss an die Prüfung mitzuteilen. Bei Nichteinhaltung der Frist ergreift die
-oder der Vorsitzende des Prüfungsausschusses Maßnahmen, die Nachteile für
-die Kandidatin oder den Kandidaten verhindern.
-§ 14
-Bestehen der Bachelor- oder Master-Prüfung und Bildung der Gesamtnote
-(1) Die Bachelor- oder Master-Prüfung ist bestanden, wenn alle nach der
-Fachprüfungsordnung und im Fall der Zwei-Fächer-Studiengänge zusätzlich der
-Zwei-Fächer-Prüfungsordnung erforderlichen Modulprüfungen und die Arbeit
-bestanden wurden und damit die erforderliche Anzahl von Leistungspunkten
-erworben wurde.
-(2) Die Fachprüfungsordnungen und im Fall der Zwei-Fächer-Studiengänge
-zusätzlich die Zwei-Fächer-Prüfungsordnung bestimmen, welche Noten in die
-Gesamtnote eingehen, und wie sie gewichtet werden. Dabei müssen den
-Modulen, in deren Rahmen die betreffenden Noten erzielt wurden, zusammen
-mindestens zwei Drittel der Leistungspunkte zugeordnet sein. Modulprüfungen,
-die nicht benotet, sondern nur mit „bestanden“ bewertet sind, gehen nicht in die
-Gesamtnote ein. Die Bildung des gewichteten Mittels wird entsprechend
-angepasst. Erfolgt bei der Bildung der Gesamtnote eine Wichtung nach
-Leistungspunkten, werden Bereichsnoten mit der Punktzahl gewichtet, die dem
-Bereich nach der jeweiligen Prüfungsordnung zugeordnet ist. Darüber hinaus
-erworbene Leistungspunkte bleiben unberücksichtigt.
-(3) Hat eine Kandidatin oder ein Kandidat aus einem Angebot von mehreren
-Wahlpflichtmodulen mehr als die nach dem Studienplan erforderliche Anzahl
-absolviert, werden als für die Berechnung des Studienvolumens und die Bildung
-der Gesamtnote erforderliche Module diejenigen herangezogen, in denen die
-besten Noten erzielt wurden. Die Fachprüfungsordnungen können abweichende
-Regelungen treffen.
+(7) Die Bewertung einer schriftlichen Prüfungsleistung ist innerhalb der in der Fachprüfungsordnung festgelegten Frist, spätestens jedoch sechs Wochen nach Erbringung der Prüfungsleistung bekannt zu geben. Die Prüfungsergebnisse sind rechtzeitig vor der nächsten Wiederholungsmöglichkeit bekannt zu geben. Die Ergebnisse einer mündlichen Prüfung sind der Kandidatin oder dem Kandidaten im Anschluss an die Prüfung mitzuteilen. Bei Nichteinhaltung der Frist ergreift die oder der Vorsitzende des Prüfungsausschusses Maßnahmen, die Nachteile für die Kandidatin oder den Kandidaten verhindern. § 14 Bestehen der Bachelor- oder Master-Prüfung und Bildung der Gesamtnote (1) Die Bachelor- oder Master-Prüfung ist bestanden, wenn alle nach der Fachprüfungsordnung und im Fall der Zwei-Fächer-Studiengänge zusätzlich der Zwei-Fächer-Prüfungsordnung erforderlichen Modulprüfungen und die Arbeit bestanden wurden und damit die erforderliche Anzahl von Leistungspunkten erworben wurde. (2) Die Fachprüfungsordnungen und im Fall der Zwei-Fächer-Studiengänge zusätzlich die Zwei-Fächer-Prüfungsordnung bestimmen, welche Noten in die Gesamtnote eingehen, und wie sie gewichtet werden. Dabei müssen den Modulen, in deren Rahmen die betreffenden Noten erzielt wurden, zusammen mindestens zwei Drittel der Leistungspunkte zugeordnet sein. Modulprüfungen, die nicht benotet, sondern nur mit „bestanden“ bewertet sind, gehen nicht in die Gesamtnote ein. Die Bildung des gewichteten Mittels wird entsprechend angepasst. Erfolgt bei der Bildung der Gesamtnote eine Wichtung nach Leistungspunkten, werden Bereichsnoten mit der Punktzahl gewichtet, die dem Bereich nach der jeweiligen Prüfungsordnung zugeordnet ist. Darüber hinaus erworbene Leistungspunkte bleiben unberücksichtigt. (3) Hat eine Kandidatin oder ein Kandidat aus einem Angebot von mehreren Wahlpflichtmodulen mehr als die nach dem Studienplan erforderliche Anzahl absolviert, werden als für die Berechnung des Studienvolumens und die Bildung der Gesamtnote erforderliche Module diejenigen herangezogen, in denen die besten Noten erzielt wurden. Die Fachprüfungsordnungen können abweichende Regelungen treffen.
 
 Christian-Albrechts-Universität zu Kiel
 
-Dokumentation der Studien -und Prüfungsordnungen
-
 Ordnungsnummer:
 
-0-1-2.1
-
+Dokumentation der Studien -und Prüfungsordnungen
 (Keine amtliche Bekanntmachung)
 
-Prüfungsverfahrensordnung
-Bachelor und Master
+0-1-2.1 Blatt: 15 10/10
+
+Prüfungsverfahrensordnung Bachelor und Master
 Az.: 103/0-0125
 
-Blatt: 15
-10/10
-
-§ 15
-Endgültiges Nichtbestehen der Bachelor- oder Master-Prüfung
-(1) Die Bachelor- oder Master-Prüfung ist endgültig nicht bestanden, wenn eine
-erforderliche Modulprüfung oder die Bachelor- oder Master-Arbeit auch in ihrer
-letzten Wiederholung mit „nicht ausreichend“ (ab 4,1) oder „nicht bestanden“
-bewertet wurde oder als bewertet gilt, ferner in den Fällen des § 16 Abs. 2 Satz 2
-und Abs. 3 Satz 3.
-(2) Ist die Bachelor- oder Master-Prüfung endgültig nicht bestanden, stellt die oder
-der Vorsitzende des für den Studiengang zuständigen Prüfungsausschusses
-unverzüglich einen Bescheid mit Angaben aller Prüfungsleistungen und den
-Gründen für das Nichtbestehen aus. Der Bescheid ist mit einer
-Rechtsbehelfsbelehrung zu versehen und der Kandidatin oder dem Kandidaten
-bekannt zu geben.
-§ 16
-Nichtbestehen wegen erheblicher Überschreitung der Regelstudienzeit
-(1) Der Prüfungsausschuss kann einer oder einem Studierenden aufgeben, an einer
-Pflichtstudienberatung der zuständigen Studienfachberatung teilzunehmen, wenn
-sie oder er die Regelstudienzeit um zwei Semester überschreitet, ohne
-mindestens zwei Drittel der zum Bestehen der Bachelor- oder Masterprüfung
-erforderlichen Leistungspunkte erworben zu haben. § 20 Abs. 4 gilt entsprechend.
-Erwirbt eine Studierende oder ein Studierender parallel zum Studium
-Sprachkenntnisse, die nach der Studienqualifikationssatzung gefordert werden,
-verlängert sich die Frist nach Satz 1 pro Sprache um ein Semester.
-(2) Für die Teilnahme an der Pflichtstudienberatung ist die oder der Studierende zu
-einem Termin zu laden, wobei eine angemessene, mindestens einmonatige
-Ladungsfrist einzuhalten ist. Nimmt die oder der Studierende diesen Termin nicht
-wahr, wird vermutet, dass sie oder er kein Interesse an der vollständigen
-Ablegung der Bachelor- oder Master-Prüfung hat, sofern die oder der Studierende
-nicht unverzüglich einen wichtigen Grund für ihr oder sein Ausbleiben nachweist.
-Bei unentschuldigter Säumnis gilt die Bachelor- oder Masterprüfung als endgültig
-nicht bestanden. Die oder der Betreffende ist auf diese Folge bei der Ladung zur
-Pflichtstudienberatung hinzuweisen; die Bedeutung der Pflichtstudienberatung ist
-ihr oder ihm zu erläutern.
-(3) Hat die oder der Studierende an der Pflichtstudienberatung teilgenommen, setzt
-der Prüfungsausschuss ihr oder ihm unter Berücksichtigung der
-Beratungsergebnisse eine angemessene Frist, um die Bachelor- oder
-Masterprüfung vollständig abzulegen. § 20 Abs. 4 gilt entsprechend. Verstreicht
-die Frist, ohne dass die Bachelor- oder Masterprüfung vollständig abgelegt wird,
-gilt diese als endgültig nicht bestanden. Die oder der Betreffende ist auf diese
+§ 15 Endgültiges Nichtbestehen der Bachelor- oder Master-Prüfung (1) Die Bachelor- oder Master-Prüfung ist endgültig nicht bestanden, wenn eine erforderliche Modulprüfung oder die Bachelor- oder Master-Arbeit auch in ihrer letzten Wiederholung mit „nicht ausreichend“ (ab 4,1) oder „nicht bestanden“ bewertet wurde oder als bewertet gilt, ferner in den Fällen des § 16 Abs. 2 Satz 2 und Abs. 3 Satz 3. (2) Ist die Bachelor- oder Master-Prüfung endgültig nicht bestanden, stellt die oder der Vorsitzende des für den Studiengang zuständigen Prüfungsausschusses unverzüglich einen Bescheid mit Angaben aller Prüfungsleistungen und den Gründen für das Nichtbestehen aus. Der Bescheid ist mit einer Rechtsbehelfsbelehrung zu versehen und der Kandidatin oder dem Kandidaten bekannt zu geben. § 16 Nichtbestehen wegen erheblicher Überschreitung der Regelstudienzeit (1) Der Prüfungsausschuss kann einer oder einem Studierenden aufgeben, an einer Pflichtstudienberatung der zuständigen Studienfachberatung teilzunehmen, wenn sie oder er die Regelstudienzeit um zwei Semester überschreitet, ohne mindestens zwei Drittel der zum Bestehen der Bachelor- oder Masterprüfung erforderlichen Leistungspunkte erworben zu haben. § 20 Abs. 4 gilt entsprechend. Erwirbt eine Studierende oder ein Studierender parallel zum Studium Sprachkenntnisse, die nach der Studienqualifikationssatzung gefordert werden, verlängert sich die Frist nach Satz 1 pro Sprache um ein Semester. (2) Für die Teilnahme an der Pflichtstudienberatung ist die oder der Studierende zu einem Termin zu laden, wobei eine angemessene, mindestens einmonatige Ladungsfrist einzuhalten ist. Nimmt die oder der Studierende diesen Termin nicht wahr, wird vermutet, dass sie oder er kein Interesse an der vollständigen Ablegung der Bachelor- oder Master-Prüfung hat, sofern die oder der Studierende nicht unverzüglich einen wichtigen Grund für ihr oder sein Ausbleiben nachweist. Bei unentschuldigter Säumnis gilt die Bachelor- oder Masterprüfung als endgültig nicht bestanden. Die oder der Betreffende ist auf diese Folge bei der Ladung zur Pflichtstudienberatung hinzuweisen; die Bedeutung der Pflichtstudienberatung ist ihr oder ihm zu erläutern. (3) Hat die oder der Studierende an der Pflichtstudienberatung teilgenommen, setzt der Prüfungsausschuss ihr oder ihm unter Berücksichtigung der Beratungsergebnisse eine angemessene Frist, um die Bachelor- oder Masterprüfung vollständig abzulegen. § 20 Abs. 4 gilt entsprechend. Verstreicht die Frist, ohne dass die Bachelor- oder Masterprüfung vollständig abgelegt wird, gilt diese als endgültig nicht bestanden. Die oder der Betreffende ist auf diese
 
 Christian-Albrechts-Universität zu Kiel
 
-Dokumentation der Studien -und Prüfungsordnungen
-
 Ordnungsnummer:
 
-0-1-2.1
-
+Dokumentation der Studien -und Prüfungsordnungen
 (Keine amtliche Bekanntmachung)
 
-Prüfungsverfahrensordnung
-Bachelor und Master
+0-1-2.1 Blatt: 16 10/10
 
-Blatt: 16
-10/10
-
+Prüfungsverfahrensordnung Bachelor und Master
 Az.: 103/0-0125
 
-Folge bei Fristsetzung hinzuweisen. In außergewöhnlichen Härtefällen kann der
-Prüfungsausschuss Abweichungen von Satz 3 zulassen.
-§ 17
-Zeugnis
-(1) Hat die Kandidatin oder der Kandidat die Bachelor- oder Master-Prüfung
-bestanden, so erhält sie oder er spätestens vier Wochen nach der Festlegung der
-Gesamtnote ein Zeugnis.
-(2) In das Zeugnis werden aufgenommen:
-1. die Bezeichnung des Studiengangs oder der Teilstudiengänge,
-2. die Gesamtnote in Worten und in Zahlenform mit einer Dezimalstelle,
-3. die Gesamtnote als ECTS-Note, sofern die erforderliche Zahl der
-Gesamtnoten gemäß § 13 Abs. 6 vorliegt, unter Angabe der Größe der
-Vergleichsgruppe und der Jahreszahl des ersten einbezogenen Jahrgangs,
-4. die für das Bestehen der Bachelor- oder Master-Prüfung erforderlichen
-Module mit ihrer Bezeichnung und der Modulnote in Zahlenform mit einer
-Dezimalstelle oder, bei unbenotet bestandenen Modulen, dem Vermerk „ohne
-Note“,
-5. das Thema der Bachelor- oder Master-Arbeit, die darin erzielte Note in
-Zahlenform mit einer Dezimalstelle, im Fall der 2-Fächer-Studiengänge das
-Fach, in dem sie angefertigt wurde, und die Namen der Erstgutachterinnen
-oder –gutachter und der Zweitgutachterinnen oder -gutachter,
-6. die Zahl der für das Bestehen der Bachelor- oder Master-Prüfung insgesamt
-erforderlichen Leistungspunkte und
-7. bei Zwei-Fächer-Studiengängen die Fachnoten und, sofern die Zwei-FächerPrüfungsordnung für das Profil eine Note vorsieht, die Note des Profils in
-Zahlenform mit einer Dezimalstelle.
-(3) Das Zeugnis trägt das Datum des Tages, an dem es ausgestellt wird. Zusätzlich
-wird in das Zeugnis, das Datum des Tages aufgenommen, an dem die letzte
-Prüfungsleistung erbracht worden ist.
-Es wird von der oder dem für das jeweilige Fach zuständigen
-Prüfungsausschussvorsitzenden unterzeichnet. Die Zeugnisse für Zwei-FächerStudiengänge unterzeichnet im Fall der Verleihung des Hochschulgrads gemäß
-der Zwei-Fächer-Prüfungsordnung durch
-- die Philosophische Fakultät die oder der Vorsitzende des
-Fakultätsprüfungsausschusses der Philosophischen Fakultät,
-- die Wirtschafts- und Sozialwissenschaftliche Fakultät die oder der
-Vorsitzende des Prüfungssauschusses Wirtschaftswissenschaft,
-- die Mathematisch-Naturwissenschaftliche Fakultät die oder der
+Folge bei Fristsetzung hinzuweisen. In außergewöhnlichen Härtefällen kann der Prüfungsausschuss Abweichungen von Satz 3 zulassen. § 17 Zeugnis (1) Hat die Kandidatin oder der Kandidat die Bachelor- oder Master-Prüfung bestanden, so erhält sie oder er spätestens vier Wochen nach der Festlegung der Gesamtnote ein Zeugnis. (2) In das Zeugnis werden aufgenommen: 1. die Bezeichnung des Studiengangs oder der Teilstudiengänge, 2. die Gesamtnote in Worten und in Zahlenform mit einer Dezimalstelle, 3. die Gesamtnote als ECTS-Note, sofern die erforderliche Zahl der Gesamtnoten gemäß § 13 Abs. 6 vorliegt, unter Angabe der Größe der Vergleichsgruppe und der Jahreszahl des ersten einbezogenen Jahrgangs, 4. die für das Bestehen der Bachelor- oder Master-Prüfung erforderlichen Module mit ihrer Bezeichnung und der Modulnote in Zahlenform mit einer Dezimalstelle oder, bei unbenotet bestandenen Modulen, dem Vermerk „ohne Note“, 5. das Thema der Bachelor- oder Master-Arbeit, die darin erzielte Note in Zahlenform mit einer Dezimalstelle, im Fall der 2-Fächer-Studiengänge das Fach, in dem sie angefertigt wurde, und die Namen der Erstgutachterinnen oder –gutachter und der Zweitgutachterinnen oder -gutachter, 6. die Zahl der für das Bestehen der Bachelor- oder Master-Prüfung insgesamt erforderlichen Leistungspunkte und 7. bei Zwei-Fächer-Studiengängen die Fachnoten und, sofern die Zwei-FächerPrüfungsordnung für das Profil eine Note vorsieht, die Note des Profils in Zahlenform mit einer Dezimalstelle. (3) Das Zeugnis trägt das Datum des Tages, an dem es ausgestellt wird. Zusätzlich wird in das Zeugnis, das Datum des Tages aufgenommen, an dem die letzte Prüfungsleistung erbracht worden ist. Es wird von der oder dem für das jeweilige Fach zuständigen Prüfungsausschussvorsitzenden unterzeichnet. Die Zeugnisse für Zwei-FächerStudiengänge unterzeichnet im Fall der Verleihung des Hochschulgrads gemäß der Zwei-Fächer-Prüfungsordnung durch - die Philosophische Fakultät die oder der Vorsitzende des Fakultätsprüfungsausschusses der Philosophischen Fakultät, - die Wirtschafts- und Sozialwissenschaftliche Fakultät die oder der Vorsitzende des Prüfungssauschusses Wirtschaftswissenschaft, - die Mathematisch-Naturwissenschaftliche Fakultät die oder der
 
 Christian-Albrechts-Universität zu Kiel
 
-Dokumentation der Studien -und Prüfungsordnungen
-
 Ordnungsnummer:
 
-0-1-2.1
-
+Dokumentation der Studien -und Prüfungsordnungen
 (Keine amtliche Bekanntmachung)
 
-Prüfungsverfahrensordnung
-Bachelor und Master
+0-1-2.1 Blatt: 17 10/10
+
+Prüfungsverfahrensordnung Bachelor und Master
 Az.: 103/0-0125
 
-Blatt: 17
-10/10
+Vorsitzende des Prüfungsausschusses, der für das beteiligte Fach der Fakultät zuständig ist. Gehören beide Fächer zur Mathematisch-Naturwissenschaftlichen Fakultät, richtet sich die Zuständigkeit nach dem Fach, in dem die Bachelor- oder Master-Arbeit angefertigt wurde. (4) Dem Zeugnis wird auf Antrag eine Leistungsübersicht (Transcript of Records) beigefügt. (5) Dem Zeugnis wird eine Erklärung zur Internationalen Einordnung des Abschlusses (Diploma Supplement) entsprechend den Vorgaben der Europäischen Kommission, der Kultusministerkonferenz und der Hochschulrektorenkonferenz in englischer Fassung beigefügt.
 
-Vorsitzende des Prüfungsausschusses, der für das beteiligte
-Fach der Fakultät zuständig ist. Gehören beide
-Fächer zur Mathematisch-Naturwissenschaftlichen Fakultät,
-richtet sich die Zuständigkeit nach dem Fach, in dem die
-Bachelor- oder Master-Arbeit angefertigt wurde.
-(4) Dem Zeugnis wird auf Antrag eine Leistungsübersicht (Transcript of Records)
-beigefügt.
-(5) Dem Zeugnis wird eine Erklärung zur Internationalen Einordnung des
-Abschlusses (Diploma Supplement) entsprechend den Vorgaben der
-Europäischen
-Kommission,
-der
-Kultusministerkonferenz
-und
-der
-Hochschulrektorenkonferenz in englischer Fassung beigefügt.
-
-§ 18
-Urkunde über die Verleihung des Akademischen Grades
-(1) Mit dem Zeugnis wird der Kandidatin oder dem Kandidaten die Urkunde über die
-Verleihung des akademischen Grades mit dem Datum des Zeugnisses
-ausgehändigt.
-(2) Die Urkunde wird von der Dekanin oder dem Dekan oder einer Prodekanin oder
-einem Prodekan der verleihenden Fakultät unterzeichnet und mit dem Siegel der
-Fakultät versehen.
-§ 19
-Bescheinigung über Studien- und Prüfungsleistungen
-(1) Wenn eine Studierende oder ein Studierender den Studiengang wechselt, die
-Hochschule vor Ablegung der Bachelor- oder Master-Prüfung verlässt oder ein
-anderer besonders begründeter Fall vorliegt, wird auf Antrag gegen Vorlage der
-entsprechenden Nachweise eine Bescheinigung über die erbrachten
-Studienleistungen, Modulprüfungen und einzelne Modulprüfungsleistungen, die
-zugeordneten Leistungspunkte und die erzielten Noten erstellt.
-(2) Wurde die Bachelor- oder Master-Prüfung nicht bestanden oder gilt sie als nicht
-bestanden, wird auf Antrag eine Bescheinigung nach Absatz 1 ausgestellt. Sie
-enthält die Erklärung, dass die Bachelor- oder Master-Prüfung nicht bestanden ist.
-§ 20
-Versäumnis und Rücktritt; Fristverlängerung
-(1) Eine Prüfungsleistung gilt als mit „nicht ausreichend“ bewertet, wenn die
-Kandidatin oder der Kandidat zu einem Prüfungstermin, zu dem sie oder er
+§ 18 Urkunde über die Verleihung des Akademischen Grades (1) Mit dem Zeugnis wird der Kandidatin oder dem Kandidaten die Urkunde über die Verleihung des akademischen Grades mit dem Datum des Zeugnisses ausgehändigt. (2) Die Urkunde wird von der Dekanin oder dem Dekan oder einer Prodekanin oder einem Prodekan der verleihenden Fakultät unterzeichnet und mit dem Siegel der Fakultät versehen. § 19 Bescheinigung über Studien- und Prüfungsleistungen (1) Wenn eine Studierende oder ein Studierender den Studiengang wechselt, die Hochschule vor Ablegung der Bachelor- oder Master-Prüfung verlässt oder ein anderer besonders begründeter Fall vorliegt, wird auf Antrag gegen Vorlage der entsprechenden Nachweise eine Bescheinigung über die erbrachten Studienleistungen, Modulprüfungen und einzelne Modulprüfungsleistungen, die zugeordneten Leistungspunkte und die erzielten Noten erstellt. (2) Wurde die Bachelor- oder Master-Prüfung nicht bestanden oder gilt sie als nicht bestanden, wird auf Antrag eine Bescheinigung nach Absatz 1 ausgestellt. Sie enthält die Erklärung, dass die Bachelor- oder Master-Prüfung nicht bestanden ist. § 20 Versäumnis und Rücktritt; Fristverlängerung (1) Eine Prüfungsleistung gilt als mit „nicht ausreichend“ bewertet, wenn die Kandidatin oder der Kandidat zu einem Prüfungstermin, zu dem sie oder er
 
 Christian-Albrechts-Universität zu Kiel
 
-Dokumentation der Studien -und Prüfungsordnungen
-
 Ordnungsnummer:
 
-0-1-2.1
-
+Dokumentation der Studien -und Prüfungsordnungen
 (Keine amtliche Bekanntmachung)
 
-Prüfungsverfahrensordnung
-Bachelor und Master
+0-1-2.1 Blatt: 18 10/10
+
+Prüfungsverfahrensordnung Bachelor und Master
 Az.: 103/0-0125
 
-Blatt: 18
-10/10
-
-angemeldet ist, nicht erscheint, nach Beginn der Prüfung von der Prüfung
-zurücktritt oder die Prüfungsleistung nicht innerhalb der dafür vorgesehenen und
-gegebenenfalls verlängerten Bearbeitungszeit erbringt, ohne dass dafür triftige
-Gründe vorliegen.
-(2) Die für den Rücktritt oder das Versäumnis geltend gemachten Gründe müssen
-dem Prüfungsausschuss unverzüglich schriftlich oder zur Niederschrift angezeigt
-und glaubhaft gemacht werden. Im Krankheitsfall muss die Krankheit durch ein
-ärztliches, in Ausnahmefällen durch ein amtsärztliches Attest belegt werden. Der
-Krankheit der Kandidatin oder des Kandidaten steht die Krankheit eines von ihr
-oder ihm zu versorgenden und tatsächlich versorgten Kindes gleich.
-(3) Eine Kandidatin oder ein Kandidat kann sich nicht nachträglich auf
-Rücktrittsgründe berufen, die ihr oder ihm schon zum Zeitpunkt der Prüfung
-bekannt waren.
-(4) Ist für die Erbringung einer studienbegleitenden Prüfungsleistung in den
-jeweiligen fachspezifischen Bestimmungen ein Zeitraum festgelegt, wird dieser
-Zeitraum um insgesamt höchstens zwei Semester verlängert, sofern die
-Leistungsfähigkeit der Kandidatin oder des Kandidaten aus den Gründen des § 52
-Abs. 4 des Hochschulgesetzes beeinträchtigt ist. In besonders begründeten
-Ausnahmefällen, insbesondere in den Fällen von § 52 Abs. 4 Nr. 1 und 2 des
-Hochschulgesetzes, kann der Zeitraum weiter verlängert werden. Die für die
-Verlängerung geltend gemachten Gründe müssen dem Prüfungsausschuss
-unverzüglich schriftlich angezeigt und glaubhaft gemacht werden.
-(5) Die oder der Vorsitzende des Prüfungsausschusses entscheidet binnen vier
-Wochen darüber, ob die Rücktritts- oder Verlängerungsgründe anerkannt werden.
-Belastende Entscheidungen sind der Prüfungskandidatin oder dem
-Prüfungskandidaten unverzüglich schriftlich mitzuteilen, zu begründen und mit
-einer Rechtsbehelfsbelehrung zu versehen. Werden die Gründe anerkannt, wird
-ein neuer Prüfungstermin oder -zeitraum bestimmt. Die bereits vorliegenden
-Prüfungsergebnisse sind anzuerkennen.
-§ 21
-Unerlaubte Hilfsmittel, Täuschung und Ordnungsverstoß
-(1) Versucht die Kandidatin oder der Kandidat, das Ergebnis einer Prüfung durch
-Täuschung oder Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, so gilt
-die betreffende Prüfungsleistung als mit „nicht ausreichend“ oder „nicht
-bestanden“ bewertet. Eine Täuschung liegt insbesondere vor, wenn bei einer
-schriftlichen Prüfungsleistung Textpassagen aus anderen Arbeiten wörtlich oder
-sinngemäß ohne Angabe der Quelle übernommen oder übersetzt und damit als
-eigene Leistung ausgegeben werden (Plagiat). Zu Beginn der Prüfung sind der
-Kandidatin oder dem Kandidaten die zulässigen Hilfsmittel bekannt zu geben und
+angemeldet ist, nicht erscheint, nach Beginn der Prüfung von der Prüfung zurücktritt oder die Prüfungsleistung nicht innerhalb der dafür vorgesehenen und gegebenenfalls verlängerten Bearbeitungszeit erbringt, ohne dass dafür triftige Gründe vorliegen. (2) Die für den Rücktritt oder das Versäumnis geltend gemachten Gründe müssen dem Prüfungsausschuss unverzüglich schriftlich oder zur Niederschrift angezeigt und glaubhaft gemacht werden. Im Krankheitsfall muss die Krankheit durch ein ärztliches, in Ausnahmefällen durch ein amtsärztliches Attest belegt werden. Der Krankheit der Kandidatin oder des Kandidaten steht die Krankheit eines von ihr oder ihm zu versorgenden und tatsächlich versorgten Kindes gleich. (3) Eine Kandidatin oder ein Kandidat kann sich nicht nachträglich auf Rücktrittsgründe berufen, die ihr oder ihm schon zum Zeitpunkt der Prüfung bekannt waren. (4) Ist für die Erbringung einer studienbegleitenden Prüfungsleistung in den jeweiligen fachspezifischen Bestimmungen ein Zeitraum festgelegt, wird dieser Zeitraum um insgesamt höchstens zwei Semester verlängert, sofern die Leistungsfähigkeit der Kandidatin oder des Kandidaten aus den Gründen des § 52 Abs. 4 des Hochschulgesetzes beeinträchtigt ist. In besonders begründeten Ausnahmefällen, insbesondere in den Fällen von § 52 Abs. 4 Nr. 1 und 2 des Hochschulgesetzes, kann der Zeitraum weiter verlängert werden. Die für die Verlängerung geltend gemachten Gründe müssen dem Prüfungsausschuss unverzüglich schriftlich angezeigt und glaubhaft gemacht werden. (5) Die oder der Vorsitzende des Prüfungsausschusses entscheidet binnen vier Wochen darüber, ob die Rücktritts- oder Verlängerungsgründe anerkannt werden. Belastende Entscheidungen sind der Prüfungskandidatin oder dem Prüfungskandidaten unverzüglich schriftlich mitzuteilen, zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen. Werden die Gründe anerkannt, wird ein neuer Prüfungstermin oder -zeitraum bestimmt. Die bereits vorliegenden Prüfungsergebnisse sind anzuerkennen. § 21 Unerlaubte Hilfsmittel, Täuschung und Ordnungsverstoß (1) Versucht die Kandidatin oder der Kandidat, das Ergebnis einer Prüfung durch Täuschung oder Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, so gilt die betreffende Prüfungsleistung als mit „nicht ausreichend“ oder „nicht bestanden“ bewertet. Eine Täuschung liegt insbesondere vor, wenn bei einer schriftlichen Prüfungsleistung Textpassagen aus anderen Arbeiten wörtlich oder sinngemäß ohne Angabe der Quelle übernommen oder übersetzt und damit als eigene Leistung ausgegeben werden (Plagiat). Zu Beginn der Prüfung sind der Kandidatin oder dem Kandidaten die zulässigen Hilfsmittel bekannt zu geben und
 
 Christian-Albrechts-Universität zu Kiel
 
-Dokumentation der Studien -und Prüfungsordnungen
-
 Ordnungsnummer:
 
-0-1-2.1
-
+Dokumentation der Studien -und Prüfungsordnungen
 (Keine amtliche Bekanntmachung)
 
-Prüfungsverfahrensordnung
-Bachelor und Master
+0-1-2.1 Blatt: 19 10/10
+
+Prüfungsverfahrensordnung Bachelor und Master
 Az.: 103/0-0125
 
-Blatt: 19
-10/10
-
-ggf. auszuhändigen. Hat die Kandidatin oder der Kandidat sich die Zulassung zur
-Prüfung oder eine Fristverlängerung durch Vorspiegelung falscher Tatsachen
-erschlichen, so gelten die unter diesen Voraussetzungen erbrachten
-Prüfungsleistungen als mit „nicht ausreichend“ oder „nicht bestanden“ bewertet.
-Dies gilt auch, wenn die Täuschung nachträglich bekannt wird.
-(2) Eine Kandidatin oder ein Kandidat, die oder der den ordnungsgemäßen Ablauf
-der Prüfung stört, kann von der jeweiligen Prüferin oder dem jeweiligen Prüfer
-oder Aufsichtführenden von der Fortsetzung der Prüfung ausgeschlossen werden.
-Die betreffende Prüfungsleistung gilt dann als mit „nicht ausreichend“ bewertet. In
-schwerwiegenden Fällen kann der Prüfungsausschuss die Kandidatin oder den
-Kandidaten von der Erbringung weiterer Prüfungsleistungen ausschließen.
-(3) Die oder der Vorsitzende des Prüfungsausschusses entscheidet binnen eines
-Monats über die Bewertung der betreffenden Prüfungsleistung oder den
-Ausschluss. Der Kandidatin oder dem Kandidaten ist Gelegenheit zur
-Stellungnahme zu geben, die dem Prüfungsausschuss unverzüglich zur
-Entscheidung vorzulegen ist. Belastende Entscheidungen sind der Kandidatin
-oder dem Kandidaten unverzüglich schriftlich mitzuteilen, zu begründen und mit
-einer Rechtsbehelfsbelehrung zu versehen.
-§ 22
-Ungültigkeit der Bachelor- oder Master-Prüfung
-(1) Hat die Kandidatin oder der Kandidat bei einer Prüfung getäuscht und wird diese
-Tatsache erst nach Aushändigung des Zeugnisses bekannt, kann die Note der
-Prüfung berichtigt werden. Gegebenenfalls kann die Prüfung für „nicht
-ausreichend“ und die Bachelor- oder Master-Prüfung für „nicht bestanden“ erklärt
-werden.
-(2) Waren die Voraussetzungen für die Zulassung zu einer Prüfung nicht erfüllt, ohne
-dass die Kandidatin oder der Kandidat hierüber täuschen wollte, und wird diese
-Tatsache erst nach Aushändigung des Zeugnisses bekannt, wird der Mangel
-durch das Bestehen der Prüfung geheilt.
-(3) Der Kandidatin oder dem Kandidaten ist vor einer Entscheidung Gelegenheit zur
-Stellungnahme zu geben.
-(4) Das unrichtige Zeugnis ist einzuziehen und gegebenenfalls ein neues zu erteilen.
-Mit dem unrichtigen Zeugnis ist auch die Bachelor- oder Master-Urkunde sowie
-eine ausgestellte englische Übersetzung einzuziehen, wenn die Bachelor- oder
-Master-Prüfung aufgrund einer Täuschung für „nicht bestanden“ erklärt wurde.
-Eine Entscheidung nach Absatz 1 ist nach einer Frist von fünf Jahren
-ausgeschlossen.
+ggf. auszuhändigen. Hat die Kandidatin oder der Kandidat sich die Zulassung zur Prüfung oder eine Fristverlängerung durch Vorspiegelung falscher Tatsachen erschlichen, so gelten die unter diesen Voraussetzungen erbrachten Prüfungsleistungen als mit „nicht ausreichend“ oder „nicht bestanden“ bewertet. Dies gilt auch, wenn die Täuschung nachträglich bekannt wird. (2) Eine Kandidatin oder ein Kandidat, die oder der den ordnungsgemäßen Ablauf der Prüfung stört, kann von der jeweiligen Prüferin oder dem jeweiligen Prüfer oder Aufsichtführenden von der Fortsetzung der Prüfung ausgeschlossen werden. Die betreffende Prüfungsleistung gilt dann als mit „nicht ausreichend“ bewertet. In schwerwiegenden Fällen kann der Prüfungsausschuss die Kandidatin oder den Kandidaten von der Erbringung weiterer Prüfungsleistungen ausschließen. (3) Die oder der Vorsitzende des Prüfungsausschusses entscheidet binnen eines Monats über die Bewertung der betreffenden Prüfungsleistung oder den Ausschluss. Der Kandidatin oder dem Kandidaten ist Gelegenheit zur Stellungnahme zu geben, die dem Prüfungsausschuss unverzüglich zur Entscheidung vorzulegen ist. Belastende Entscheidungen sind der Kandidatin oder dem Kandidaten unverzüglich schriftlich mitzuteilen, zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen. § 22 Ungültigkeit der Bachelor- oder Master-Prüfung (1) Hat die Kandidatin oder der Kandidat bei einer Prüfung getäuscht und wird diese Tatsache erst nach Aushändigung des Zeugnisses bekannt, kann die Note der Prüfung berichtigt werden. Gegebenenfalls kann die Prüfung für „nicht ausreichend“ und die Bachelor- oder Master-Prüfung für „nicht bestanden“ erklärt werden. (2) Waren die Voraussetzungen für die Zulassung zu einer Prüfung nicht erfüllt, ohne dass die Kandidatin oder der Kandidat hierüber täuschen wollte, und wird diese Tatsache erst nach Aushändigung des Zeugnisses bekannt, wird der Mangel durch das Bestehen der Prüfung geheilt. (3) Der Kandidatin oder dem Kandidaten ist vor einer Entscheidung Gelegenheit zur Stellungnahme zu geben. (4) Das unrichtige Zeugnis ist einzuziehen und gegebenenfalls ein neues zu erteilen. Mit dem unrichtigen Zeugnis ist auch die Bachelor- oder Master-Urkunde sowie eine ausgestellte englische Übersetzung einzuziehen, wenn die Bachelor- oder Master-Prüfung aufgrund einer Täuschung für „nicht bestanden“ erklärt wurde. Eine Entscheidung nach Absatz 1 ist nach einer Frist von fünf Jahren ausgeschlossen.
 
 Christian-Albrechts-Universität zu Kiel
 
-Dokumentation der Studien -und Prüfungsordnungen
-
 Ordnungsnummer:
 
-0-1-2.1
-
+Dokumentation der Studien -und Prüfungsordnungen
 (Keine amtliche Bekanntmachung)
 
-Prüfungsverfahrensordnung
-Bachelor und Master
+0-1-2.1 Blatt: 20 10/10
+
+Prüfungsverfahrensordnung Bachelor und Master
 Az.: 103/0-0125
 
-Blatt: 20
-10/10
-
-§ 23
-Rüge von Verfahrensmängeln
-Störungen und Beeinträchtigungen des Prüfungsablaufs sind von der Kandidatin
-oder dem Kandidaten unverzüglich zu rügen und die Rüge unverzüglich schriftlich zu
-begründen. Auf die Möglichkeit der Rüge und das Erfordernis der Unverzüglichkeit ist
-die Kandidatin oder der Kandidat in geeigneter Weise vor Beginn der ersten Prüfung
-hinzuweisen.
-§ 24
-Einsicht in die Prüfungsakten
-(1) Innerhalb eines Jahres nach Abschluss einer Modulprüfung oder der Bacheloroder Master-Arbeit wird der Kandidatin oder dem Kandidaten auf Antrag Einsicht
-in die schriftlichen Prüfungsarbeiten, die darauf bezogenen Gutachten der
-Prüferinnen oder Prüfer und in die Prüfungsprotokolle gewährt. Besteht eine
-Modulprüfung aus mehreren Prüfungsleistungen, gilt Satz 1 für jede einzelne
-Prüfungsleistung entsprechend.
-(2) Die Akteneinsicht wird bei der aktenführenden Stelle durchgeführt.
-§ 25
-Widerspruchsverfahren
-(1) Gegen Entscheidungen im Prüfungsverfahren kann die Kandidatin oder der
-Kandidat innerhalb eines Monats nach Bekanntgabe der Entscheidung schriftlich
-oder zur Niederschrift bei dem zuständigen Prüfungsausschuss Widerspruch
-einlegen. Der Widerspruch ist unter Darlegung konkreter Einwände gegen die
-Entscheidung zu begründen.
-(2) Im Widerspruchsverfahren sind die Entscheidungen von denjenigen Prüferinnen
-und Prüfern, die diese Entscheidungen getroffen haben, zu überdenken. Die
-Prüferinnen und Prüfer haben gegenüber der für die Abwicklung des
-Widerspruchsverfahrens zuständigen Stelle schriftlich zu dem Widerspruch
-Stellung zu nehmen.
-§ 26
-Datenerhebung
-(1) Zum Zweck der Zulassung der Studierenden zu Lehrveranstaltungen und zu
-Prüfungen, zur Ausstellung von Zeugnissen, Urkunden und Bescheinigungen
-nach § 19, zum Zweck der Studienberatung, der Durchführung des Lehr- und
-Prüfungsbetriebs und zum Zweck der Lehrberichterstattung können von dem
-zuständigen Prüfungsamt folgende personenbezogene Daten erhoben und
-verarbeitet werden:
+§ 23 Rüge von Verfahrensmängeln Störungen und Beeinträchtigungen des Prüfungsablaufs sind von der Kandidatin oder dem Kandidaten unverzüglich zu rügen und die Rüge unverzüglich schriftlich zu begründen. Auf die Möglichkeit der Rüge und das Erfordernis der Unverzüglichkeit ist die Kandidatin oder der Kandidat in geeigneter Weise vor Beginn der ersten Prüfung hinzuweisen. § 24 Einsicht in die Prüfungsakten (1) Innerhalb eines Jahres nach Abschluss einer Modulprüfung oder der Bacheloroder Master-Arbeit wird der Kandidatin oder dem Kandidaten auf Antrag Einsicht in die schriftlichen Prüfungsarbeiten, die darauf bezogenen Gutachten der Prüferinnen oder Prüfer und in die Prüfungsprotokolle gewährt. Besteht eine Modulprüfung aus mehreren Prüfungsleistungen, gilt Satz 1 für jede einzelne Prüfungsleistung entsprechend. (2) Die Akteneinsicht wird bei der aktenführenden Stelle durchgeführt. § 25 Widerspruchsverfahren (1) Gegen Entscheidungen im Prüfungsverfahren kann die Kandidatin oder der Kandidat innerhalb eines Monats nach Bekanntgabe der Entscheidung schriftlich oder zur Niederschrift bei dem zuständigen Prüfungsausschuss Widerspruch einlegen. Der Widerspruch ist unter Darlegung konkreter Einwände gegen die Entscheidung zu begründen. (2) Im Widerspruchsverfahren sind die Entscheidungen von denjenigen Prüferinnen und Prüfern, die diese Entscheidungen getroffen haben, zu überdenken. Die Prüferinnen und Prüfer haben gegenüber der für die Abwicklung des Widerspruchsverfahrens zuständigen Stelle schriftlich zu dem Widerspruch Stellung zu nehmen. § 26 Datenerhebung (1) Zum Zweck der Zulassung der Studierenden zu Lehrveranstaltungen und zu Prüfungen, zur Ausstellung von Zeugnissen, Urkunden und Bescheinigungen nach § 19, zum Zweck der Studienberatung, der Durchführung des Lehr- und Prüfungsbetriebs und zum Zweck der Lehrberichterstattung können von dem zuständigen Prüfungsamt folgende personenbezogene Daten erhoben und verarbeitet werden:
 
 Christian-Albrechts-Universität zu Kiel
 
-Dokumentation der Studien -und Prüfungsordnungen
-
 Ordnungsnummer:
 
-0-1-2.1
-
+Dokumentation der Studien -und Prüfungsordnungen
 (Keine amtliche Bekanntmachung)
 
-Prüfungsverfahrensordnung
-Bachelor und Master
+0-1-2.1 Blatt: 21 10/10
+
+Prüfungsverfahrensordnung Bachelor und Master
 Az.: 103/0-0125
 
-Blatt: 21
-10/10
-
-1. Familienname und Vorname, Matrikelnummer,
-2. Geburtsdatum,
-3. erster und gegebenenfalls zweiter Wohnsitz sowie Postadresse und EMail-Adresse,
-4. Studiengang, Studienfach und angestrebter Studienabschluss,
-5. Art und Anzahl der Hochschul- und Fachsemester (sowie Art des
-Abschlusses eines Studiums an einer Hochschule),
-6. Angaben zum Studium an bisher besuchten sowie gegenwärtig besuchten
-Hochschulen (Name der Hochschule, Studiengang, Anzahl der Hochschul-,
-Fach-, Praxis-, Urlaubs-, Auslandssemester, Art, Ergebnis, Gesamtnote,
-Datum und Fachsemester der bisher abgelegten Zwischen- oder
-Abschlussprüfungen sowie der studienbegleitenden Prüfungsleistungen,
-Zahl der erbrachten Leistungspunkte, Exmatrikulationsnachweis, bisher
-bearbeitete Themen oder Aufgaben von Hausarbeiten, Versäumnisse,
-Rücktritte).
-(2) Sobald der Zweck es gestattet, sind die erhobenen Daten zu löschen.
-§ 27
-Übergangsbestimmungen
-(1) Diese Prüfungsverfahrensordnung findet Anwendung auf alle nach ihrem In-KraftTreten erlassenen Fachprüfungsordnungen für Bachelor- und MasterStudiengänge.
-(2) Zuvor erlassene Fachprüfungsordnungen sind innerhalb von fünf Jahren nach InKraft-Treten dieser Prüfungsverfahrensordnung an die vorstehenden Regelungen
-anzupassen.
-§ 28
-In-Kraft-Treten
-Diese Satzung tritt am Tage nach ihrer Bekanntmachung in Kraft.
-Die Genehmigung nach Artikel 1 § 52 Abs. 1 Satz 1 i.V.m. Artikel 2 § 1 Abs. 4 des
-Hochschulgesetzes wurde durch das Präsidium der Christian- Albrechts- Universität
-zu Kiel mit Schreiben vom 28. November 2007 und 20. Februar 2008 erteilt.
-Kiel, den 21. Februar 2008
-Der Rektor der
-Christian-Albrechts-Universität zu Kiel
-Prof. Dr. Thomas Bauer
+1. Familienname und Vorname, Matrikelnummer, 2. Geburtsdatum, 3. erster und gegebenenfalls zweiter Wohnsitz sowie Postadresse und EMail-Adresse, 4. Studiengang, Studienfach und angestrebter Studienabschluss, 5. Art und Anzahl der Hochschul- und Fachsemester (sowie Art des Abschlusses eines Studiums an einer Hochschule), 6. Angaben zum Studium an bisher besuchten sowie gegenwärtig besuchten Hochschulen (Name der Hochschule, Studiengang, Anzahl der Hochschul-, Fach-, Praxis-, Urlaubs-, Auslandssemester, Art, Ergebnis, Gesamtnote, Datum und Fachsemester der bisher abgelegten Zwischen- oder Abschlussprüfungen sowie der studienbegleitenden Prüfungsleistungen, Zahl der erbrachten Leistungspunkte, Exmatrikulationsnachweis, bisher bearbeitete Themen oder Aufgaben von Hausarbeiten, Versäumnisse, Rücktritte). (2) Sobald der Zweck es gestattet, sind die erhobenen Daten zu löschen. § 27 Übergangsbestimmungen (1) Diese Prüfungsverfahrensordnung findet Anwendung auf alle nach ihrem In-KraftTreten erlassenen Fachprüfungsordnungen für Bachelor- und MasterStudiengänge. (2) Zuvor erlassene Fachprüfungsordnungen sind innerhalb von fünf Jahren nach InKraft-Treten dieser Prüfungsverfahrensordnung an die vorstehenden Regelungen anzupassen. § 28 In-Kraft-Treten Diese Satzung tritt am Tage nach ihrer Bekanntmachung in Kraft. Die Genehmigung nach Artikel 1 § 52 Abs. 1 Satz 1 i.V.m. Artikel 2 § 1 Abs. 4 des Hochschulgesetzes wurde durch das Präsidium der Christian- Albrechts- Universität zu Kiel mit Schreiben vom 28. November 2007 und 20. Februar 2008 erteilt. Kiel, den 21. Februar 2008 Der Rektor der Christian-Albrechts-Universität zu Kiel Prof. Dr. Thomas Bauer
 
 Christian-Albrechts-Universität zu Kiel
 
-Dokumentation der Studien -und Prüfungsordnungen
-
 Ordnungsnummer:
 
-0-1-2.1
-
+Dokumentation der Studien -und Prüfungsordnungen
 (Keine amtliche Bekanntmachung)
 
-Prüfungsverfahrensordnung
-Bachelor und Master
+0-1-2.1 Blatt: 22 10/10
+
+Prüfungsverfahrensordnung Bachelor und Master
 Az.: 103/0-0125
 
-Blatt: 22
-10/10
-
-Artikel 2 der Änderungssatzung vom 17. August 2009:
-(1) Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft.
-(2) Sie findet erstmals Anwendung auf Prüfungen, die im Rahmen der
-Prüfungszeiträume des Wintersemesters 2009/10 angeboten werden.
-(3) Entgegenstehende Regelungen der Fachprüfungsordnungen und der ZweiFächer-Prüfungsordnung werden mit Inkrafttreten dieser Satzung ungültig.
-(4) Für Fachprüfungsordnungen gemäß § 27 Abs. 2, die vor dem 21.02.2008
-erlassen wurden und noch nicht an die Bestimmungen der
-Prüfungsverfahrensordnung angepasst worden sind, finden nur die Regelungen
-von § 8 und § 10 Anwendung. Entgegenstehende Regelungen der
-Fachprüfungsordnungen werden mit Inkrafttreten dieser Satzung ungültig.
-(5) Studierende, die sich bei Inkrafttreten dieser Satzung in einem laufenden
-Modulprüfungsverfahren befinden, können bis zur Teilnahme an dem nächsten
-Prüfungsversuch erklären, dass sie in diesem Modul weiterhin nach den alten
-Bestimmungen der für sie geltenden Fachprüfungsordnungen geprüft werden
-möchten.
-(6) Über Härtefälle, die vom Studierenden nicht zu vertreten sind, entscheidet der
-Prüfungsausschuss auf Antrag.
+Artikel 2 der Änderungssatzung vom 17. August 2009: (1) Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft. (2) Sie findet erstmals Anwendung auf Prüfungen, die im Rahmen der Prüfungszeiträume des Wintersemesters 2009/10 angeboten werden. (3) Entgegenstehende Regelungen der Fachprüfungsordnungen und der ZweiFächer-Prüfungsordnung werden mit Inkrafttreten dieser Satzung ungültig. (4) Für Fachprüfungsordnungen gemäß § 27 Abs. 2, die vor dem 21.02.2008 erlassen wurden und noch nicht an die Bestimmungen der Prüfungsverfahrensordnung angepasst worden sind, finden nur die Regelungen von § 8 und § 10 Anwendung. Entgegenstehende Regelungen der Fachprüfungsordnungen werden mit Inkrafttreten dieser Satzung ungültig. (5) Studierende, die sich bei Inkrafttreten dieser Satzung in einem laufenden Modulprüfungsverfahren befinden, können bis zur Teilnahme an dem nächsten Prüfungsversuch erklären, dass sie in diesem Modul weiterhin nach den alten Bestimmungen der für sie geltenden Fachprüfungsordnungen geprüft werden möchten. (6) Über Härtefälle, die vom Studierenden nicht zu vertreten sind, entscheidet der Prüfungsausschuss auf Antrag.
 
 
