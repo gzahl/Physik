@@ -1,4 +1,5 @@
 #!/bin/bash
+git pull physik master
 cd 1-Fach
 wget --output-document="Prüfungsordnung.pdf"  http://www.studservice.uni-kiel.de/sta/6.3-121.pdf
 wget --output-document="Prüfungsverfahrensordnung.pdf"  http://www.studservice.uni-kiel.de/sta/0-1-2.1.pdf
