@@ -1,353 +1,1300 @@
 Christian-Albrechts-Universität zu Kiel
 
+Dokumentation der Studien- und Prüfungsordnungen
+
 Ordnungsnummer:
 
-Dokumentation der Studien- und Prüfungsordnungen
+6.3-121
+
 (Keine amtliche Bekanntmachung)
 
-6.3-121 Blatt: 1 10/10
-
-Fachprüfungsordnung Physik 1-Fach Bachelor und Master
+Fachprüfungsordnung Physik 1-Fach
+Bachelor und Master
 103/62-0607-1
 
-Fachprüfungsordnung (Satzung) der Mathematisch-Naturwissenschaftlichen-Fakultät der Christian-Albrechts-Universität zu Kiel für Studierende der Physik mit den Abschlüssen Bachelor of Science (B.Sc.) und Master of Science (M.Sc.) (Fachprüfungsordnung Physik (1-Fach)) Vom 29. November 2007 Veröffentlichung vom 24. April 2008 (NBl. MWV. Schl.-H., S. 102), geändert durch Satzung vom 17. September 2008, Veröffentlichung vom 02. Oktober 2008 (NBl. MWV. Schl.-H. S. 169), geändert durch Satzung vom 13. Februar 2009, Veröffentlichung vom 13. März 2009 (NBl. MWV. Schl.-H. S. 12), geändert durch Satzung vom 24. Juli 2009, Veröffentlichung vom 01. Oktober 2009 (NBl. MWV. Schl.-H. S. 39), geändert durch Satzung vom 17. Dezember 2009, Veröffentlichung vom 01. März 2010 (NBl. MWV. Schl.-H. S. 3), geändert durch Satzung vom 23. Juni 2010, Veröffentlichung vom 30. August 2010 (NBl. MWV. Schl.-H. S. 54), geändert durch Satzung vom 23. Juli 2010, Veröffentlichung vom 11. Oktober 2010 (NBl. MWV. Schl.-H. S. 60) Aufgrund des § 52 Abs. 1 Satz 1 des Hochschulgesetzes (HSG) vom 28. Februar 2007 (GVOBl. Schl.-H. 2007, S. 184), wird nach Beschlussfassung durch den Konvent der Mathematisch-Naturwissenschaftlichen Fakultät vom 7. November 2007 die folgende Satzung erlassen: Inhaltsübersicht: I. Allgemeine Prüfungsbestimmungen §1 §2 §3 §4 §5 §6 §7 §8 §9 § 10 Geltungsbereich Studienjahr Unterrichts- und Prüfungssprache Prüfungsausschuss Modulprüfungen und Modulnoten – gestrichen Weitere Voraussetzungen für die Zulassung zu Prüfungsleistungen – gestrichen Bachelor- und Master-Arbeit Beschränkung der Zulassung zu Pflicht- oder Wahlpflichtveranstaltungen
+Blatt: 1
+10/10
 
-II. Besondere Prüfungsbestimmungen für den Bachelor-Studiengang § 11 Studienziel, Zweck der Prüfung § 12 Studienaufbau § 13 Akademischer Grad
+Fachprüfungsordnung (Satzung)
+der Mathematisch-Naturwissenschaftlichen-Fakultät
+der Christian-Albrechts-Universität zu Kiel für Studierende der Physik mit den
+Abschlüssen Bachelor of Science (B.Sc.) und Master of Science (M.Sc.)
+(Fachprüfungsordnung Physik (1-Fach))
+Vom 29. November 2007
+Veröffentlichung vom 24. April 2008 (NBl. MWV. Schl.-H., S. 102), geändert durch
+Satzung vom 17. September 2008, Veröffentlichung vom 02. Oktober 2008 (NBl.
+MWV. Schl.-H. S. 169), geändert durch Satzung vom 13. Februar 2009,
+Veröffentlichung vom 13. März 2009 (NBl. MWV. Schl.-H. S. 12), geändert durch
+Satzung vom 24. Juli 2009, Veröffentlichung vom 01. Oktober 2009 (NBl. MWV.
+Schl.-H. S. 39), geändert durch Satzung vom 17. Dezember 2009, Veröffentlichung
+vom 01. März 2010 (NBl. MWV. Schl.-H. S. 3), geändert durch Satzung vom 23. Juni
+2010, Veröffentlichung vom 30. August 2010 (NBl. MWV. Schl.-H. S. 54), geändert
+durch Satzung vom 23. Juli 2010, Veröffentlichung vom 11. Oktober 2010 (NBl.
+MWV. Schl.-H. S. 60)
+Aufgrund des § 52 Abs. 1 Satz 1 des Hochschulgesetzes (HSG) vom 28. Februar
+2007 (GVOBl. Schl.-H. 2007, S. 184), wird nach Beschlussfassung durch den
+Konvent der Mathematisch-Naturwissenschaftlichen Fakultät vom 7. November 2007
+die folgende Satzung erlassen:
+Inhaltsübersicht:
+I. Allgemeine Prüfungsbestimmungen
+§1
+§2
+§3
+§4
+§5
+§6
+§7
+§8
+§9
+§ 10
+
+Geltungsbereich
+Studienjahr
+Unterrichts- und Prüfungssprache
+Prüfungsausschuss
+Modulprüfungen und Modulnoten
+– gestrichen Weitere Voraussetzungen für die Zulassung zu Prüfungsleistungen
+– gestrichen Bachelor- und Master-Arbeit
+Beschränkung der Zulassung zu Pflicht- oder Wahlpflichtveranstaltungen
+
+II. Besondere Prüfungsbestimmungen für den Bachelor-Studiengang
+§ 11 Studienziel, Zweck der Prüfung
+§ 12 Studienaufbau
+§ 13 Akademischer Grad
+
+Christian-Albrechts-Universität zu Kiel
+
+Dokumentation der Studien- und Prüfungsordnungen
+
+Ordnungsnummer:
+
+6.3-121
+
+(Keine amtliche Bekanntmachung)
+
+Fachprüfungsordnung Physik 1-Fach
+Bachelor und Master
+103/62-0607-1
+
+Blatt: 2
+10/10
+
+§ 14 Bachelor-Arbeit
+§ 15 Bildung der Gesamtnote
+
+III. Besondere Prüfungsbestimmungen für den Master-Studiengang
+§ 16
+§ 17
+§ 18
+§ 19
+§ 20
+§ 21
+
+Studienziel, Zweck der Prüfung
+Studienaufbau
+Zugang zum Master-Studium
+Akademischer Grad
+Master-Arbeit
+Bildung der Gesamtnote
+
+IV. Übergangs- und Schlussbestimmungen
+§ 22 Übergangsbestimmungen
+§ 23 In-Kraft-Treten
+
+Christian-Albrechts-Universität zu Kiel
+
+Dokumentation der Studien- und Prüfungsordnungen
+
+Ordnungsnummer:
+
+6.3-121
+
+(Keine amtliche Bekanntmachung)
+
+Fachprüfungsordnung Physik 1-Fach
+Bachelor und Master
+103/62-0607-1
+
+Blatt: 3
+10/10
+
+I. Allgemeine Prüfungsbestimmungen
+§1
+Geltungsbereich
+(1) Diese Fachprüfungsordnung regelt in Verbindung mit der Prüfungsverfahrensordnung der Christian-Albrechts-Universität zu Kiel für Studierende der Bachelorund Master-Studiengänge (Prüfungsverfahrensordnung) das Studium des Fachs
+Physik an der Christian-Albrechts-Universität zu Kiel.
+(2) Sie gilt für
+1. alle Module, die ausschließlich Bestandteil der in dieser Prüfungsordnung
+geregelten Studiengänge sind,
+2. alle Module, die Bestandteil der in dieser Prüfungsordnung geregelten
+Studiengänge und zugleich als exportierte Module Bestandteil anderer
+Studiengänge sind,
+3. alle Module, die ausschließlich als exportierte Module Bestandteil anderer
+Studiengänge sind.
+(3) Sofern diese Prüfungsordnung keine andere Regelung trifft, gelten für die
+Zulassung zu importierten Modulen und die Durchführung der jeweiligen
+Modulprüfung die entsprechenden Bestimmungen des anbietenden Fachs.
+§2
+Studienjahr
+Für die Studiengänge dieser Prüfungsordnung gilt das Studienjahr. Die
+Lehrveranstaltungen für Studienanfänger und weitere Studierende ungerader
+Fachsemester werden nur zu einem Wintersemester angeboten.
+Einschreibungen zu ungeraden Fachsemestern sind zu einem Wintersemester und
+zu einem Sommersemester möglich. Der Studienbeginn sowie Einschreibungen zu
+ungeraden Fachsemestern werden zum Wintersemester empfohlen.
+§3
+Unterrichts- und Prüfungssprache
+Unterrichtssprache ist in der Regel Deutsch. Module können in englischer Sprache
+angeboten werden. In diesen Fällen ist die Unterrichtssprache auch
+Prüfungssprache.
+
+Christian-Albrechts-Universität zu Kiel
+
+Dokumentation der Studien- und Prüfungsordnungen
+
+Ordnungsnummer:
+
+6.3-121
+
+(Keine amtliche Bekanntmachung)
+
+Fachprüfungsordnung Physik 1-Fach
+Bachelor und Master
+103/62-0607-1
+
+Blatt: 4
+10/10
+
+§4
+Prüfungsausschuss
+(1) Der Prüfungsausschuss besteht aus fünf
+Mitgliedern der Gruppe der
+Hochschullehrerinnen und Hochschullehrer, einem Mitglied aus der Gruppe des
+wissenschaftlichen Dienstes und einem Mitglied aus der Gruppe der
+Studierenden.
+(2) Die Amtszeit der Hochschullehrerinnen und Hochschullehrer beträgt drei Jahre,
+der Gruppe des wissenschaftlichen Dienstes drei Jahre und die des studentischen
+Mitglieds ein Jahr.
+(3) Der Prüfungsausschuss ist beschlussfähig, wenn die Mehrheit der Mitglieder und
+mindestens drei Mitglieder aus der Gruppe der Hochschullehrerinnen und
+Hochschullehrer anwesend sind.
+§5
+Modulprüfungen und Modulnoten
+(1) Art
+und
+Zahl
+der
+im
+Rahmen
+der
+Module
+Modulprüfungsleistungen ergeben sich aus der Anlage.
+
+zu
+
+erbringenden
+
+(2) Der Umfang einer Klausur umfasst mindestens eine Stunde und höchstens vier
+Stunden. Der Umfang eines Seminarvortrags inklusive Diskussion umfasst 20 bis
+90 Minuten. Der Umfang einer mündlichen Prüfung umfasst 20 bis 40 Minuten.
+Daneben sind die folgenden Prüfungsleistungen vorgesehen: Präsenzübungen
+(Vorführen und Erläutern von Lösungswegen zu Übungsaufgaben durch die
+Teilnehmer während der Übung), Hausarbeiten (regelmäßige Bearbeitung von
+Übungsaufgaben,
+bzw.
+Praktikumsprotokolle
+zu
+den
+einzelnen
+Praktikumsversuchen), schriftliche Ausarbeitungen.
+(3) Besteht eine Modulprüfung aus mehreren Prüfungsleistungen, ergibt sich die
+Modulnote aus dem gewichteten Mittel der erzielten Einzelnoten. Gewichtung und
+Einzelheiten sind der Anlage zu entnehmen.
+(4) Wird eine Modulprüfungsleistung von mehreren Prüferinnen oder Prüfern
+gemeinsam gestellt, wird die Note gemeinsam festgelegt.
+(5) Schriftliche Modulprüfungsleistungen werden im Anschluss an die Vorlesungszeit
+des Wintersemesters innerhalb von zwei Wochen und im Anschluss an die
+Vorlesungszeit des Sommersemesters innerhalb von 6 Wochen bewertet.
+
+Christian-Albrechts-Universität zu Kiel
+
+Dokumentation der Studien- und Prüfungsordnungen
+
+Ordnungsnummer:
+
+6.3-121
+
+(Keine amtliche Bekanntmachung)
+
+Fachprüfungsordnung Physik 1-Fach
+Bachelor und Master
+103/62-0607-1
+
+Blatt: 5
+10/10
+
+§6
+- gestrichen §7
+Weitere Voraussetzungen für die Zulassung zu Prüfungsleistungen
+(1) Beinhaltet ein Modul Seminare, Übungen, Präsenzübungen oder Praktika, setzt
+die Zulassung zur Prüfungsleistung die regelmäßige Teilnahme an diesen Lehrveranstaltungen voraus. Für die genannten Lehrveranstaltungen gilt: Bei einer
+wöchentlich über die gesamte Vorlesungszeit stattfindenden Lehrveranstaltung
+außer Praktika darf höchstens ein Veranstaltungstermin ohne Nachweis triftiger
+Gründe versäumt werden, soweit dadurch keine Prüfungsleistung oder
+Teilprüfungsleistung versäumt wird. In allen sonstigen Fällen darf ohne Nachweis
+triftiger Gründe kein Lehrveranstaltungstermin versäumt werden. Sollten weitere
+Veranstaltungstermine,
+höchstens
+jedoch
+insgesamt
+40
+%
+aller
+Lehrveranstaltungstermine, durch Krankheit oder andere triftige Gründe versäumt
+werden, so hat der für die Lehrveranstaltung verantwortliche prüfungsberechtigte
+Lehrende die Möglichkeit, die versäumten Veranstaltungsteile durch eine
+äquivalente Leistung zu ersetzen, ein Anspruch des Studierenden hierauf besteht
+jedoch nicht. Die Gründe für das Versäumnis der Lehrveranstaltungen sind
+unverzüglich nachzuweisen, bei Krankheit durch ein ärztliches Attest.
+Im Fall von Übungen oder Präsenzübungen erfordert die Zulassung zur Modulprüfung die aktive Beteiligung an der Übung. Einzelheiten werden zu Beginn der
+Lehrveranstaltung bekannt gegeben.
+(2) Weitere Voraussetzungen zur Zulassung zu Prüfungsleistungen ergeben sich aus
+der Anlage.
+§8
+- gestrichen -
+
+§9
+Bachelor- und Master-Arbeit
+(1) Mit dem Antrag auf Zulassung zur Bachelor- oder Master-Arbeit kann die
+Prüfungskandidatin oder der Prüfungskandidat die Betreuerin oder den
+Betreuer und ein Thema vorschlagen, ohne dass dadurch ein Anspruch
+begründet wird.
+(2) Die Betreuung der Arbeit kann auch durch andere Personen als die
+Erstgutachterin oder den Erstgutachter erfolgen. Die Betreuerin oder der
+Betreuer der Bachelor- oder Masterarbeit muss prüfungsberechtigtes Mitglied
+der Sektion Physik sein. Abweichend davon kann auf Antrag der Kandidatin
+oder des Kandidaten die Masterarbeit auch außerhalb der Sektion Physik
+
+Christian-Albrechts-Universität zu Kiel
+
+Dokumentation der Studien- und Prüfungsordnungen
+
+Ordnungsnummer:
+
+6.3-121
+
+(Keine amtliche Bekanntmachung)
+
+Fachprüfungsordnung Physik 1-Fach
+Bachelor und Master
+103/62-0607-1
+
+Blatt: 6
+10/10
+
+angefertigt werden, sofern der Schwerpunkt der Arbeit physikalischer Natur ist
+und der Prüfungsausschuss der externen Betreuung zustimmt. Entsprechendes
+gilt sinngemäß für die mit der Masterarbeit inhaltlich zusammenhängenden
+Module MNF-phys-1311 (Fachliche Spezialisierung) und MNF-phys-1321
+(Methodenkenntnisse und Projektplanung).
+(3) Die Ergebnisse der Bachelor- oder Master-Arbeit sind vor Abgabe der
+schriftlichen Ausarbeitung in einem wissenschaftlichen Vortrag mit Diskussion
+mündlich zu verteidigen. Diese Prüfungsteilleistung muss von beiden
+Gutachtern in einem gemeinsamen Votum mit bestanden bewertet werden.
+(4) Die schriftliche Ausarbeitung der Bachelorarbeit wird benotet. Weichen die
+Bewertungen von Erstgutachterin oder Erstgutachter und zweiter Gutachterin
+oder zweitem Gutachter um eine ganze Note oder mehr voneinander ab oder
+bewertet nur eine oder einer von ihnen die Arbeit mit "nicht ausreichend", so
+bestellt die oder der Prüfungsausschussvorsitzende eine Drittgutachterin oder
+einen Drittgutachter. Die endgültige Bewertung der Arbeit erfolgt durch
+arithmetische Mittelung der drei Bewertungen; dabei wird nur die erste
+Dezimale nach dem Komma berücksichtigt. Falls zwei Gutachterinnen oder
+Gutachter mit "ausreichend" und eine oder einer mit "nicht ausreichend"
+bewerten, wird die Bewertung der Arbeit auf "ausreichend" (Note 4,0) gerundet.
+Falls zwei Gutachterinnen oder Gutachter die Arbeit mit "nicht ausreichend"
+bewerten, ist auch die endgültige Bewertung "nicht ausreichend".
+(5) Die Master-Arbeit ist innerhalb von sechs Wochen durch beide Gutachterinnen
+oder Gutachter zu bewerten.
+(6) Mit Zustimmung des Betreuers kann die Master-Arbeit auch in englischer
+Sprache abgefasst werden. In diesem Fall ist ihr eine Zusammenfassung in
+deutscher Sprache beizufügen.
+(7) Die Teilleistungen der Bachelorarbeit können nur gemeinsam wiederholt
+werden.
+
+§ 10
+Beschränkung der Zulassung zu Pflicht- oder Wahlpflichtlehrveranstaltungen
+(1) Die Zahl der für die einzelnen Pflicht- oder Wahlpflichtlehrveranstaltungen zur
+Verfügung stehenden Plätze wird auf Antrag des Instituts für Experimentelle und
+Angewandte Physik oder des Instituts für Theoretische Physik und Astrophysik
+durch den Fakultätskonvent festgestellt. Melden sich zu Praktika, Seminaren oder
+Übungen erstmalig mehr Studierende als Plätze vorhanden sind, so prüft der
+Fakultätsausschuss Physik, ob der Überhang durch andere oder zusätzliche
+Lehrveranstaltungen abgebaut werden kann.
+
+Christian-Albrechts-Universität zu Kiel
+
+Dokumentation der Studien- und Prüfungsordnungen
+
+Ordnungsnummer:
+
+6.3-121
+
+(Keine amtliche Bekanntmachung)
+
+Fachprüfungsordnung Physik 1-Fach
+Bachelor und Master
+103/62-0607-1
+
+Blatt: 7
+10/10
+
+(2) Ist ein Abbau des Überhangs nicht möglich, so trifft die für die Lehrveranstaltung
+verantwortliche Person die Auswahl unter denjenigen Studierenden, die in einem
+Studiengang eingeschrieben sind, in dem die Lehrveranstaltung studienplanmäßig vorgesehen ist, sich rechtzeitig bis zu dem von der verantwortlichen
+Person festgesetzten Termin angemeldet haben und die Voraussetzungen für die
+Teilnahme erfüllen, nach folgende Kriterien:
+a. Die erste Anwartschaft besitzen Studierende, für deren ordnungs- und
+studienplanmäßiges Studium der Besuch dieser konkreten Lehrveranstaltung
+erforderlich ist und die im vorhergehenden Semester aus kapazitären Gründen
+um ein Semester zurückgestellt worden sind.
+b. Die zweite Anwartschaft besitzen Studierende, die sich in dem Fachsemester
+befinden, in dem die Lehrveranstaltung nach dem Studienplan vorgesehen ist
+und Studierende, die den entsprechenden Leistungsnachweis im
+vorhergehenden Semester nicht bestanden haben und deshalb nach
+Maßgabe dieser Prüfungsordnung erneut an der Lehrveranstaltung
+teilnehmen müssen. Innerhalb dieser Anwartschaft stehen 90% der Plätze der
+ersten und 10% der zweiten Gruppe zu.
+c. Die dritte Anwartschaft besitzen Studierende, die sich nicht in dem
+Fachsemester befinden, in dem die Lehrveranstaltung nach dem Studienplan
+vorgesehen ist, und sich erstmals für die betreffende Lehrveranstaltung
+anmelden, und Studierende, die in einem vorangegangenen Semester bereits
+einen Platz in der betreffenden Lehrveranstaltung erhalten haben und diesen
+aus einem triftigen Grund gemäß § 52 Abs. 4 des Hochschulgesetzes oder
+einem vergleichbaren Grund aufgeben mussten.
+d. Die vierte Anwartschaft besitzen Studierende, die in vorangegangenen
+Semestern bereits einen Platz in der betreffenden Lehrveranstaltung erhalten
+haben und ohne Nachweis eines triftigen Grundes aufgegeben haben.
+Bei gleicher Anwartschaft entscheidet die niedrigere Fachsemesterzahl, bei
+gleicher Fachsemesterzahl entscheidet das Los. Über Härtefälle entscheidet der
+Prüfungsausschuss.
+
+II. Besondere Prüfungsbestimmungen für den Bachelor-Studiengang
+§ 11
+Studienziel, Zweck der Prüfung
+(1) Der Bachelor-Studiengang Physik ist ein grundständiger wissenschaftlicher
+Studiengang. Im Studiengang werden wissenschaftliche Grundlagen der Physik
+und Methodenkenntnisse vermittelt. Die Studierenden werden zur Abstraktion und
+Reduktion von Problemstellungen auf die essentiellen Punkte und zur
+Problemlösung befähigt. Sie werden zu selbständigem verantwortlichen Handeln
+und kritischer Reflektion der Ergebnisse angeleitet.
+
+Christian-Albrechts-Universität zu Kiel
+
+Dokumentation der Studien- und Prüfungsordnungen
+
+Ordnungsnummer:
+
+6.3-121
+
+(Keine amtliche Bekanntmachung)
+
+Fachprüfungsordnung Physik 1-Fach
+Bachelor und Master
+103/62-0607-1
+
+Blatt: 8
+10/10
+
+(2) Zweck der Bachelor-Prüfung ist der Nachweis des Erwerbs der in den
+Lehrveranstaltungen vermittelten Inhalte der Physik sowie der Beherrschung
+eines grundlegenden methodischen Instrumentariums zur Bearbeitung und
+Lösung physikalischer Problemstellungen. Mit der Prüfung soll die Qualifikation
+für ein weiterführendes Master-Studium im Fach Physik und eine
+Berufsqualifikation festgestellt werden.
+§ 12
+Studienaufbau
+Das Bachelor-Studium hat eine Regelstudienzeit von sechs Semestern. Das
+Studienvolumen umfasst etwa 127 Semesterwochenstunden und 180
+Leistungspunkte inklusive 12 Leistungspunkten für die Bachelor-Arbeit.
+§ 13
+Akademischer Grad
+Aufgrund der bestandenen Bachelor-Prüfung wird der Grad des Bachelor of Science
+(B.Sc) vergeben.
+§ 14
+Bachelor- Arbeit
+(1) Zur Bachelor-Arbeit kann zugelassen werden, wer durch Modulprüfungen in
+Pflicht- und Wahlpflichtmodulen mindestens 100 Leistungspunkte erworben hat.
+(2) Die Zeit von der Ausgabe des Themas bis zur Ablieferung der Bachelor-Arbeit
+beträgt drei Monate. Eine Verlängerung der Bearbeitungszeit gemäß der
+Prüfungsverfahrensordnung für Bachelor- und Master-Studiengänge darf nicht
+mehr als die Hälfte der Bearbeitungszeit betragen.
+(3) Das Thema der Bachelor-Arbeit kann nur einmal und nur innerhalb eines Monats
+zurückgegeben werden.
+§ 15
+Bildung der Gesamtnote
+(1) Die Gesamtnote errechnet sich aus dem mit den Leistungspunkten gewichteten
+arithmetischen Mittelwert der Bereichsnoten, wobei das dem Bereich zugeordnete
+Gesamtgewicht eingeht, und der Note für die Bachelorarbeit (MNF-phys-603). Die
+Bereiche sind wie folgt festgelegt:
+Der Bereich Experimentalphysik beinhaltet die Module
+MNF-phys-101 (Physik I: Mechanik und Wärmelehre),
+MNF-phys-201 (Physik II: Elektrizitätslehre und Optik),
+MNF-phys-301 (Physik III: Atom und Quantenphysik),
+
+Christian-Albrechts-Universität zu Kiel
+
+Dokumentation der Studien- und Prüfungsordnungen
+
+Ordnungsnummer:
+
+6.3-121
+
+(Keine amtliche Bekanntmachung)
+
+Fachprüfungsordnung Physik 1-Fach
+Bachelor und Master
+103/62-0607-1
+
+Blatt: 9
+10/10
+
+MNF-phys-401 (Physik IV: Kern-, Teilchen-, Astrophysik und Kosmologie),
+MNF-phys-501 (Physik V: Festkörper und Oberflächenphysik) und
+MNF-phys-601 (Physik VI: Plasma- und Extraterrestrische Physik).
+Der Bereich Theoretische Physik beinhaltet die Module
+MNF-phys-302 (Theoretische Mechanik(Theorie I)),
+MNF-phys-402 (Elektrodynamik (Theorie II)),
+MNF-phys-502 (Quantenmechanik (Theorie III)) und
+MNF-phys-602 (Thermodynamik und Statistische Physik (Theorie IV)).
+Der Bereich Praktika beinhaltet die Module
+MNF-phys-403 (Physikalisches Anfängerpraktikum, Teil I) und
+MNF-phys-503 (Physikalisches Anfängerpraktikum, Teil II).
+Der Bereich Mathematik beinhaltet die Module
+MNF-phys-104 (Mathematik für Physiker I),
+MNF-phys-204 (Mathematik für Physiker II) und
+MNF-phys-304 (Mathematik für Physiker III).
+Der Wahlpflichtbereich umfasst entweder das Modul MNF-chem0002
+(Anorganische Chemie für Physiker) oder die beiden Module der Informatik InfProg (Programmierung) und NF-Inf-2-Phys (Systematisches Programmieren für
+Physiker).
+(2) Die Bereichsnote errechnet sich aus dem mit den Leistungspunkten der Module
+gewichteten arithmetischen Mittelwert der in die Bereichsnote eingehenden
+Modulnoten.
+Für die Berechnung der Gesamtnote werden die Bereichsnoten und die Note für
+die Bachelor-Arbeit in folgender Weise berücksichtigt:
+Aus dem Bereich Experimentalphysik werden die Modulnoten der besten 5
+Module mit dem Gesamtgewicht von 46 Leistungspunkten gewichtet.
+Aus dem Bereich Theoretische Physik werden die Modulnoten der besten 3
+Module mit dem Gesamtgewicht von 34 Leistungspunkten gewichtet.
+Aus dem Bereich Praktika werden alle Modulnoten mit dem Gesamtgewicht von
+18 Leistungspunkten berücksichtigt.
+Aus dem Bereich Mathematik werden die Modulnoten der besten 2 Module mit
+dem Gesamtgewicht von 27 Leistungspunkten gewichtet.
+Aus dem Wahlpflichtbereich werden alle Modulnoten mit dem Gesamtgewicht von
+10 Leistungspunkten berücksichtigt.
+Die Bachelor-Arbeit wird mit dem Gewicht von 12 Leistungspunkten berücksichtigt.
+
+Christian-Albrechts-Universität zu Kiel
+
+Dokumentation der Studien- und Prüfungsordnungen
+
+Ordnungsnummer:
+
+6.3-121
+
+(Keine amtliche Bekanntmachung)
+
+Fachprüfungsordnung Physik 1-Fach
+Bachelor und Master
+103/62-0607-1
+
+Blatt: 10
+10/10
+
+III. Besondere Prüfungsbestimmungen für den Master-Studiengang
+§ 16
+Studienziel, Zweck der Prüfung
+(1) Im forschungsorientierten Master-Studiengang Physik werden vertiefte
+Kenntnisse der Physik vermittelt. Die Studierenden werden befähigt, Probleme
+der aktuellen physikalischen Forschung
+mit wissenschaftlichen Methoden
+selbständig unter Anleitung zu bearbeiten, die Ergebnisse selbstkritisch zu
+beurteilen und schlüssig entsprechend den Gepflogenheiten des Fachs in
+Vorträgen sowie in schriftlicher Form darzustellen. Sie lernen, komplexe
+Problemstellungen zu analysieren, selbständig und kreativ Lösungsstrategien zu
+erarbeiten und im begrenzten Zeitrahmen Projekte zu planen und durchzuführen,
+sowie die Ergebnisse überzeugend zu präsentieren. Die Studierenden erarbeiten
+sich damit Kompetenzen, die sie im breiten Rahmen für Tätigkeiten im Bereich
+der physikalischen Forschung und technologischen Entwicklung sowie ähnlichen
+Tätigkeiten qualifizieren.
+(2) Zweck der Masterprüfung ist der Nachweis des in den gewählten
+Lehrveranstaltungen vermittelten vertieften Fachwissens. Darüber hinaus soll die
+Kandidatin oder der Kandidat nachweisen, dass sie oder er zur selbständigen
+Projektplanung, eigenständigen wissenschaftlichen Arbeit unter Anleitung und
+adäquaten Präsentation seiner Ergebnisse in schriftlicher wie in mündlicher Form
+befähigt ist.
+§ 17
+Studienaufbau
+Das Master-Studium hat eine Regelstudienzeit von vier Semestern. Das
+Studienvolumen umfasst 120 Leistungspunkte inklusive 30 Leistungspunkten für die
+Master-Arbeit.
+§ 18
+Zugang zum Masterstudium
+Zum Masterstudium wird zugelassen, wer zuvor nach einem Studium mit einer
+Regelstudienzeit von mindestens drei Jahren an einer Hochschule in der
+Bundesrepublik Deutschland oder an einer gleichwertigen ausländischen Hochschule
+im Fach Physik oder in einem verwandten Fach eine Bachelor-Prüfung mit
+mindestens 180 Leistungspunkten nach ECTS mindestens mit der Note befriedigend
+oder aber eine vergleichbare Abschlussprüfung bestanden hat. Bei Bewerbern mit
+einem BSc in einem der Physik verwandten Fach müssen mindestens 90
+Leistungspunkte im Fach Physik und mindestens 30 Leistungspunkte im Fach
+Mathematik, einschließlich Vorlesungen und Übungen zu elementaren
+mathematischen Methoden der Physik, erworben sein, wobei die betreffenden
+Module inhaltlich in etwa äquivalent zu entsprechenden Modulen eines Ein-Fach-
+
+Christian-Albrechts-Universität zu Kiel
+
+Dokumentation der Studien- und Prüfungsordnungen
+
+Ordnungsnummer:
+
+6.3-121
+
+(Keine amtliche Bekanntmachung)
+
+Fachprüfungsordnung Physik 1-Fach
+Bachelor und Master
+103/62-0607-1
+
+Blatt: 11
+10/10
+
+Bachelor-Studiengangs in Physik sein müssen. Diese Bedingungen gelten
+sinngemäß für vergleichbare Abschlussprüfungen. In begründeten Ausnahmefällen
+entscheidet der Prüfungsausschuss über die Zulassung zum Masterstudium. Die
+Zulassung kann unter Auflagen erfolgen.
+§ 19
+Akademischer Grad
+Aufgrund der bestandenen Master-Prüfung wird der Grad des Master of Science
+(M.Sc.) vergeben.
+§ 20
+Master-Arbeit
+(1) Zur Master-Arbeit kann zugelassen werden, wer durch Modulprüfungen in Pflichtund Wahlpflichtmodulen mindestens 90 Leistungspunkte erworben hat.
+Insbesondere ist der erfolgreiche konsekutive Abschluss der Module MNF-phys1311 (Fachliche Spezialisierung) und MNF-phys-1321 (Methodenkenntnisse und
+Projektplanung) Voraussetzung. Die Module MNF-phys-1311 (Fachliche
+Spezialisierung), MNF-phys-1321 (Methodenkenntnisse und Projektplanung)
+sowie MNF-phys-1411 (Masterarbeit) bauen inhaltlich aufeinander auf.
+(2) Die Zeit von der Ausgabe des Themas bis zur Ablieferung der Master-Arbeit
+beträgt sechs Monate. Eine Verlängerung der Bearbeitungszeit gemäß der
+Prüfungsverfahrensordnung für Bachelor- und Master-Studiengänge darf nicht
+mehr als drei Monate betragen. Über Härtefälle entscheidet der
+Prüfungsausschuss.
+(3) Das Thema der Master-Arbeit kann nur einmal und nur innerhalb des ersten
+Monats zurückgegeben werden.
+§ 21
+Bildung der Gesamtnote
+(1) Die Gesamtnote wird aus den folgenden Noten, gewichtet mit den zugeordneten
+Leistungspunkten multipliziert mit einem Anrechnungsfaktor, gebildet:
+ein Modul aus MNF-phys-1111 bis 1116 (Wahlpflichtschwerpunkt) mit dem
+Anrechnungsfaktor 1,
+ein Modul aus MNF-phys-1121 bis 1126 (Wahlpflichtfach) mit dem
+Anrechnungsfaktor 1,
+Modul MNF-phys-1311 (Fachliche Spezialisierung) mit dem Anrechnungsfaktor
+0,5,
+Modul MNF-phys-1321 (Methodenkenntnisse und Projektplanung) mit dem
+Anrechnungsfaktor 0,5,
+die Note des Profilbildungsbereiches mit dem Gewicht von 6 Leistungspunkten
+und dem Anrechnungsfaktor 1
+sowie die Note der Masterarbeit mit dem Anrechnungsfaktor 1.
+
+Christian-Albrechts-Universität zu Kiel
+
+Dokumentation der Studien- und Prüfungsordnungen
+
+Ordnungsnummer:
+
+6.3-121
+
+(Keine amtliche Bekanntmachung)
+
+Fachprüfungsordnung Physik 1-Fach
+Bachelor und Master
+
+Blatt: 12
+10/10
+
+103/62-0607-1
+
+(2) Im Profilbildungsbereich müssen mindestens 6 der 10 zu erbringenden
+Leistungspunkte aus benoteten Modulen stammen, wobei sich die Bereichsnote
+aus dem nach Leistungspunkten gewichteten Mittelwert der benoteten Module
+ergibt.
+
+IV. Übergangs- und Schlussbestimmungen
+§ 22
+Übergangsbestimmungen
+(1) Diese Prüfungsordnung gilt erstmals für die Studierenden, die ihr Studium im
+Wintersemester 2007/2008 aufnehmen.
+(2) Studierende, die zum Zeitpunkt des Inkrafttretens dieser Satzung in einem
+Studiengang mit dem Abschluss Diplom-Physik eingeschrieben sind, können bis zum
+30.09.09 in den entsprechenden Bachelorstudiengang desselben Fachs
+umgeschrieben werden und die Prüfung nach dieser Satzung ablegen, wenn sie
+1. das Vordiplom an dieser Universität abgelegt haben oder andere
+Prüfungsleistungen erbracht haben, deren Note in die Berechnung der
+Bachelor-Note einbezogen werden können und
+2. den Antrag auf Wechsel der Studiengänge gestellt haben.
+Über Zweifelsfragen und über Härtefälle entscheidet der Prüfungsausschuss.
+§ 23
+In-Kraft-Treten
+Diese Satzung tritt am Tage nach ihrer Bekanntmachung in Kraft.
+Die Genehmigung nach Artikel 1 § 52 Abs.1 Satz 1 i.V.m. Artikel 2 § 1 Abs. 4 des
+Hochschulgesetzes wurde durch das Präsidium der Christian-Albrechts-Universität
+zu Kiel mit Schreiben vom 28. November 2007 erteilt.
+Kiel, den 29. November 2007
+Der Dekan der
+Mathematisch-Naturwissenschaftlichen Fakultät
+Christian-Albrechts-Universität zu Kiel
+Prof. Dr. Jürgen Grotemeyer
+
+Christian-Albrechts-Universität zu Kiel
+
+Dokumentation der Studien- und Prüfungsordnungen
+
+Ordnungsnummer:
+
+6.3-121
+
+(Keine amtliche Bekanntmachung)
+
+Fachprüfungsordnung Physik 1-Fach
+Bachelor und Master
+103/62-0607-1
+
+Blatt: 13
+10/10
+
+Artikel 2 der Änderungssatzung vom 17. September 2008:
+(1) Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft.
+(2) Modulprüfungen, die bei Inkrafttreten dieser Satzung vollständig absolviert und
+bestanden worden sind, behalten ihre Gültigkeit.
+(3) Hat eine Studierende oder ein Studierender selbstständige Teilleistungen einer
+Modulprüfung absolviert und bestanden, werden diese Prüfungen angerechnet. Der
+Prüfungsausschuss entscheidet unter Berücksichtigung der Lernziele des Moduls
+und des Prüfungszwecks, welche weiteren Prüfungsleistungen zur Vervollständigung
+des jeweiligen Moduls erbracht werden müssen.
+(4) Ist eine Prüfungsleistung bei Inkrafttreten dieser Satzung absolviert und
+bestanden, und ist diese Prüfungsleistung nach den neuen Regelungen unbenotet,
+wird die Note nicht eingerechnet. Auf Antrag des Studierenden entscheidet der
+Prüfungsausschuss über eine Einrechnung nach Maßgabe der alten
+Prüfungsordnung. Der Antrag ist bis zum 31.03.2009 zu stellen.
+(5) Fehlversuche, die im Rahmen von Prüfungen vor Inkrafttreten dieser Satzung
+unternommen wurden, werden auf die Anzahl der Versuche nach der neuen
+Prüfungsordnung angerechnet, sofern sich die Anrechnung nicht nach der Struktur
+der neuen Modulprüfung verbietet.
+(6) Über Härtefälle, die vom Studierenden nicht zu vertreten sind, entscheidet der
+Prüfungsausschuss auf Antrag.
+
+Artikel 2 der Änderungssatzung vom 13. Februar 2009
+(1) Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft.
+(2) Modulprüfungen, die bei Inkrafttreten dieser Satzung vollständig absolviert und
+bestanden worden sind, behalten ihre Gültigkeit.
+(3) Hat eine Studierende oder ein Studierender selbstständige Teilleistungen einer
+Modulprüfung absolviert und bestanden, werden diese Prüfungen angerechnet. Der
+Prüfungsausschuss entscheidet unter Berücksichtigung der Lernziele des Moduls
+und des Prüfungszwecks, welche weiteren Prüfungsleistungen zur Vervollständigung
+des jeweiligen Moduls erbracht werden müssen.
+(4) Ist eine Prüfungsleistung bei Inkrafttreten dieser Satzung absolviert und
+bestanden, und ist diese Prüfungsleistung nach den neuen Regelungen unbenotet,
+wird die Note nicht eingerechnet. Auf Antrag des Studierenden entscheidet der
+Prüfungsausschuss über eine Einrechnung nach Maßgabe der alten
+Prüfungsordnung. Der Antrag ist bis zum 30.09.2009 zu stellen.
+(5) Fehlversuche, die im Rahmen von Prüfungen vor Inkrafttreten dieser Satzung
+unternommen wurden, werden auf die Anzahl der Versuche nach der neuen
+Prüfungsordnung angerechnet, sofern sich die Anrechnung nicht nach der Struktur
+der neuen Modulprüfung verbietet.
+(6) Über Härtefälle, die vom Studierenden nicht zu vertreten sind, entscheidet der
+Prüfungsausschuss auf Antrag.
+
+Christian-Albrechts-Universität zu Kiel
+
+Dokumentation der Studien- und Prüfungsordnungen
+
+Ordnungsnummer:
+
+6.3-121
+
+(Keine amtliche Bekanntmachung)
+
+Fachprüfungsordnung Physik 1-Fach
+Bachelor und Master
+103/62-0607-1
+
+Blatt: 14
+10/10
+
+Artikel 2 der Änderungssatzung vom 24. Juli 2009
+(1) Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft.
+(2) Modulprüfungen, die bei Inkrafttreten dieser Satzung vollständig absolviert und
+bestanden worden sind, behalten ihre Gültigkeit.
+(3) Hat eine Studierende oder ein Studierender selbstständige Teilleistungen einer
+Modulprüfung absolviert und bestanden, werden diese Prüfungen angerechnet. Der
+Prüfungsausschuss entscheidet unter Berücksichtigung der Lernziele des Moduls
+und des Prüfungszwecks, welche weiteren Prüfungsleistungen zur Vervollständigung
+des jeweiligen Moduls erbracht werden müssen.
+(4) Ist eine Prüfungsleistung bei Inkrafttreten dieser Satzung absolviert und
+bestanden, und ist diese Prüfungsleistung nach den neuen Regelungen unbenotet,
+wird die Note nicht eingerechnet. Auf Antrag des Studierenden entscheidet der
+Prüfungsausschuss über eine Einrechnung nach Maßgabe der alten
+Prüfungsordnung. Der Antrag ist bis zum 31.03.2010 zu stellen.
+(5) Fehlversuche, die im Rahmen von Prüfungen vor Inkrafttreten dieser Satzung
+unternommen wurden, werden auf die Anzahl der Versuche nach der neuen
+Prüfungsordnung angerechnet, sofern sich die Anrechnung nicht nach der Struktur
+der neuen Modulprüfung verbietet.
+(6)Über Härtefälle, die vom Studierenden nicht zu vertreten sind, entscheidet der
+Prüfungsausschuss auf Antrag.
+Artikel 2 der Änderungssatzung vom 17. Dezember 2009:
+(1) Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft.
+(2) Modulprüfungen, die bei Inkrafttreten dieser Satzung vollständig absolviert und
+bestanden worden sind, behalten ihre Gültigkeit.
+(3) Hat eine Studierende oder ein Studierender selbstständige Teilleistungen einer
+Modulprüfung absolviert und bestanden, werden diese Prüfungen angerechnet. Der
+Prüfungsausschuss entscheidet unter Berücksichtigung der Lernziele des Moduls
+und des Prüfungszwecks, welche weiteren Prüfungsleistungen zur Vervollständigung
+des jeweiligen Moduls erbracht werden müssen.
+(4) Ist eine Prüfungsleistung bei Inkrafttreten dieser Satzung absolviert und
+bestanden, und ist diese Prüfungsleistung nach den neuen Regelungen unbenotet,
+wird die Note nicht eingerechnet. Auf Antrag des Studierenden entscheidet der
+Prüfungsausschuss über eine Einrechnung nach Maßgabe der alten
+Prüfungsordnung. Der Antrag ist bis zum 31.03.2010 zu stellen.
+(5) Fehlversuche, die im Rahmen von Prüfungen vor Inkrafttreten dieser Satzung
+unternommen wurden, werden auf die Anzahl der Versuche nach der neuen
+Prüfungsordnung angerechnet, sofern sich die Anrechnung nicht nach der Struktur
+der neuen Modulprüfung verbietet.
+(6) Über Härtefälle, die vom Studierenden nicht zu vertreten sind, entscheidet der
+Prüfungsausschuss auf Antrag.
+
+Christian-Albrechts-Universität zu Kiel
+
+Dokumentation der Studien- und Prüfungsordnungen
+
+Ordnungsnummer:
+
+6.3-121
+
+(Keine amtliche Bekanntmachung)
+
+Fachprüfungsordnung Physik 1-Fach
+Bachelor und Master
+103/62-0607-1
+
+Blatt: 15
+10/10
+
+Artikel 2 der Änderungssatzung vom 23. Juli 2010:
+(1) Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft.
+(2) Modulprüfungen, die bei Inkrafttreten dieser Satzung vollständig absolviert und
+bestanden worden sind, behalten ihre Gültigkeit.
+(3) Hat eine Studierende oder ein Studierender selbstständige Teilleistungen einer
+Modulprüfung absolviert und bestanden, werden diese Prüfungen angerechnet. Der
+Prüfungsausschuss entscheidet unter Berücksichtigung der Lernziele des Moduls
+und des Prüfungszwecks, welche weiteren Prüfungsleistungen zur Vervollständigung
+des jeweiligen Moduls erbracht werden müssen.
+(4) Ist eine Prüfungsleistung bei Inkrafttreten dieser Satzung absolviert und
+bestanden, und ist diese Prüfungsleistung nach den neuen Regelungen unbenotet,
+wird die Note nicht eingerechnet. Auf Antrag des Studierenden entscheidet der
+Prüfungsausschuss über eine Einrechnung nach Maßgabe der alten
+Prüfungsordnung. Der Antrag ist bis zum 31.03.2011 zu stellen.
+(5) Fehlversuche, die im Rahmen von Prüfungen vor Inkrafttreten dieser Satzung
+unternommen wurden, werden auf die Anzahl der Versuche nach der neuen
+Prüfungsordnung angerechnet, sofern sich die Anrechnung nicht nach der Struktur
+der neuen Modulprüfung verbietet.
+(6) Über Härtefälle, die vom Studierenden nicht zu vertreten sind, entscheidet der
+Prüfungsausschuss auf Antrag.
 
 Christian-Albrechts-Universität zu Kiel
 
 Ordnungsnummer:
 
+6.3-121
+
 Dokumentation der Studien- und Prüfungsordnungen
 (Keine amtliche Bekanntmachung)
 
-6.3-121 Blatt: 2 10/10
+Fachprüfungsordnung Physik 1-Fach
+Bachelor und Master
 
-Fachprüfungsordnung Physik 1-Fach Bachelor und Master
+Blatt: 16
+10/10
+
 103/62-0607-1
+Physik
+1. Studienverlaufsplan für den Bachelor of Science „Physik“
 
-§ 14 Bachelor-Arbeit § 15 Bildung der Gesamtnote
+Modul
+1.
+Semester
 
-III. Besondere Prüfungsbestimmungen für den Master-Studiengang § 16 § 17 § 18 § 19 § 20 § 21 Studienziel, Zweck der Prüfung Studienaufbau Zugang zum Master-Studium Akademischer Grad Master-Arbeit Bildung der Gesamtnote
+phys101
+phys102
+phys104
+phys105
 
-IV. Übergangs- und Schlussbestimmungen § 22 Übergangsbestimmungen § 23 In-Kraft-Treten
+Modulbezeichnung
 
-Christian-Albrechts-Universität zu Kiel
+LF
 
-Ordnungsnummer:
+SWS
 
-Dokumentation der Studien- und Prüfungsordnungen
-(Keine amtliche Bekanntmachung)
+phys201
+phys203
+phys102
+phys204
 
-6.3-121 Blatt: 3 10/10
+4.
+Semester
 
-Fachprüfungsordnung Physik 1-Fach Bachelor und Master
-103/62-0607-1
+PL
 
-I. Allgemeine Prüfungsbestimmungen §1 Geltungsbereich (1) Diese Fachprüfungsordnung regelt in Verbindung mit der Prüfungsverfahrensordnung der Christian-Albrechts-Universität zu Kiel für Studierende der Bachelorund Master-Studiengänge (Prüfungsverfahrensordnung) das Studium des Fachs Physik an der Christian-Albrechts-Universität zu Kiel. (2) Sie gilt für 1. alle Module, die ausschließlich Bestandteil der in dieser Prüfungsordnung geregelten Studiengänge sind, 2. alle Module, die Bestandteil der in dieser Prüfungsordnung geregelten Studiengänge und zugleich als exportierte Module Bestandteil anderer Studiengänge sind, 3. alle Module, die ausschließlich als exportierte Module Bestandteil anderer Studiengänge sind. (3) Sofern diese Prüfungsordnung keine andere Regelung trifft, gelten für die Zulassung zu importierten Modulen und die Durchführung der jeweiligen Modulprüfung die entsprechenden Bestimmungen des anbietenden Fachs. §2 Studienjahr Für die Studiengänge dieser Prüfungsordnung gilt das Studienjahr. Die Lehrveranstaltungen für Studienanfänger und weitere Studierende ungerader Fachsemester werden nur zu einem Wintersemester angeboten. Einschreibungen zu ungeraden Fachsemestern sind zu einem Wintersemester und zu einem Sommersemester möglich. Der Studienbeginn sowie Einschreibungen zu ungeraden Fachsemestern werden zum Wintersemester empfohlen. §3 Unterrichts- und Prüfungssprache Unterrichtssprache ist in der Regel Deutsch. Module können in englischer Sprache angeboten werden. In diesen Fällen ist die Unterrichtssprache auch Prüfungssprache.
+Sem.
 
-Christian-Albrechts-Universität zu Kiel
+V/Ü
 
-Ordnungsnummer:
+4/2
 
-Dokumentation der Studien- und Prüfungsordnungen
-(Keine amtliche Bekanntmachung)
+P
 
-6.3-121 Blatt: 4 10/10
+keine
 
-Fachprüfungsordnung Physik 1-Fach Bachelor und Master
-103/62-0607-1
+K (1)
 
-§4 Prüfungsausschuss (1) Der Prüfungsausschuss besteht aus fünf Mitgliedern der Gruppe der Hochschullehrerinnen und Hochschullehrer, einem Mitglied aus der Gruppe des wissenschaftlichen Dienstes und einem Mitglied aus der Gruppe der Studierenden. (2) Die Amtszeit der Hochschullehrerinnen und Hochschullehrer beträgt drei Jahre, der Gruppe des wissenschaftlichen Dienstes drei Jahre und die des studentischen Mitglieds ein Jahr. (3) Der Prüfungsausschuss ist beschlussfähig, wenn die Mehrheit der Mitglieder und mindestens drei Mitglieder aus der Gruppe der Hochschullehrerinnen und Hochschullehrer anwesend sind. §5 Modulprüfungen und Modulnoten (1) Art und Zahl der im Rahmen der Module Modulprüfungsleistungen ergeben sich aus der Anlage. zu erbringenden
+Elementare Mathematische Methoden
+der Physik I+II
+Mathematik für Physiker I
 
-(2) Der Umfang einer Klausur umfasst mindestens eine Stunde und höchstens vier Stunden. Der Umfang eines Seminarvortrags inklusive Diskussion umfasst 20 bis 90 Minuten. Der Umfang einer mündlichen Prüfung umfasst 20 bis 40 Minuten. Daneben sind die folgenden Prüfungsleistungen vorgesehen: Präsenzübungen (Vorführen und Erläutern von Lösungswegen zu Übungsaufgaben durch die Teilnehmer während der Übung), Hausarbeiten (regelmäßige Bearbeitung von Übungsaufgaben, bzw. Praktikumsprotokolle zu den einzelnen Praktikumsversuchen), schriftliche Ausarbeitungen. (3) Besteht eine Modulprüfung aus mehreren Prüfungsleistungen, ergibt sich die Modulnote aus dem gewichteten Mittel der erzielten Einzelnoten. Gewichtung und Einzelheiten sind der Anlage zu entnehmen. (4) Wird eine Modulprüfungsleistung von mehreren Prüferinnen oder Prüfern gemeinsam gestellt, wird die Note gemeinsam festgelegt. (5) Schriftliche Modulprüfungsleistungen werden im Anschluss an die Vorlesungszeit des Wintersemesters innerhalb von zwei Wochen und im Anschluss an die Vorlesungszeit des Sommersemesters innerhalb von 6 Wochen bewertet.
+V/Ü
 
-Christian-Albrechts-Universität zu Kiel
+P
 
-Ordnungsnummer:
+keine
 
-Dokumentation der Studien- und Prüfungsordnungen
-(Keine amtliche Bekanntmachung)
+PÜ
 
-6.3-121 Blatt: 5 10/10
+V/Ü
 
-Fachprüfungsordnung Physik 1-Fach Bachelor und Master
-103/62-0607-1
+6/2 ü.
+2 Sem
+4/2
 
-§6 - gestrichen §7 Weitere Voraussetzungen für die Zulassung zu Prüfungsleistungen (1) Beinhaltet ein Modul Seminare, Übungen, Präsenzübungen oder Praktika, setzt die Zulassung zur Prüfungsleistung die regelmäßige Teilnahme an diesen Lehrveranstaltungen voraus. Für die genannten Lehrveranstaltungen gilt: Bei einer wöchentlich über die gesamte Vorlesungszeit stattfindenden Lehrveranstaltung außer Praktika darf höchstens ein Veranstaltungstermin ohne Nachweis triftiger Gründe versäumt werden, soweit dadurch keine Prüfungsleistung oder Teilprüfungsleistung versäumt wird. In allen sonstigen Fällen darf ohne Nachweis triftiger Gründe kein Lehrveranstaltungstermin versäumt werden. Sollten weitere Veranstaltungstermine, höchstens jedoch insgesamt 40 % aller Lehrveranstaltungstermine, durch Krankheit oder andere triftige Gründe versäumt werden, so hat der für die Lehrveranstaltung verantwortliche prüfungsberechtigte Lehrende die Möglichkeit, die versäumten Veranstaltungsteile durch eine äquivalente Leistung zu ersetzen, ein Anspruch des Studierenden hierauf besteht jedoch nicht. Die Gründe für das Versäumnis der Lehrveranstaltungen sind unverzüglich nachzuweisen, bei Krankheit durch ein ärztliches Attest. Im Fall von Übungen oder Präsenzübungen erfordert die Zulassung zur Modulprüfung die aktive Beteiligung an der Übung. Einzelheiten werden zu Beginn der Lehrveranstaltung bekannt gegeben. (2) Weitere Voraussetzungen zur Zulassung zu Prüfungsleistungen ergeben sich aus der Anlage. §8 - gestrichen -
+P
 
-§9 Bachelor- und Master-Arbeit (1) Mit dem Antrag auf Zulassung zur Bachelor- oder Master-Arbeit kann die Prüfungskandidatin oder der Prüfungskandidat die Betreuerin oder den Betreuer und ein Thema vorschlagen, ohne dass dadurch ein Anspruch begründet wird. (2) Die Betreuung der Arbeit kann auch durch andere Personen als die Erstgutachterin oder den Erstgutachter erfolgen. Die Betreuerin oder der Betreuer der Bachelor- oder Masterarbeit muss prüfungsberechtigtes Mitglied der Sektion Physik sein. Abweichend davon kann auf Antrag der Kandidatin oder des Kandidaten die Masterarbeit auch außerhalb der Sektion Physik
+keine
 
-Christian-Albrechts-Universität zu Kiel
+K (1)
 
-Ordnungsnummer:
+Computer als Handwerkszeug
 
-Dokumentation der Studien- und Prüfungsordnungen
-(Keine amtliche Bekanntmachung)
+V/Ü
 
-6.3-121 Blatt: 6 10/10
+1/1
 
-Fachprüfungsordnung Physik 1-Fach Bachelor und Master
-103/62-0607-1
+P
 
-angefertigt werden, sofern der Schwerpunkt der Arbeit physikalischer Natur ist und der Prüfungsausschuss der externen Betreuung zustimmt. Entsprechendes gilt sinngemäß für die mit der Masterarbeit inhaltlich zusammenhängenden Module MNF-phys-1311 (Fachliche Spezialisierung) und MNF-phys-1321 (Methodenkenntnisse und Projektplanung). (3) Die Ergebnisse der Bachelor- oder Master-Arbeit sind vor Abgabe der schriftlichen Ausarbeitung in einem wissenschaftlichen Vortrag mit Diskussion mündlich zu verteidigen. Diese Prüfungsteilleistung muss von beiden Gutachtern in einem gemeinsamen Votum mit bestanden bewertet werden. (4) Die schriftliche Ausarbeitung der Bachelorarbeit wird benotet. Weichen die Bewertungen von Erstgutachterin oder Erstgutachter und zweiter Gutachterin oder zweitem Gutachter um eine ganze Note oder mehr voneinander ab oder bewertet nur eine oder einer von ihnen die Arbeit mit "nicht ausreichend", so bestellt die oder der Prüfungsausschussvorsitzende eine Drittgutachterin oder einen Drittgutachter. Die endgültige Bewertung der Arbeit erfolgt durch arithmetische Mittelung der drei Bewertungen; dabei wird nur die erste Dezimale nach dem Komma berücksichtigt. Falls zwei Gutachterinnen oder Gutachter mit "ausreichend" und eine oder einer mit "nicht ausreichend" bewerten, wird die Bewertung der Arbeit auf "ausreichend" (Note 4,0) gerundet. Falls zwei Gutachterinnen oder Gutachter die Arbeit mit "nicht ausreichend" bewerten, ist auch die endgültige Bewertung "nicht ausreichend". (5) Die Master-Arbeit ist innerhalb von sechs Wochen durch beide Gutachterinnen oder Gutachter zu bewerten. (6) Mit Zustimmung des Betreuers kann die Master-Arbeit auch in englischer Sprache abgefasst werden. In diesem Fall ist ihr eine Zusammenfassung in deutscher Sprache beizufügen. (7) Die Teilleistungen der Bachelorarbeit können nur gemeinsam wiederholt werden.
+keine
 
-§ 10 Beschränkung der Zulassung zu Pflicht- oder Wahlpflichtlehrveranstaltungen (1) Die Zahl der für die einzelnen Pflicht- oder Wahlpflichtlehrveranstaltungen zur Verfügung stehenden Plätze wird auf Antrag des Instituts für Experimentelle und Angewandte Physik oder des Instituts für Theoretische Physik und Astrophysik durch den Fakultätskonvent festgestellt. Melden sich zu Praktika, Seminaren oder Übungen erstmalig mehr Studierende als Plätze vorhanden sind, so prüft der Fakultätsausschuss Physik, ob der Überhang durch andere oder zusätzliche Lehrveranstaltungen abgebaut werden kann.
+K (1)
 
-Christian-Albrechts-Universität zu Kiel
+2
 
-Ordnungsnummer:
+Physik II: Elektrizitätslehre u. Optik
 
-Dokumentation der Studien- und Prüfungsordnungen
-(Keine amtliche Bekanntmachung)
+V/Ü
 
-6.3-121 Blatt: 7 10/10
+∑ 2124
+4/2
 
-Fachprüfungsordnung Physik 1-Fach Bachelor und Master
-103/62-0607-1
+P
 
-(2) Ist ein Abbau des Überhangs nicht möglich, so trifft die für die Lehrveranstaltung verantwortliche Person die Auswahl unter denjenigen Studierenden, die in einem Studiengang eingeschrieben sind, in dem die Lehrveranstaltung studienplanmäßig vorgesehen ist, sich rechtzeitig bis zu dem von der verantwortlichen Person festgesetzten Termin angemeldet haben und die Voraussetzungen für die Teilnahme erfüllen, nach folgende Kriterien: a. Die erste Anwartschaft besitzen Studierende, für deren ordnungs- und studienplanmäßiges Studium der Besuch dieser konkreten Lehrveranstaltung erforderlich ist und die im vorhergehenden Semester aus kapazitären Gründen um ein Semester zurückgestellt worden sind. b. Die zweite Anwartschaft besitzen Studierende, die sich in dem Fachsemester befinden, in dem die Lehrveranstaltung nach dem Studienplan vorgesehen ist und Studierende, die den entsprechenden Leistungsnachweis im vorhergehenden Semester nicht bestanden haben und deshalb nach Maßgabe dieser Prüfungsordnung erneut an der Lehrveranstaltung teilnehmen müssen. Innerhalb dieser Anwartschaft stehen 90% der Plätze der ersten und 10% der zweiten Gruppe zu. c. Die dritte Anwartschaft besitzen Studierende, die sich nicht in dem Fachsemester befinden, in dem die Lehrveranstaltung nach dem Studienplan vorgesehen ist, und sich erstmals für die betreffende Lehrveranstaltung anmelden, und Studierende, die in einem vorangegangenen Semester bereits einen Platz in der betreffenden Lehrveranstaltung erhalten haben und diesen aus einem triftigen Grund gemäß § 52 Abs. 4 des Hochschulgesetzes oder einem vergleichbaren Grund aufgeben mussten. d. Die vierte Anwartschaft besitzen Studierende, die in vorangegangenen Semestern bereits einen Platz in der betreffenden Lehrveranstaltung erhalten haben und ohne Nachweis eines triftigen Grundes aufgegeben haben. Bei gleicher Anwartschaft entscheidet die niedrigere Fachsemesterzahl, bei gleicher Fachsemesterzahl entscheidet das Los. Über Härtefälle entscheidet der Prüfungsausschuss.
+keine
 
-II. Besondere Prüfungsbestimmungen für den Bachelor-Studiengang § 11 Studienziel, Zweck der Prüfung (1) Der Bachelor-Studiengang Physik ist ein grundständiger wissenschaftlicher Studiengang. Im Studiengang werden wissenschaftliche Grundlagen der Physik und Methodenkenntnisse vermittelt. Die Studierenden werden zur Abstraktion und Reduktion von Problemstellungen auf die essentiellen Punkte und zur Problemlösung befähigt. Sie werden zu selbständigem verantwortlichen Handeln und kritischer Reflektion der Ergebnisse angeleitet.
+K (1)
 
-Christian-Albrechts-Universität zu Kiel
+Elektronik und Messtechnik
 
-Ordnungsnummer:
+V/Ü
 
-Dokumentation der Studien- und Prüfungsordnungen
-(Keine amtliche Bekanntmachung)
+3/1
 
-6.3-121 Blatt: 8 10/10
+P
 
-Fachprüfungsordnung Physik 1-Fach Bachelor und Master
-103/62-0607-1
+keine
 
-(2) Zweck der Bachelor-Prüfung ist der Nachweis des Erwerbs der in den Lehrveranstaltungen vermittelten Inhalte der Physik sowie der Beherrschung eines grundlegenden methodischen Instrumentariums zur Bearbeitung und Lösung physikalischer Problemstellungen. Mit der Prüfung soll die Qualifikation für ein weiterführendes Master-Studium im Fach Physik und eine Berufsqualifikation festgestellt werden. § 12 Studienaufbau Das Bachelor-Studium hat eine Regelstudienzeit von sechs Semestern. Das Studienvolumen umfasst etwa 127 Semesterwochenstunden und 180 Leistungspunkte inklusive 12 Leistungspunkten für die Bachelor-Arbeit. § 13 Akademischer Grad Aufgrund der bestandenen Bachelor-Prüfung wird der Grad des Bachelor of Science (B.Sc) vergeben. § 14 Bachelor- Arbeit (1) Zur Bachelor-Arbeit kann zugelassen werden, wer durch Modulprüfungen in Pflicht- und Wahlpflichtmodulen mindestens 100 Leistungspunkte erworben hat. (2) Die Zeit von der Ausgabe des Themas bis zur Ablieferung der Bachelor-Arbeit beträgt drei Monate. Eine Verlängerung der Bearbeitungszeit gemäß der Prüfungsverfahrensordnung für Bachelor- und Master-Studiengänge darf nicht mehr als die Hälfte der Bearbeitungszeit betragen. (3) Das Thema der Bachelor-Arbeit kann nur einmal und nur innerhalb eines Monats zurückgegeben werden. § 15 Bildung der Gesamtnote (1) Die Gesamtnote errechnet sich aus dem mit den Leistungspunkten gewichteten arithmetischen Mittelwert der Bereichsnoten, wobei das dem Bereich zugeordnete Gesamtgewicht eingeht, und der Note für die Bachelorarbeit (MNF-phys-603). Die Bereiche sind wie folgt festgelegt: Der Bereich Experimentalphysik beinhaltet die Module MNF-phys-101 (Physik I: Mechanik und Wärmelehre), MNF-phys-201 (Physik II: Elektrizitätslehre und Optik), MNF-phys-301 (Physik III: Atom und Quantenphysik),
+K (1)
 
-Christian-Albrechts-Universität zu Kiel
+Elementare Mathematische Methoden
+der Physik I+II
+Mathematik für Physiker II
 
-Ordnungsnummer:
+V/Ü
 
-Dokumentation der Studien- und Prüfungsordnungen
-(Keine amtliche Bekanntmachung)
+P
 
-6.3-121 Blatt: 9 10/10
+keine
 
-Fachprüfungsordnung Physik 1-Fach Bachelor und Master
-103/62-0607-1
+PÜ
 
-MNF-phys-401 (Physik IV: Kern-, Teilchen-, Astrophysik und Kosmologie), MNF-phys-501 (Physik V: Festkörper und Oberflächenphysik) und MNF-phys-601 (Physik VI: Plasma- und Extraterrestrische Physik). Der Bereich Theoretische Physik beinhaltet die Module MNF-phys-302 (Theoretische Mechanik(Theorie I)), MNF-phys-402 (Elektrodynamik (Theorie II)), MNF-phys-502 (Quantenmechanik (Theorie III)) und MNF-phys-602 (Thermodynamik und Statistische Physik (Theorie IV)). Der Bereich Praktika beinhaltet die Module MNF-phys-403 (Physikalisches Anfängerpraktikum, Teil I) und MNF-phys-503 (Physikalisches Anfängerpraktikum, Teil II). Der Bereich Mathematik beinhaltet die Module MNF-phys-104 (Mathematik für Physiker I), MNF-phys-204 (Mathematik für Physiker II) und MNF-phys-304 (Mathematik für Physiker III). Der Wahlpflichtbereich umfasst entweder das Modul MNF-chem0002 (Anorganische Chemie für Physiker) oder die beiden Module der Informatik InfProg (Programmierung) und NF-Inf-2-Phys (Systematisches Programmieren für Physiker). (2) Die Bereichsnote errechnet sich aus dem mit den Leistungspunkten der Module gewichteten arithmetischen Mittelwert der in die Bereichsnote eingehenden Modulnoten. Für die Berechnung der Gesamtnote werden die Bereichsnoten und die Note für die Bachelor-Arbeit in folgender Weise berücksichtigt: Aus dem Bereich Experimentalphysik werden die Modulnoten der besten 5 Module mit dem Gesamtgewicht von 46 Leistungspunkten gewichtet. Aus dem Bereich Theoretische Physik werden die Modulnoten der besten 3 Module mit dem Gesamtgewicht von 34 Leistungspunkten gewichtet. Aus dem Bereich Praktika werden alle Modulnoten mit dem Gesamtgewicht von 18 Leistungspunkten berücksichtigt. Aus dem Bereich Mathematik werden die Modulnoten der besten 2 Module mit dem Gesamtgewicht von 27 Leistungspunkten gewichtet. Aus dem Wahlpflichtbereich werden alle Modulnoten mit dem Gesamtgewicht von 10 Leistungspunkten berücksichtigt. Die Bachelor-Arbeit wird mit dem Gewicht von 12 Leistungspunkten berücksichtigt.
+V/Ü
 
-Christian-Albrechts-Universität zu Kiel
+6/2 ü.
+2 Sem
+4/2
 
-Ordnungsnummer:
+P
 
-Dokumentation der Studien- und Prüfungsordnungen
-(Keine amtliche Bekanntmachung)
+keine
 
-6.3-121 Blatt: 10 10/10
+K (1)
 
-Fachprüfungsordnung Physik 1-Fach Bachelor und Master
-103/62-0607-1
+8 über
+2 Sem
+9
 
-III. Besondere Prüfungsbestimmungen für den Master-Studiengang § 16 Studienziel, Zweck der Prüfung (1) Im forschungsorientierten Master-Studiengang Physik werden vertiefte Kenntnisse der Physik vermittelt. Die Studierenden werden befähigt, Probleme der aktuellen physikalischen Forschung mit wissenschaftlichen Methoden selbständig unter Anleitung zu bearbeiten, die Ergebnisse selbstkritisch zu beurteilen und schlüssig entsprechend den Gepflogenheiten des Fachs in Vorträgen sowie in schriftlicher Form darzustellen. Sie lernen, komplexe Problemstellungen zu analysieren, selbständig und kreativ Lösungsstrategien zu erarbeiten und im begrenzten Zeitrahmen Projekte zu planen und durchzuführen, sowie die Ergebnisse überzeugend zu präsentieren. Die Studierenden erarbeiten sich damit Kompetenzen, die sie im breiten Rahmen für Tätigkeiten im Bereich der physikalischen Forschung und technologischen Entwicklung sowie ähnlichen Tätigkeiten qualifizieren. (2) Zweck der Masterprüfung ist der Nachweis des in den gewählten Lehrveranstaltungen vermittelten vertieften Fachwissens. Darüber hinaus soll die Kandidatin oder der Kandidat nachweisen, dass sie oder er zur selbständigen Projektplanung, eigenständigen wissenschaftlichen Arbeit unter Anleitung und adäquaten Präsentation seiner Ergebnisse in schriftlicher wie in mündlicher Form befähigt ist. § 17 Studienaufbau Das Master-Studium hat eine Regelstudienzeit von vier Semestern. Das Studienvolumen umfasst 120 Leistungspunkte inklusive 30 Leistungspunkten für die Master-Arbeit. § 18 Zugang zum Masterstudium Zum Masterstudium wird zugelassen, wer zuvor nach einem Studium mit einer Regelstudienzeit von mindestens drei Jahren an einer Hochschule in der Bundesrepublik Deutschland oder an einer gleichwertigen ausländischen Hochschule im Fach Physik oder in einem verwandten Fach eine Bachelor-Prüfung mit mindestens 180 Leistungspunkten nach ECTS mindestens mit der Note befriedigend oder aber eine vergleichbare Abschlussprüfung bestanden hat. Bei Bewerbern mit einem BSc in einem der Physik verwandten Fach müssen mindestens 90 Leistungspunkte im Fach Physik und mindestens 30 Leistungspunkte im Fach Mathematik, einschließlich Vorlesungen und Übungen zu elementaren mathematischen Methoden der Physik, erworben sein, wobei die betreffenden Module inhaltlich in etwa äquivalent zu entsprechenden Modulen eines Ein-Fach-
+P
 
-Christian-Albrechts-Universität zu Kiel
+keine
 
-Ordnungsnummer:
+K (1)
 
-Dokumentation der Studien- und Prüfungsordnungen
-(Keine amtliche Bekanntmachung)
+∑ 2831
+7
 
-6.3-121 Blatt: 11 10/10
+K (1)
 
-Fachprüfungsordnung Physik 1-Fach Bachelor und Master
-103/62-0607-1
+7
 
-Bachelor-Studiengangs in Physik sein müssen. Diese Bedingungen gelten sinngemäß für vergleichbare Abschlussprüfungen. In begründeten Ausnahmefällen entscheidet der Prüfungsausschuss über die Zulassung zum Masterstudium. Die Zulassung kann unter Auflagen erfolgen. § 19 Akademischer Grad Aufgrund der bestandenen Master-Prüfung wird der Grad des Master of Science (M.Sc.) vergeben. § 20 Master-Arbeit (1) Zur Master-Arbeit kann zugelassen werden, wer durch Modulprüfungen in Pflichtund Wahlpflichtmodulen mindestens 90 Leistungspunkte erworben hat. Insbesondere ist der erfolgreiche konsekutive Abschluss der Module MNF-phys1311 (Fachliche Spezialisierung) und MNF-phys-1321 (Methodenkenntnisse und Projektplanung) Voraussetzung. Die Module MNF-phys-1311 (Fachliche Spezialisierung), MNF-phys-1321 (Methodenkenntnisse und Projektplanung) sowie MNF-phys-1411 (Masterarbeit) bauen inhaltlich aufeinander auf. (2) Die Zeit von der Ausgabe des Themas bis zur Ablieferung der Master-Arbeit beträgt sechs Monate. Eine Verlängerung der Bearbeitungszeit gemäß der Prüfungsverfahrensordnung für Bachelor- und Master-Studiengänge darf nicht mehr als drei Monate betragen. Über Härtefälle entscheidet der Prüfungsausschuss. (3) Das Thema der Master-Arbeit kann nur einmal und nur innerhalb des ersten Monats zurückgegeben werden. § 21 Bildung der Gesamtnote (1) Die Gesamtnote wird aus den folgenden Noten, gewichtet mit den zugeordneten Leistungspunkten multipliziert mit einem Anrechnungsfaktor, gebildet: ein Modul aus MNF-phys-1111 bis 1116 (Wahlpflichtschwerpunkt) mit dem Anrechnungsfaktor 1, ein Modul aus MNF-phys-1121 bis 1126 (Wahlpflichtfach) mit dem Anrechnungsfaktor 1, Modul MNF-phys-1311 (Fachliche Spezialisierung) mit dem Anrechnungsfaktor 0,5, Modul MNF-phys-1321 (Methodenkenntnisse und Projektplanung) mit dem Anrechnungsfaktor 0,5, die Note des Profilbildungsbereiches mit dem Gewicht von 6 Leistungspunkten und dem Anrechnungsfaktor 1 sowie die Note der Masterarbeit mit dem Anrechnungsfaktor 1.
+Tta (2)
 
-Christian-Albrechts-Universität zu Kiel
+Jahr
 
-Ordnungsnummer:
+8 über
+2 Sem
+9
 
-Dokumentation der Studien- und Prüfungsordnungen
-(Keine amtliche Bekanntmachung)
+9
 
-6.3-121 Blatt: 12 10/10
+5
 
-Fachprüfungsordnung Physik 1-Fach Bachelor und Master
-103/62-0607-1
+WP
 
-(2) Im Profilbildungsbereich müssen mindestens 6 der 10 zu erbringenden Leistungspunkte aus benoteten Modulen stammen, wobei sich die Bereichsnote aus dem nach Leistungspunkten gewichteten Mittelwert der benoteten Module ergibt.
+Wahlbereich I (s. Tabelle)
 
-IV. Übergangs- und Schlussbestimmungen § 22 Übergangsbestimmungen (1) Diese Prüfungsordnung gilt erstmals für die Studierenden, die ihr Studium im Wintersemester 2007/2008 aufnehmen. (2) Studierende, die zum Zeitpunkt des Inkrafttretens dieser Satzung in einem Studiengang mit dem Abschluss Diplom-Physik eingeschrieben sind, können bis zum 30.09.09 in den entsprechenden Bachelorstudiengang desselben Fachs umgeschrieben werden und die Prüfung nach dieser Satzung ablegen, wenn sie 1. das Vordiplom an dieser Universität abgelegt haben oder andere Prüfungsleistungen erbracht haben, deren Note in die Berechnung der Bachelor-Note einbezogen werden können und 2. den Antrag auf Wechsel der Studiengänge gestellt haben. Über Zweifelsfragen und über Härtefälle entscheidet der Prüfungsausschuss. § 23 In-Kraft-Treten Diese Satzung tritt am Tage nach ihrer Bekanntmachung in Kraft. Die Genehmigung nach Artikel 1 § 52 Abs.1 Satz 1 i.V.m. Artikel 2 § 1 Abs. 4 des Hochschulgesetzes wurde durch das Präsidium der Christian-Albrechts-Universität zu Kiel mit Schreiben vom 28. November 2007 erteilt. Kiel, den 29. November 2007 Der Dekan der Mathematisch-Naturwissenschaftlichen Fakultät Christian-Albrechts-Universität zu Kiel Prof. Dr. Jürgen Grotemeyer
+3.
+Semester
 
-Christian-Albrechts-Universität zu Kiel
+LP
 
-Ordnungsnummer:
+Voraussetzung
 
-Dokumentation der Studien- und Prüfungsordnungen
-(Keine amtliche Bekanntmachung)
+Physik I: Mechanik und Wärmelehre
 
-6.3-121 Blatt: 13 10/10
+Wahlbereich I (s. Tabelle)
 
-Fachprüfungsordnung Physik 1-Fach Bachelor und Master
-103/62-0607-1
+2.
+Semester
 
-Artikel 2 der Änderungssatzung vom 17. September 2008: (1) Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft. (2) Modulprüfungen, die bei Inkrafttreten dieser Satzung vollständig absolviert und bestanden worden sind, behalten ihre Gültigkeit. (3) Hat eine Studierende oder ein Studierender selbstständige Teilleistungen einer Modulprüfung absolviert und bestanden, werden diese Prüfungen angerechnet. Der Prüfungsausschuss entscheidet unter Berücksichtigung der Lernziele des Moduls und des Prüfungszwecks, welche weiteren Prüfungsleistungen zur Vervollständigung des jeweiligen Moduls erbracht werden müssen. (4) Ist eine Prüfungsleistung bei Inkrafttreten dieser Satzung absolviert und bestanden, und ist diese Prüfungsleistung nach den neuen Regelungen unbenotet, wird die Note nicht eingerechnet. Auf Antrag des Studierenden entscheidet der Prüfungsausschuss über eine Einrechnung nach Maßgabe der alten Prüfungsordnung. Der Antrag ist bis zum 31.03.2009 zu stellen. (5) Fehlversuche, die im Rahmen von Prüfungen vor Inkrafttreten dieser Satzung unternommen wurden, werden auf die Anzahl der Versuche nach der neuen Prüfungsordnung angerechnet, sofern sich die Anrechnung nicht nach der Struktur der neuen Modulprüfung verbietet. (6) Über Härtefälle, die vom Studierenden nicht zu vertreten sind, entscheidet der Prüfungsausschuss auf Antrag.
+P/
+WP
 
-Artikel 2 der Änderungssatzung vom 13. Februar 2009 (1) Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft. (2) Modulprüfungen, die bei Inkrafttreten dieser Satzung vollständig absolviert und bestanden worden sind, behalten ihre Gültigkeit. (3) Hat eine Studierende oder ein Studierender selbstständige Teilleistungen einer Modulprüfung absolviert und bestanden, werden diese Prüfungen angerechnet. Der Prüfungsausschuss entscheidet unter Berücksichtigung der Lernziele des Moduls und des Prüfungszwecks, welche weiteren Prüfungsleistungen zur Vervollständigung des jeweiligen Moduls erbracht werden müssen. (4) Ist eine Prüfungsleistung bei Inkrafttreten dieser Satzung absolviert und bestanden, und ist diese Prüfungsleistung nach den neuen Regelungen unbenotet, wird die Note nicht eingerechnet. Auf Antrag des Studierenden entscheidet der Prüfungsausschuss über eine Einrechnung nach Maßgabe der alten Prüfungsordnung. Der Antrag ist bis zum 30.09.2009 zu stellen. (5) Fehlversuche, die im Rahmen von Prüfungen vor Inkrafttreten dieser Satzung unternommen wurden, werden auf die Anzahl der Versuche nach der neuen Prüfungsordnung angerechnet, sofern sich die Anrechnung nicht nach der Struktur der neuen Modulprüfung verbietet. (6) Über Härtefälle, die vom Studierenden nicht zu vertreten sind, entscheidet der Prüfungsausschuss auf Antrag.
+∑ 2932
+9
+4
 
-Christian-Albrechts-Universität zu Kiel
+WP
 
-Ordnungsnummer:
+phys301
+phys302
+phys303
+phys304
+phys305
 
-Dokumentation der Studien- und Prüfungsordnungen
-(Keine amtliche Bekanntmachung)
+Physik III: Atom- u. Quantenphysik
 
-6.3-121 Blatt: 14 10/10
+V/Ü
 
-Fachprüfungsordnung Physik 1-Fach Bachelor und Master
-103/62-0607-1
+∑ 2225
+4/1
 
-Artikel 2 der Änderungssatzung vom 24. Juli 2009 (1) Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft. (2) Modulprüfungen, die bei Inkrafttreten dieser Satzung vollständig absolviert und bestanden worden sind, behalten ihre Gültigkeit. (3) Hat eine Studierende oder ein Studierender selbstständige Teilleistungen einer Modulprüfung absolviert und bestanden, werden diese Prüfungen angerechnet. Der Prüfungsausschuss entscheidet unter Berücksichtigung der Lernziele des Moduls und des Prüfungszwecks, welche weiteren Prüfungsleistungen zur Vervollständigung des jeweiligen Moduls erbracht werden müssen. (4) Ist eine Prüfungsleistung bei Inkrafttreten dieser Satzung absolviert und bestanden, und ist diese Prüfungsleistung nach den neuen Regelungen unbenotet, wird die Note nicht eingerechnet. Auf Antrag des Studierenden entscheidet der Prüfungsausschuss über eine Einrechnung nach Maßgabe der alten Prüfungsordnung. Der Antrag ist bis zum 31.03.2010 zu stellen. (5) Fehlversuche, die im Rahmen von Prüfungen vor Inkrafttreten dieser Satzung unternommen wurden, werden auf die Anzahl der Versuche nach der neuen Prüfungsordnung angerechnet, sofern sich die Anrechnung nicht nach der Struktur der neuen Modulprüfung verbietet. (6)Über Härtefälle, die vom Studierenden nicht zu vertreten sind, entscheidet der Prüfungsausschuss auf Antrag. Artikel 2 der Änderungssatzung vom 17. Dezember 2009: (1) Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft. (2) Modulprüfungen, die bei Inkrafttreten dieser Satzung vollständig absolviert und bestanden worden sind, behalten ihre Gültigkeit. (3) Hat eine Studierende oder ein Studierender selbstständige Teilleistungen einer Modulprüfung absolviert und bestanden, werden diese Prüfungen angerechnet. Der Prüfungsausschuss entscheidet unter Berücksichtigung der Lernziele des Moduls und des Prüfungszwecks, welche weiteren Prüfungsleistungen zur Vervollständigung des jeweiligen Moduls erbracht werden müssen. (4) Ist eine Prüfungsleistung bei Inkrafttreten dieser Satzung absolviert und bestanden, und ist diese Prüfungsleistung nach den neuen Regelungen unbenotet, wird die Note nicht eingerechnet. Auf Antrag des Studierenden entscheidet der Prüfungsausschuss über eine Einrechnung nach Maßgabe der alten Prüfungsordnung. Der Antrag ist bis zum 31.03.2010 zu stellen. (5) Fehlversuche, die im Rahmen von Prüfungen vor Inkrafttreten dieser Satzung unternommen wurden, werden auf die Anzahl der Versuche nach der neuen Prüfungsordnung angerechnet, sofern sich die Anrechnung nicht nach der Struktur der neuen Modulprüfung verbietet. (6) Über Härtefälle, die vom Studierenden nicht zu vertreten sind, entscheidet der Prüfungsausschuss auf Antrag.
+Theoretische Mechanik (Theorie I)
 
-Christian-Albrechts-Universität zu Kiel
+V/Ü
 
-Ordnungsnummer:
+3/2
 
-Dokumentation der Studien- und Prüfungsordnungen
-(Keine amtliche Bekanntmachung)
+P
 
-6.3-121 Blatt: 15 10/10
+keine
 
-Fachprüfungsordnung Physik 1-Fach Bachelor und Master
-103/62-0607-1
+Elektronik-Grundpraktikum
 
-Artikel 2 der Änderungssatzung vom 23. Juli 2010: (1) Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft. (2) Modulprüfungen, die bei Inkrafttreten dieser Satzung vollständig absolviert und bestanden worden sind, behalten ihre Gültigkeit. (3) Hat eine Studierende oder ein Studierender selbstständige Teilleistungen einer Modulprüfung absolviert und bestanden, werden diese Prüfungen angerechnet. Der Prüfungsausschuss entscheidet unter Berücksichtigung der Lernziele des Moduls und des Prüfungszwecks, welche weiteren Prüfungsleistungen zur Vervollständigung des jeweiligen Moduls erbracht werden müssen. (4) Ist eine Prüfungsleistung bei Inkrafttreten dieser Satzung absolviert und bestanden, und ist diese Prüfungsleistung nach den neuen Regelungen unbenotet, wird die Note nicht eingerechnet. Auf Antrag des Studierenden entscheidet der Prüfungsausschuss über eine Einrechnung nach Maßgabe der alten Prüfungsordnung. Der Antrag ist bis zum 31.03.2011 zu stellen. (5) Fehlversuche, die im Rahmen von Prüfungen vor Inkrafttreten dieser Satzung unternommen wurden, werden auf die Anzahl der Versuche nach der neuen Prüfungsordnung angerechnet, sofern sich die Anrechnung nicht nach der Struktur der neuen Modulprüfung verbietet. (6) Über Härtefälle, die vom Studierenden nicht zu vertreten sind, entscheidet der Prüfungsausschuss auf Antrag.
+P/BS
 
-Christian-Albrechts-Universität zu Kiel
+3/1
 
-Ordnungsnummer:
+P
 
-Dokumentation der Studien- und Prüfungsordnungen
-(Keine amtliche Bekanntmachung)
+phys-203
 
-6.3-121 Blatt: 16 10/10
+Mathematik für Physiker III
 
-Fachprüfungsordnung Physik 1-Fach Bachelor und Master
-103/62-0607-1 Physik 1. Studienverlaufsplan für den Bachelor of Science „Physik“
-P/ WP P P P P WP ∑ 2124 4/2 3/1 6/2 ü. 2 Sem 4/2
+V/Ü
 
-Modul 1. Semester phys101 phys102 phys104 phys105
+4/2
 
-Modulbezeichnung Physik I: Mechanik und Wärmelehre Elementare Mathematische Methoden der Physik I+II Mathematik für Physiker I Computer als Handwerkszeug Wahlbereich I (s. Tabelle)
+P
 
-LF V/Ü V/Ü V/Ü V/Ü
+keine
 
-SWS 4/2 6/2 ü. 2 Sem 4/2 1/1
+K (1)
 
-Voraussetzung keine keine keine keine
+9
 
-LP PL K (1) PÜ K (1) K (1) Sem. 9 8 über 2 Sem 9 2 Jahr
+2
 
-2. Semester
+P
 
-phys201 phys203 phys102 phys204
+keine
 
-Physik II: Elektrizitätslehre u. Optik Elektronik und Messtechnik Elementare Mathematische Methoden der Physik I+II Mathematik für Physiker II Wahlbereich I (s. Tabelle)
+K (1)
 
-V/Ü V/Ü V/Ü V/Ü
+2
 
-P P P P WP
+phys401
+phys402
+phys403
+phys405
 
-keine keine keine keine
+Physik IV: Kern-, Teilchen-,
+Astrophysik und Kosmologie
+Elektrodynamik (Theorie II)
 
-K (1) K (1) PÜ K (1)
+V/Ü
 
-∑ 2932 9 4 8 über 2 Sem 9
+∑ 22
+4/1
 
-3. Semester
+P
 
-phys301 phys302 phys303 phys304 phys305 phys401 phys402 phys403 phys405
+keine
 
-Physik III: Atom- u. Quantenphysik Theoretische Mechanik (Theorie I) Elektronik-Grundpraktikum Mathematik für Physiker III Wissenschaftliche Programmierung
+K (1)
 
-V/Ü V/Ü P/BS V/Ü V
+V/Ü
 
-∑ 2225 4/1 3/2 3/1 4/2 2 ∑ 22 4/1 4/2 6/1 ½
+4/2
 
-P P P P P
+P
 
-keine keine phys-203 keine keine
+keine
 
-K (1) K (1) Tta (2) K (1) K (1)
+K (1)
 
-∑ 2831 7 7 5 9 2 ∑ 30 7 9 9 5
+9
+
+P/BS
+
+6/1
+
+P
+
+½
+
+P
+
+M+Tta
+(10)
+RS
+Note:
+2/3 R,
+1/3 SA
+
+9
+
+V/S
+
+phys101/203
+keine
+
+Wissenschaftliche Programmierung
+
+Physikalisches Anfänger Praktikum
+Teil 1
+Übergreifendes Seminar-Grundmodul
+(alternativ im 5. Semester)
+
+V
+
+Wahlbereich II (s. Tabelle)
 
 ∑ 60
 
-4. Semester
+∑ 30
+7
 
-Physik IV: Kern-, Teilchen-, Astrophysik und Kosmologie Elektrodynamik (Theorie II) Physikalisches Anfänger Praktikum Teil 1 Übergreifendes Seminar-Grundmodul (alternativ im 5. Semester) Wahlbereich II (s. Tabelle)
+5
 
-V/Ü V/Ü P/BS V/S
+WP
+∑
+20/24
 
-P P P P
+∑
+30/33
 
-keine keine phys101/203 keine
-
-K (1) K (1) M+Tta (10) RS Note: 2/3 R, 1/3 SA
-
-WP ∑ 20/24 ∑ 30/33 ∑ 60/63
+∑
+60/63
 
 Christian-Albrechts-Universität zu Kiel
 
 Ordnungsnummer:
 
+6.3-121
+
 Dokumentation der Studien- und Prüfungsordnungen
 (Keine amtliche Bekanntmachung)
 
-6.3-121 Blatt: 17 10/10
+Fachprüfungsordnung Physik 1-Fach
+Bachelor und Master
 
-Fachprüfungsordnung Physik 1-Fach Bachelor und Master
+Blatt: 17
+10/10
+
 103/62-0607-1
 
-5. Semester
+5.
+Semester
 
-phys501 phys502 phys503 phys405
+phys501
+phys502
+phys503
+phys405
 
-Physik V: Festkörper- u. Oberflächenphysik Quantenmechanik (Theorie III) Physikalisches Anfänger Praktikum Teil 2 Übergreifendes Seminar-Grundmodul (alternativ im 4. Semester) Wahlbereich II (s. Tabelle)
+Physik V: Festkörper- u.
+Oberflächenphysik
+Quantenmechanik (Theorie III)
 
-V/Ü V/Ü P/BS V/S
+V/Ü
 
-4/1 4/2 6/1 ½
+P
 
-P P P P
+keine
 
-keine keine phys101/203 keine
+K (1)
 
-K (1) K (1) M+Tta (10) RS Note: 2/3 R, 1/3 SA
+7
 
-7 9 9 5
+V/Ü
 
-WP ∑ 2125 ∑ 28,5/ 32 7 9 12 ∑ 31,5/ 28 ∑ 58/60
+Physikalisches Anfänger Praktikum
+Teil 2
+Übergreifendes Seminar-Grundmodul
+(alternativ im 4. Semester)
 
-6. Semester
+4/1
+4/2
 
-phys601 phys602 phys603
+P
 
-Physik VI: Plasma- u. Extraterrestrische Physik Thermodynamik u. statistische Physik (Theorie IV) Bachelorarbeit Wahlbereich II (s. Tabelle)
+keine
 
-V/Ü V/Ü S
+K (1)
 
-4/1 4/2 1 ∑ 1216
+9
 
-P P P WP
+P/BS
 
-keine keine
+6/1
 
-K (1) K (1)
+P
+
+½
+
+P
+
+M+Tta
+(10)
+RS
+Note:
+2/3 R,
+1/3 SA
+
+9
+
+V/S
+
+phys101/203
+keine
+
+Wahlbereich II (s. Tabelle)
+
+WP
+∑ 2125
+
+6.
+Semester
+
+phys601
+phys602
+phys603
+
+5
+
+V/Ü
+
+Bachelorarbeit
+
+4/1
+
+P
+
+keine
+
+K (1)
+
+V/Ü
+
+Physik VI: Plasma- u.
+Extraterrestrische Physik
+Thermodynamik u. statistische
+Physik (Theorie IV)
+
+∑
+28,5/
+32
+7
+
+4/2
+
+P
+
+keine
+
+K (1)
+
+9
+
+S
+
+1
+
+P
+
+Wahlbereich II (s. Tabelle)
+
+12
+
+WP
+∑ 1216
+
+∑
+31,5/
+28
 
 Tabelle der Wahlpflichtmodule:
 
@@ -359,7 +1306,8 @@ LF
 
 SWS
 
-P/ WP
+P/
+WP
 
 Voraussetzung
 
@@ -367,59 +1315,242 @@ PL
 
 LP
 
-Wahlbereich I (im 1.+2. Semester, es sind entweder chem0002 oder beide Module der Informatik zu wählen): chem0 Anorganische Chemie für Physiker V/P 6/2 ü. WP keine K (1) 10 über 002 2 Sem 2 Sem. InfProgrammierung, nur im V/Ü 4/2 WP keine K (1) 8 Prog Wintersemester NFSystematisches Programmieren für V 2 WP keine M 2 Inf-2Physiker, nur im Sommersemester Phys Wahlbereich II (im 4.-6. Semester, eines der fünf Module ist zu wählen): physMathematik für Physiker IV, nur im V/Ü 4/1 WP keine K (1) 7 404 Sommersemester InfAlgorithmen u. Datenstrukturen, nur V/Ü 4/2 WP Inf-Prog K (1) 8 ADS im Sommersemester chem0 406A phys505 phys508 Analytische Chemie (Modul beginnt im Sommersemester) Elektronik Aufbau (Modul beginnt im Wintersemester) Werkstoffe, nur im Wintersemester V/P V/P/BS V/P 4/2 ü. 2 Sem 2/3/1 ü. 2 Sem 6/1 WP WP WP keine phys-203 phys-303 keine K (1) K (1) K (1) 7 über 2 Sem 7 über 2 Sem 7
+Wahlbereich I (im 1.+2. Semester, es sind entweder chem0002 oder beide Module der Informatik zu
+wählen):
+chem0
+Anorganische Chemie für Physiker
+V/P
+6/2 ü.
+WP
+keine
+K (1)
+10 über
+002
+2 Sem
+2 Sem.
+InfProgrammierung, nur im
+V/Ü
+4/2
+WP
+keine
+K (1)
+8
+Prog
+Wintersemester
+NFSystematisches Programmieren für
+V
+2
+WP
+keine
+M
+2
+Inf-2Physiker, nur im Sommersemester
+Phys
+Wahlbereich II (im 4.-6. Semester, eines der fünf Module ist zu wählen):
+physMathematik für Physiker IV, nur im
+V/Ü
+4/1
+WP
+keine
+K (1)
+7
+404
+Sommersemester
+InfAlgorithmen u. Datenstrukturen, nur
+V/Ü
+4/2
+WP
+Inf-Prog
+K (1)
+8
+ADS
+im Sommersemester
+chem0
+406A
+phys505
 
-Anmerkungen: (1) Klausuren können durch mündliche Prüfungen ersetzt werden. (2) Das Praktikumsmodul ist nicht benotet. Das Modul ist bestanden, wenn alle Testate zu den Praktikumsprotokollen erlangt wurden. Fehlen maximal zwei Testate, so ist für das Bestehen des Moduls eine mündliche Prüfung als Prüfungsleistung erforderlich. Fehlen mehr als zwei Testate, ist das Modul nicht bestanden. (10) Das Modul ist bestanden, wenn alle Testate zu den Praktikumsprotokollen erlangt wurden sowie die mündlichen Prüfgespräche im Rahmen des Begleitseminars erfolgreich absolviert wurden. Die Note ist durch die Note der Prüfgespräche gegeben. Fehlen maximal zwei Testate, so ist für das Bestehen des Moduls eine zusätzliche mündliche Prüfung als Prüfungsleistung erforderlich. Fehlen mehr als zwei Testate, ist das Modul nicht bestanden.
+Analytische Chemie (Modul beginnt
+im Sommersemester)
+Elektronik Aufbau (Modul beginnt im
+Wintersemester)
+
+phys508
+
+Werkstoffe, nur im Wintersemester
+
+V/P
+V/P/BS
+V/P
+
+4/2 ü.
+2 Sem
+2/3/1
+ü. 2
+Sem
+6/1
+
+WP
+
+keine
+
+K (1)
+
+WP
+
+phys-203
+phys-303
+
+K (1)
+
+WP
+
+keine
+
+K (1)
+
+7 über 2
+Sem
+7 über 2
+Sem
+7
+
+Anmerkungen:
+(1) Klausuren können durch mündliche Prüfungen ersetzt werden.
+(2) Das Praktikumsmodul ist nicht benotet. Das Modul ist bestanden, wenn alle Testate zu den Praktikumsprotokollen
+erlangt wurden. Fehlen maximal zwei Testate, so ist für das Bestehen des Moduls eine mündliche Prüfung als
+Prüfungsleistung erforderlich. Fehlen mehr als zwei Testate, ist das Modul nicht bestanden.
+(10) Das Modul ist bestanden, wenn alle Testate zu den Praktikumsprotokollen erlangt wurden sowie die mündlichen
+Prüfgespräche im Rahmen des Begleitseminars erfolgreich absolviert wurden. Die Note ist durch die Note der
+Prüfgespräche gegeben. Fehlen maximal zwei Testate, so ist für das Bestehen des Moduls eine zusätzliche mündliche
+Prüfung als Prüfungsleistung erforderlich. Fehlen mehr als zwei Testate, ist das Modul nicht bestanden.
+
+∑
+58/60
 
 Christian-Albrechts-Universität zu Kiel
 
+Dokumentation der Studien- und Prüfungsordnungen
+
 Ordnungsnummer:
 
-Dokumentation der Studien- und Prüfungsordnungen
+6.3-121
+
 (Keine amtliche Bekanntmachung)
 
-6.3-121 Blatt: 18 10/10
+Fachprüfungsordnung Physik 1-Fach
+Bachelor und Master
+103/62-0607-1
+Erläuterungen:
+Modul:
+Modulbezeichnung:
+LF:
 
-Fachprüfungsordnung Physik 1-Fach Bachelor und Master
-103/62-0607-1 Erläuterungen: Modul: Modulbezeichnung: LF:
-
-SWS: P / WP: Voraussetzung: PL:
+SWS:
+P / WP:
+Voraussetzung:
+PL:
 
 LP:
 
-Titel des Moduls in Form der Modulnummer Name des Moduls Lehrform, Art der Lehrveranstaltung V: Vorlesung, VÜB: Vorlesung mit Übungsanteilen in Form von Hausarbeiten (nur im Master), BS: Begleitseminar, GP: Geländepraktikum, Üb: Übung, HS: Hauptseminar, SP: Studienprojekt, Ex: Exkursion Semesterwochenstunden der LF Status der Lehrveranstaltung (Pflicht / Wahlpflicht) Zugangsvoraussetzung für die Lehrveranstaltung Prüfungsleistung K: Klausur, M: mündliche Prüfung, R: Referat, SA: schriftliche Ausarbeitung, PÜ: Präsenzübungen, T: Test, RS: Referat mit schriftlicher Ausarbeitung; ÜA: Übungsaufgaben, PProg: prakt. Abschlussprüfung mit Programmieraufgaben Leistungspunkte
+Blatt: 18
+10/10
+
+Titel des Moduls in Form der Modulnummer
+Name des Moduls
+Lehrform, Art der Lehrveranstaltung
+V: Vorlesung, VÜB: Vorlesung mit Übungsanteilen in Form
+von Hausarbeiten (nur im Master), BS: Begleitseminar, GP:
+Geländepraktikum, Üb: Übung, HS: Hauptseminar, SP:
+Studienprojekt, Ex: Exkursion
+Semesterwochenstunden der LF
+Status der Lehrveranstaltung (Pflicht / Wahlpflicht)
+Zugangsvoraussetzung für die Lehrveranstaltung
+Prüfungsleistung
+K: Klausur, M: mündliche Prüfung, R: Referat, SA: schriftliche
+Ausarbeitung, PÜ: Präsenzübungen, T: Test, RS: Referat mit
+schriftlicher Ausarbeitung; ÜA: Übungsaufgaben, PProg:
+prakt. Abschlussprüfung mit Programmieraufgaben
+Leistungspunkte
 
 Christian-Albrechts-Universität zu Kiel
 
 Ordnungsnummer:
 
+6.3-121
+
 Dokumentation der Studien- und Prüfungsordnungen
 (Keine amtliche Bekanntmachung)
 
-6.3-121 Blatt: 19 10/10
+Fachprüfungsordnung Physik 1-Fach
+Bachelor und Master
 
-Fachprüfungsordnung Physik 1-Fach Bachelor und Master
-103/62-0607-1 2. Studienverlaufsplan für den Master of Science „Physik“
+Blatt: 19
+10/10
 
-Modul 1. Semester phys11111116
+103/62-0607-1
+2. Studienverlaufsplan für den Master of Science „Physik“
 
-Modulbezeichnung Wahlpflichtschwerpunkt (WSP), i.d.R. 6 SWS Vorlesungen und ein Forschungspraktikum aus einem der Gebiete: Astrophysik, Extraterrestrik, Festkörperphysik, Oberflächenphysik, Plasmaphysik, Theorie. Verteilt über 2 Semester Wahlpflicht (WP), i.d.R. 6 SWS Vorlesungen aus einem weiteren Gebiet: Astrophysik, Extraterrestrik, Festkörperphysik, Oberflächenphysik, Plasmaphysik, Theorie. Verteilt über 2 Semester (6) Physikalisches Fortgeschrittenenpraktikum I Seminar aus einem Gebiet des Wahlpflichtschwerpunktbereiches (in der Semesterlage vertauschbar mit phys-1142) Profilbildung: Lehrangebot außerhalb der Physik (5)
+LP
 
-LF V/ Forsch -P
+Modul
+1.
+Semester
 
-SWS 6/4 über 2 Sem
+Modulbezeichnung
 
-P/ WP WP
+LF
 
-Voraussetzung keine
+SWS
 
-LP PL M (1)(2) Sem. 15 über 2 Sem Jahr
+P/
+WP
 
-phys11211126
+Voraussetzung
+
+PL
+
+phys11111116
+
+Wahlpflichtschwerpunkt (WSP), i.d.R.
+6 SWS Vorlesungen und ein
+Forschungspraktikum aus einem der
+Gebiete: Astrophysik, Extraterrestrik,
+Festkörperphysik, Oberflächenphysik,
+Plasmaphysik, Theorie. Verteilt über
+2 Semester
+Wahlpflicht (WP), i.d.R. 6 SWS
+Vorlesungen aus einem weiteren
+Gebiet: Astrophysik, Extraterrestrik,
+Festkörperphysik, Oberflächenphysik,
+Plasmaphysik, Theorie. Verteilt über
+2 Semester (6)
+Physikalisches
+Fortgeschrittenenpraktikum I
+Seminar aus einem Gebiet des
+Wahlpflichtschwerpunktbereiches (in
+der Semesterlage vertauschbar mit
+phys-1142)
+Profilbildung: Lehrangebot außerhalb
+der Physik (5)
+
+V/
+Forsch
+-P
+
+6/4
+über 2
+Sem
+
+WP
+
+keine
+
+M (1)(2)
 
 V
 
-6 über 2 Sem
+6 über
+2 Sem
 
 WP
 
@@ -427,43 +1558,105 @@ keine
 
 M (1)
 
-9 über 2 Sem 8 5
+P/BS
 
-phys1131 phys1141
+3/1
 
-P/BS S
+P
 
-3/1 2
+keine
 
-P P
+Tta (3)
 
-keine keine
+8
 
-Tta (3) RS unbenote t
+S
 
-X ∑ 14+X 6/4 über 2 Sem
+2
+
+P
+
+keine
+
+RS
+unbenote
+t
+
+5
+
+X
 
 WP
 
-10 über 2 Sem ∑ 30 keine M (1) 15 über 2 Sem
+phys11211126
 
-2. Semester
+phys1131
+phys1141
+
+2.
+Semester
 
 phys11111116
 
 phys11211126
 
-phys1231 phys1142
+phys1231
+phys1142
 
-Wahlpflichtschwerpunkt (WSP), i.d.R. 6 SWS Vorlesungen und ein Forschungspraktikum aus einem der Gebiete: Astrophysik, Extraterrestrik, Festkörperphysik, Oberflächenphysik, Plasmaphysik, Theorie. Verteilt über 2 Semester Wahlpflichtbereich (WP), i.d.R. 6 SWS Vorlesungen aus einem weiteren Gebiet: Astrophysik, Extraterrestrik, Festkörperphysik, Oberflächenphysik, Plasmaphysik, Theorie. Verteilt über 2 Semester (6) Physikalisches Fortgeschrittenenpraktikum II Seminar aus einem Gebiet des Wahlpflichtbereiches (in der Semesterlage vertauschbar mit phys1141) Profilbildung: Lehrangebot außerhalb der Physik (5)
+3.
+Semester
 
-V/ Forsch -P
+4.
+Semester
 
-WP
+Wahlpflichtschwerpunkt (WSP), i.d.R.
+6 SWS Vorlesungen und ein
+Forschungspraktikum aus einem der
+Gebiete: Astrophysik, Extraterrestrik,
+Festkörperphysik, Oberflächenphysik,
+Plasmaphysik, Theorie. Verteilt über
+2 Semester
+Wahlpflichtbereich (WP), i.d.R. 6
+SWS Vorlesungen aus einem
+weiteren Gebiet: Astrophysik,
+Extraterrestrik, Festkörperphysik,
+Oberflächenphysik, Plasmaphysik,
+Theorie. Verteilt über 2 Semester (6)
+Physikalisches
+Fortgeschrittenenpraktikum II
+Seminar aus einem Gebiet des
+Wahlpflichtbereiches (in der
+Semesterlage vertauschbar mit phys1141)
+Profilbildung: Lehrangebot außerhalb
+der Physik (5)
 
-V
+V/
+Forsch
+-P
 
-6 über 2 Sem
+∑
+14+X
+6/4
+über 2
+Sem
+
+Sem.
+
+Jahr
+
+15
+über 2
+Sem
+
+9
+über
+2
+Sem
+
+10
+über 2
+Sem
+∑ 30
 
 WP
 
@@ -471,43 +1664,119 @@ keine
 
 M (1)
 
-9 über 2 Sem 8 5
-
-P/BS S
-
-3/1 2
-
-P P
-
-keine keine
-
-Tta (3) RS unbenote t
-
-X ∑ 14+X 1 1 ∑2 1
+15
+über 2
+Sem
 
 WP
 
-10 über 2 Sem ∑ 30 40 CP phys1311 90 CP phys1311 phys1321 SA o. R SA o. R 15 15 ∑ 30 30
+keine
 
-∑ 60
+M (1)
 
-3. Semester
+9
+über
+2
+Sem
 
-phys1311 phys1321 phys1411
+V
 
-Fachliche Spezialisierung (7) Methodenkenntnisse u. Projektplanung (7) Masterarbeit (7)
+6 über
+2 Sem
 
-S S
+P/BS
 
-P P
-
-4. Semester
-
-S
+3/1
 
 P
 
-∑1 ∑ 30 Anmerkungen: (1)Mündliche Prüfungen können durch Klausuren ersetzt werden. Die Art der Prüfungsleistung wird zu Beginn des Semesters bekannt gegeben.
+keine
+
+Tta (3)
+
+8
+
+S
+
+2
+
+P
+
+keine
+
+RS
+unbenote
+t
+
+5
+
+X
+
+WP
+
+10
+über 2
+Sem
+∑ 30
+
+phys1311
+phys1321
+
+Fachliche Spezialisierung (7)
+
+S
+
+∑
+14+X
+1
+
+Methodenkenntnisse u.
+Projektplanung (7)
+
+S
+
+1
+
+P
+
+phys1311
+
+phys1411
+
+Masterarbeit (7)
+
+S
+
+∑2
+1
+
+P
+
+90 CP
+phys1311
+phys1321
+
+P
+
+40 CP
+
+SA o. R
+
+15
+
+SA o. R
+
+∑ 60
+
+15
+∑ 30
+30
+
+∑1
+∑ 30
+Anmerkungen:
+(1)Mündliche Prüfungen können durch Klausuren ersetzt werden. Die Art der Prüfungsleistung wird zu Beginn des Semesters
+bekannt gegeben.
 
 ∑ 60
 
@@ -515,36 +1784,85 @@ P
 
 Ordnungsnummer:
 
+6.3-121
+
 Dokumentation der Studien- und Prüfungsordnungen
 (Keine amtliche Bekanntmachung)
 
-6.3-121 Blatt: 20 10/10
+Fachprüfungsordnung Physik 1-Fach
+Bachelor und Master
 
-Fachprüfungsordnung Physik 1-Fach Bachelor und Master
+Blatt: 20
+10/10
+
 103/62-0607-1
 
-(2) Im Forschungspraktikum Protokolle oder schriftliche Ausarbeitung als Prüfungsvorleistung. Details werden zu Beginn des Forschungspraktikums bekannt gegeben. (3) Das Praktikumsmodul ist nicht benotet. Das Modul ist bestanden, wenn alle Testate zu den Praktikumsprotokollen erlangt wurden. Fehlt ein Testat, so ist für das Bestehen des Moduls eine mündliche Prüfung als Prüfungsleistung erforderlich. Fehlt mehr als ein Testat, ist das Modul nicht bestanden. (5) Mindestens 6 Leistungspunkte müssen aus benoteten Modulen stammen. (6) Im WP (phys-1121 bis phys-1126) muss ein anderes Gebiet gewählt werden als im WSP (phys-1111 bis phys-1116) mit der Ausnahme, dass „Theoretische Physik“ sowohl im WSP als auch im WP mit verschiedenen Ausrichtungen gewählt werden kann. (7) Die Module sind konsekutiv und sind auch inhaltlich zusammenhängend zu wählen.
+(2) Im Forschungspraktikum Protokolle oder schriftliche Ausarbeitung als Prüfungsvorleistung. Details werden zu Beginn des
+Forschungspraktikums bekannt gegeben.
+(3) Das Praktikumsmodul ist nicht benotet. Das Modul ist bestanden, wenn alle Testate zu den Praktikumsprotokollen erlangt
+wurden. Fehlt ein Testat, so ist für das Bestehen des Moduls eine mündliche Prüfung als Prüfungsleistung erforderlich. Fehlt
+mehr als ein Testat, ist das Modul nicht bestanden.
+(5) Mindestens 6 Leistungspunkte müssen aus benoteten Modulen stammen.
+(6) Im WP (phys-1121 bis phys-1126) muss ein anderes Gebiet gewählt werden als im WSP (phys-1111 bis phys-1116) mit der
+Ausnahme, dass „Theoretische Physik“ sowohl im WSP als auch im WP mit verschiedenen Ausrichtungen gewählt werden
+kann.
+(7) Die Module sind konsekutiv und sind auch inhaltlich zusammenhängend zu wählen.
 
 Exportmodule der Sektion Physik:
-Export in Studiengang: B.Sc. Chemie/B.Sc. Wirtschaftschemie/ B.Sc. Biologie/ B. Sc. Geowissenschaften B.Sc. Biochemie u. Molekularbiologie/ B.Sc./B.A. Biologie+Chemie B.Sc. Elektrotechnik und Informationstechnik/ Wirtschaftsingenieur E. u. I. B.Sc. Elektrotechnik und Informationstechnik/ Wirtschaftsingenieur E. u. I. B.Sc. Agrarwiss./ B.Sc. Ökotrophologie B.Sc. Mathematik M.Sc. Biologie M.Sc. Biologie B.Sc. Phys. d. Erdsyst. M.Sc. Mathematik M.Sc. Mathematik Modul Nr. P/ WP P Voraussetzung keine
+Export in
+Studiengang:
+B.Sc. Chemie/B.Sc.
+Wirtschaftschemie/
+B.Sc. Biologie/
+B. Sc.
+Geowissenschaften
+B.Sc. Biochemie u.
+Molekularbiologie/
+B.Sc./B.A.
+Biologie+Chemie
 
-Modulbezeichnung Physik für Naturwissenschaftler
-
-LF V+P
-
-SWS 4+4
-
-PL Tta (1)
-
-LP 10 ü. 2 Sem 5
+Modul
+Nr.
 
 Phys-NF1
 
-Phys-NF2
+Modulbezeichnung
+Physik für
+Naturwissenschaftler
 
-M 7.1
+LF
 
-Physik für Biochemiker (sowie 2-Fächer Bachelor mit Kombination Biologie+Chemie) Physik für Ingenieure I
+SWS
+
+P/
+WP
+
+V+P
+
+4+4
+
+P
+
+Voraussetzung
+
+PL
+
+LP
+
+keine
+
+Tta (1)
+
+10
+ü. 2
+Sem
+
+Physik für Biochemiker
+(sowie 2-Fächer
+Bachelor mit
+Kombination
+Biologie+Chemie)
+Physik für Ingenieure I
 
 V
 
@@ -555,6 +1873,8 @@ P
 keine
 
 K
+
+5
 
 V+Ü
 
@@ -567,8 +1887,6 @@ keine
 K o. M
 
 4
-
-M 7.2
 
 Physik für Ingenieure I
 
@@ -584,22 +1902,176 @@ K o. M
 
 4
 
-Modul 2 Phys-NF3 biol-203/ phys-1251 biol-203/ phys-1252 Phys-pher303 Phys-EDMA Phys-QMMA
+Modul 2
 
-Physik Physik IV für Mathematiker Physik für Biologen I Physik für Biologen II ElektronikGrundpraktikum für PEMOG Elektrodynamik für Mathematiker (nur im Sommersemester) Quantenmechanik für Mathematiker (nur im Wintersemester)
+Physik
 
-V+Ü V V+Ü V+Ü+ P+BS P/BS V+Ü V+Ü
+V+Ü
 
-4+1 4 10+3 6+3+3 +1 3/1 4+2 4+2
+4+1
 
-P P WP WP P WP WP
+P
 
-keine keine keine keine Phys-203 Keine Keine
+keine
 
-K K o. M K+PÜ (2) K+PÜ+ Pprog+ Tta (3) M+ Tta(4) K o. M K o. M
+K
 
-6 5 15 ü. 2 Sem 15 ü. 2 Sem 5 10 10
+6
 
-LF: Lehrveranstaltungen: V: Vorlesung; P: Praktikum; Ü: Übung; BS: Begleitseminar P/WP: Pflicht-/Wahlpflichtmodul PL: Prüfungsleistung: Tta: Testate; K: Klausur; M: mündliche Prüfung; PÜ: Präsenzübungen; Pprog: prakt. Abschlussüb. mit Programmieraufgaben LP: Leistungspunkte 1) Das Praktikumsmodul ist nicht benotet. Das Modul ist bestanden, wenn alle Testate zu den Praktikumsprotokollen erlangt wurden. Fehlen maximal zwei Testate, so ist für das Bestehen des Moduls eine mündliche Prüfung als Prüfungsleistung erforderlich. 2) Die Modulnote ist durch die Note der Klausur gegeben. Die Präsenzübungen sind unbenotet. 3) Die Modulnote ergibt sich aus dem arithmetischen Mittel der Noten von Klausur, Präsenz- und Programmierübungen. 4) Das Modul ist bestanden, wenn alle Testate zu den Praktikumsprotokollen erlangt wurden sowie die mündlichen Prüfgespräche im Rahmen des Begleitseminars erfolgreich absolviert wurden. Die Note ist durch die Note der Prüfgespräche gegeben. Fehlen maximal zwei Testate, so ist für das Bestehen des Moduls eine zusätzliche mündliche Prüfung als Prüfungsleistung erforderlich. Fehlen mehr als zwei Testate, ist das Modul nicht bestanden.
+B.Sc. Mathematik
+
+Phys-NF3
+
+V
+
+4
+
+P
+
+keine
+
+K o. M
+
+5
+
+M.Sc. Biologie
+
+biol-203/
+phys-1251
+
+Physik IV für
+Mathematiker
+Physik für Biologen I
+
+V+Ü
+
+10+3
+
+WP
+
+keine
+
+K+PÜ (2)
+
+M.Sc. Biologie
+
+biol-203/
+phys-1252
+
+Physik für Biologen II
+
+V+Ü+
+P+BS
+
+6+3+3
++1
+
+WP
+
+keine
+
+B.Sc. Phys. d.
+Erdsyst.
+
+Phys-pher303
+
+P/BS
+
+3/1
+
+P
+
+M.Sc. Mathematik
+
+Phys-EDMA
+
+V+Ü
+
+4+2
+
+WP
+
+Keine
+
+K o. M
+
+10
+
+M.Sc. Mathematik
+
+Phys-QMMA
+
+ElektronikGrundpraktikum für
+PEMOG
+Elektrodynamik für
+Mathematiker (nur im
+Sommersemester)
+Quantenmechanik für
+Mathematiker (nur im
+Wintersemester)
+
+K+PÜ+
+Pprog+
+Tta (3)
+M+
+Tta(4)
+
+15
+ü. 2
+Sem
+15
+ü. 2
+Sem
+5
+
+V+Ü
+
+4+2
+
+WP
+
+Keine
+
+K o. M
+
+10
+
+B.Sc. Elektrotechnik
+und
+Informationstechnik/
+Wirtschaftsingenieur
+E. u. I.
+B.Sc. Elektrotechnik
+und
+Informationstechnik/
+Wirtschaftsingenieur
+E. u. I.
+B.Sc. Agrarwiss./
+B.Sc. Ökotrophologie
+
+Phys-NF2
+
+M 7.1
+
+M 7.2
+
+Phys-203
+
+LF: Lehrveranstaltungen: V: Vorlesung; P: Praktikum; Ü: Übung; BS: Begleitseminar
+P/WP: Pflicht-/Wahlpflichtmodul
+PL: Prüfungsleistung: Tta: Testate; K: Klausur; M: mündliche Prüfung; PÜ: Präsenzübungen; Pprog: prakt. Abschlussüb. mit Programmieraufgaben
+LP: Leistungspunkte
+1)
+Das Praktikumsmodul ist nicht benotet. Das Modul ist bestanden, wenn alle Testate zu den Praktikumsprotokollen erlangt wurden. Fehlen
+maximal zwei Testate, so ist für das Bestehen des Moduls eine mündliche Prüfung als Prüfungsleistung erforderlich.
+2)
+Die Modulnote ist durch die Note der Klausur gegeben. Die Präsenzübungen sind unbenotet.
+3)
+Die Modulnote ergibt sich aus dem arithmetischen Mittel der Noten von Klausur, Präsenz- und Programmierübungen.
+4)
+Das Modul ist bestanden, wenn alle Testate zu den Praktikumsprotokollen erlangt wurden sowie die mündlichen Prüfgespräche im
+Rahmen des Begleitseminars erfolgreich absolviert wurden. Die Note ist durch die Note der Prüfgespräche gegeben. Fehlen maximal zwei
+Testate, so ist für das Bestehen des Moduls eine zusätzliche mündliche Prüfung als Prüfungsleistung erforderlich. Fehlen mehr als zwei
+Testate, ist das Modul nicht bestanden.
 
 
