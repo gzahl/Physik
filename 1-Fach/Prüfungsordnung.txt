@@ -13,7 +13,7 @@ Bachelor und Master
 103/62-0607-1
 
 Blatt: 1
-10/10
+03/11
 
 Fachprüfungsordnung (Satzung)
 der Mathematisch-Naturwissenschaftlichen-Fakultät
@@ -30,11 +30,15 @@ Schl.-H. S. 39), geändert durch Satzung vom 17. Dezember 2009, Veröffentlichun
 vom 01. März 2010 (NBl. MWV. Schl.-H. S. 3), geändert durch Satzung vom 23. Juni
 2010, Veröffentlichung vom 30. August 2010 (NBl. MWV. Schl.-H. S. 54), geändert
 durch Satzung vom 23. Juli 2010, Veröffentlichung vom 11. Oktober 2010 (NBl.
-MWV. Schl.-H. S. 60)
+MWV. Schl.-H. S. 60), geändert durch Satzung vom 17. Dezember 2010,
+Veröffentlichung vom 31. März 2011 (NBl. MWV. Schl.-H. S. 42), geändert durch
+Satzung vom 10. Februar 2011, Veröffentlichung vom 31. März 2011 (NBl. MWV.
+Schl.-H. S. 44)
 Aufgrund des § 52 Abs. 1 Satz 1 des Hochschulgesetzes (HSG) vom 28. Februar
-2007 (GVOBl. Schl.-H. 2007, S. 184), wird nach Beschlussfassung durch den
-Konvent der Mathematisch-Naturwissenschaftlichen Fakultät vom 7. November 2007
-die folgende Satzung erlassen:
+2007 (GVOBl. Schl.-H. S. 184), wird nach Beschlussfassung durch den Konvent der
+Mathematisch-Naturwissenschaftlichen Fakultät vom 7. November 2007 die folgende
+Satzung erlassen:
+
 Inhaltsübersicht:
 I. Allgemeine Prüfungsbestimmungen
 §1
@@ -57,11 +61,6 @@ Modulprüfungen und Modulnoten
 – gestrichen Bachelor- und Master-Arbeit
 Beschränkung der Zulassung zu Pflicht- oder Wahlpflichtveranstaltungen
 
-II. Besondere Prüfungsbestimmungen für den Bachelor-Studiengang
-§ 11 Studienziel, Zweck der Prüfung
-§ 12 Studienaufbau
-§ 13 Akademischer Grad
-
 Christian-Albrechts-Universität zu Kiel
 
 Dokumentation der Studien- und Prüfungsordnungen
@@ -77,10 +76,20 @@ Bachelor und Master
 103/62-0607-1
 
 Blatt: 2
-10/10
+03/11
 
-§ 14 Bachelor-Arbeit
-§ 15 Bildung der Gesamtnote
+II. Besondere Prüfungsbestimmungen für den Bachelor-Studiengang
+§ 11
+§ 12
+§ 13
+§ 14
+§ 15
+
+Studienziel, Zweck der Prüfung
+Studienaufbau
+Akademischer Grad
+Bachelor-Arbeit
+Bildung der Gesamtnote
 
 III. Besondere Prüfungsbestimmungen für den Master-Studiengang
 § 16
@@ -116,7 +125,7 @@ Bachelor und Master
 103/62-0607-1
 
 Blatt: 3
-10/10
+03/11
 
 I. Allgemeine Prüfungsbestimmungen
 §1
@@ -163,7 +172,7 @@ Bachelor und Master
 103/62-0607-1
 
 Blatt: 4
-10/10
+03/11
 
 §4
 Prüfungsausschuss
@@ -231,7 +240,7 @@ Bachelor und Master
 103/62-0607-1
 
 Blatt: 5
-10/10
+03/11
 
 §6
 - gestrichen §7
@@ -290,7 +299,7 @@ Bachelor und Master
 103/62-0607-1
 
 Blatt: 6
-10/10
+03/11
 
 angefertigt werden, sofern der Schwerpunkt der Arbeit physikalischer Natur ist
 und der Prüfungsausschuss der externen Betreuung zustimmt. Entsprechendes
@@ -301,26 +310,25 @@ Module MNF-phys-1311 (Fachliche Spezialisierung) und MNF-phys-1321
 schriftlichen Ausarbeitung in einem wissenschaftlichen Vortrag mit Diskussion
 mündlich zu verteidigen. Diese Prüfungsteilleistung muss von beiden
 Gutachtern in einem gemeinsamen Votum mit bestanden bewertet werden.
-(4) Die schriftliche Ausarbeitung der Bachelorarbeit wird benotet. Weichen die
-Bewertungen von Erstgutachterin oder Erstgutachter und zweiter Gutachterin
-oder zweitem Gutachter um eine ganze Note oder mehr voneinander ab oder
-bewertet nur eine oder einer von ihnen die Arbeit mit "nicht ausreichend", so
-bestellt die oder der Prüfungsausschussvorsitzende eine Drittgutachterin oder
-einen Drittgutachter. Die endgültige Bewertung der Arbeit erfolgt durch
-arithmetische Mittelung der drei Bewertungen; dabei wird nur die erste
-Dezimale nach dem Komma berücksichtigt. Falls zwei Gutachterinnen oder
-Gutachter mit "ausreichend" und eine oder einer mit "nicht ausreichend"
-bewerten, wird die Bewertung der Arbeit auf "ausreichend" (Note 4,0) gerundet.
-Falls zwei Gutachterinnen oder Gutachter die Arbeit mit "nicht ausreichend"
-bewerten, ist auch die endgültige Bewertung "nicht ausreichend".
+(4) Die schriftliche Ausarbeitung der Bachelor- oder Masterarbeit wird benotet.
+Weichen die Bewertungen von Erstgutachterin oder Erstgutachter und zweiter
+Gutachterin oder zweitem Gutachter um eine ganze Note oder mehr
+voneinander ab oder bewertet nur eine oder einer von ihnen die Arbeit mit
+"nicht ausreichend", so bestellt die oder der Prüfungsausschussvorsitzende
+eine Drittgutachterin oder einen Drittgutachter. Die endgültige Bewertung der
+Arbeit erfolgt durch arithmetische Mittelung der drei Bewertungen; dabei wird
+nur die erste Dezimale nach dem Komma berücksichtigt. Falls zwei
+Gutachterinnen oder Gutachter mit "ausreichend" und eine oder einer mit "nicht
+ausreichend" bewerten, wird die Bewertung der Arbeit auf "ausreichend" (Note
+4,0) gerundet. Falls zwei Gutachterinnen oder Gutachter die Arbeit mit "nicht
+ausreichend" bewerten, ist auch die endgültige Bewertung "nicht ausreichend".
 (5) Die Master-Arbeit ist innerhalb von sechs Wochen durch beide Gutachterinnen
 oder Gutachter zu bewerten.
 (6) Mit Zustimmung des Betreuers kann die Master-Arbeit auch in englischer
 Sprache abgefasst werden. In diesem Fall ist ihr eine Zusammenfassung in
 deutscher Sprache beizufügen.
-(7) Die Teilleistungen der Bachelorarbeit können nur gemeinsam wiederholt
-werden.
-
+(7) Die Teilleistungen der Bachelor- oder Masterarbeit können nur gemeinsam
+wiederholt werden.
 § 10
 Beschränkung der Zulassung zu Pflicht- oder Wahlpflichtlehrveranstaltungen
 (1) Die Zahl der für die einzelnen Pflicht- oder Wahlpflichtlehrveranstaltungen zur
@@ -330,6 +338,8 @@ durch den Fakultätskonvent festgestellt. Melden sich zu Praktika, Seminaren ode
 Übungen erstmalig mehr Studierende als Plätze vorhanden sind, so prüft der
 Fakultätsausschuss Physik, ob der Überhang durch andere oder zusätzliche
 Lehrveranstaltungen abgebaut werden kann.
+(2) Ist ein Abbau des Überhangs nicht möglich, so trifft die für die Lehrveranstaltung
+verantwortliche Person die Auswahl unter denjenigen Studierenden, die in einem
 
 Christian-Albrechts-Universität zu Kiel
 
@@ -346,10 +356,8 @@ Bachelor und Master
 103/62-0607-1
 
 Blatt: 7
-10/10
+03/11
 
-(2) Ist ein Abbau des Überhangs nicht möglich, so trifft die für die Lehrveranstaltung
-verantwortliche Person die Auswahl unter denjenigen Studierenden, die in einem
 Studiengang eingeschrieben sind, in dem die Lehrveranstaltung studienplanmäßig vorgesehen ist, sich rechtzeitig bis zu dem von der verantwortlichen
 Person festgesetzten Termin angemeldet haben und die Voraussetzungen für die
 Teilnahme erfüllen, nach folgende Kriterien:
@@ -387,6 +395,8 @@ und Methodenkenntnisse vermittelt. Die Studierenden werden zur Abstraktion und
 Reduktion von Problemstellungen auf die essentiellen Punkte und zur
 Problemlösung befähigt. Sie werden zu selbständigem verantwortlichen Handeln
 und kritischer Reflektion der Ergebnisse angeleitet.
+(2) Zweck der Bachelor-Prüfung ist der Nachweis des Erwerbs der in den
+Lehrveranstaltungen vermittelten Inhalte der Physik sowie der Beherrschung
 
 Christian-Albrechts-Universität zu Kiel
 
@@ -403,10 +413,8 @@ Bachelor und Master
 103/62-0607-1
 
 Blatt: 8
-10/10
+03/11
 
-(2) Zweck der Bachelor-Prüfung ist der Nachweis des Erwerbs der in den
-Lehrveranstaltungen vermittelten Inhalte der Physik sowie der Beherrschung
 eines grundlegenden methodischen Instrumentariums zur Bearbeitung und
 Lösung physikalischer Problemstellungen. Mit der Prüfung soll die Qualifikation
 für ein weiterführendes Master-Studium im Fach Physik und eine
@@ -440,6 +448,8 @@ Der Bereich Experimentalphysik beinhaltet die Module
 MNF-phys-101 (Physik I: Mechanik und Wärmelehre),
 MNF-phys-201 (Physik II: Elektrizitätslehre und Optik),
 MNF-phys-301 (Physik III: Atom und Quantenphysik),
+MNF-phys-401 (Physik IV: Kern-, Teilchen-, Astrophysik und Kosmologie),
+MNF-phys-501 (Physik V: Festkörper und Oberflächenphysik) und
 
 Christian-Albrechts-Universität zu Kiel
 
@@ -456,10 +466,8 @@ Bachelor und Master
 103/62-0607-1
 
 Blatt: 9
-10/10
+03/11
 
-MNF-phys-401 (Physik IV: Kern-, Teilchen-, Astrophysik und Kosmologie),
-MNF-phys-501 (Physik V: Festkörper und Oberflächenphysik) und
 MNF-phys-601 (Physik VI: Plasma- und Extraterrestrische Physik).
 Der Bereich Theoretische Physik beinhaltet die Module
 MNF-phys-302 (Theoretische Mechanik(Theorie I)),
@@ -508,7 +516,7 @@ Bachelor und Master
 103/62-0607-1
 
 Blatt: 10
-10/10
+03/11
 
 III. Besondere Prüfungsbestimmungen für den Master-Studiengang
 § 16
@@ -566,7 +574,7 @@ Bachelor und Master
 103/62-0607-1
 
 Blatt: 11
-10/10
+03/11
 
 Bachelor-Studiengangs in Physik sein müssen. Diese Bedingungen gelten
 sinngemäß für vergleichbare Abschlussprüfungen. In begründeten Ausnahmefällen
@@ -578,7 +586,7 @@ Aufgrund der bestandenen Master-Prüfung wird der Grad des Master of Science
 (M.Sc.) vergeben.
 § 20
 Master-Arbeit
-(1) Zur Master-Arbeit kann zugelassen werden, wer durch Modulprüfungen in Pflichtund Wahlpflichtmodulen mindestens 90 Leistungspunkte erworben hat.
+(1) Zur Master-Arbeit kann zugelassen werden, wer durch Modulprüfungen in Pflichtund Wahlpflichtmodulen mindestens 70 Leistungspunkte erworben hat.
 Insbesondere ist der erfolgreiche konsekutive Abschluss der Module MNF-phys1311 (Fachliche Spezialisierung) und MNF-phys-1321 (Methodenkenntnisse und
 Projektplanung) Voraussetzung. Die Module MNF-phys-1311 (Fachliche
 Spezialisierung), MNF-phys-1321 (Methodenkenntnisse und Projektplanung)
@@ -602,9 +610,6 @@ Modul MNF-phys-1311 (Fachliche Spezialisierung) mit dem Anrechnungsfaktor
 0,5,
 Modul MNF-phys-1321 (Methodenkenntnisse und Projektplanung) mit dem
 Anrechnungsfaktor 0,5,
-die Note des Profilbildungsbereiches mit dem Gewicht von 6 Leistungspunkten
-und dem Anrechnungsfaktor 1
-sowie die Note der Masterarbeit mit dem Anrechnungsfaktor 1.
 
 Christian-Albrechts-Universität zu Kiel
 
@@ -618,12 +623,14 @@ Ordnungsnummer:
 
 Fachprüfungsordnung Physik 1-Fach
 Bachelor und Master
-
-Blatt: 12
-10/10
-
 103/62-0607-1
 
+Blatt: 12
+03/11
+
+die Note des Profilbildungsbereiches mit dem Gewicht von 6 Leistungspunkten
+und dem Anrechnungsfaktor 1
+sowie die Note der Masterarbeit mit dem Anrechnungsfaktor 1.
 (2) Im Profilbildungsbereich müssen mindestens 6 der 10 zu erbringenden
 Leistungspunkte aus benoteten Modulen stammen, wobei sich die Bereichsnote
 aus dem nach Leistungspunkten gewichteten Mittelwert der benoteten Module
@@ -670,47 +677,46 @@ Bachelor und Master
 103/62-0607-1
 
 Blatt: 13
-10/10
+03/11
 
 Artikel 2 der Änderungssatzung vom 17. September 2008:
 (1) Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft.
 (2) Modulprüfungen, die bei Inkrafttreten dieser Satzung vollständig absolviert und
 bestanden worden sind, behalten ihre Gültigkeit.
 (3) Hat eine Studierende oder ein Studierender selbstständige Teilleistungen einer
-Modulprüfung absolviert und bestanden, werden diese Prüfungen angerechnet. Der
-Prüfungsausschuss entscheidet unter Berücksichtigung der Lernziele des Moduls
-und des Prüfungszwecks, welche weiteren Prüfungsleistungen zur Vervollständigung
-des jeweiligen Moduls erbracht werden müssen.
+Modulprüfung absolviert und bestanden, werden diese Prüfungen angerechnet.
+Der Prüfungsausschuss entscheidet unter Berücksichtigung der Lernziele des
+Moduls und des Prüfungszwecks, welche weiteren Prüfungsleistungen zur
+Vervollständigung des jeweiligen Moduls erbracht werden müssen.
 (4) Ist eine Prüfungsleistung bei Inkrafttreten dieser Satzung absolviert und
-bestanden, und ist diese Prüfungsleistung nach den neuen Regelungen unbenotet,
-wird die Note nicht eingerechnet. Auf Antrag des Studierenden entscheidet der
-Prüfungsausschuss über eine Einrechnung nach Maßgabe der alten
-Prüfungsordnung. Der Antrag ist bis zum 31.03.2009 zu stellen.
+bestanden, und ist diese Prüfungsleistung nach den neuen Regelungen
+unbenotet, wird die Note nicht eingerechnet. Auf Antrag des Studierenden
+entscheidet der Prüfungsausschuss über eine Einrechnung nach Maßgabe der
+alten Prüfungsordnung. Der Antrag ist bis zum 31.03.2009 zu stellen.
 (5) Fehlversuche, die im Rahmen von Prüfungen vor Inkrafttreten dieser Satzung
 unternommen wurden, werden auf die Anzahl der Versuche nach der neuen
-Prüfungsordnung angerechnet, sofern sich die Anrechnung nicht nach der Struktur
-der neuen Modulprüfung verbietet.
+Prüfungsordnung angerechnet, sofern sich die Anrechnung nicht nach der
+Struktur der neuen Modulprüfung verbietet.
 (6) Über Härtefälle, die vom Studierenden nicht zu vertreten sind, entscheidet der
 Prüfungsausschuss auf Antrag.
-
 Artikel 2 der Änderungssatzung vom 13. Februar 2009
 (1) Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft.
 (2) Modulprüfungen, die bei Inkrafttreten dieser Satzung vollständig absolviert und
 bestanden worden sind, behalten ihre Gültigkeit.
 (3) Hat eine Studierende oder ein Studierender selbstständige Teilleistungen einer
-Modulprüfung absolviert und bestanden, werden diese Prüfungen angerechnet. Der
-Prüfungsausschuss entscheidet unter Berücksichtigung der Lernziele des Moduls
-und des Prüfungszwecks, welche weiteren Prüfungsleistungen zur Vervollständigung
-des jeweiligen Moduls erbracht werden müssen.
+Modulprüfung absolviert und bestanden, werden diese Prüfungen angerechnet.
+Der Prüfungsausschuss entscheidet unter Berücksichtigung der Lernziele des
+Moduls und des Prüfungszwecks, welche weiteren Prüfungsleistungen zur
+Vervollständigung des jeweiligen Moduls erbracht werden müssen.
 (4) Ist eine Prüfungsleistung bei Inkrafttreten dieser Satzung absolviert und
-bestanden, und ist diese Prüfungsleistung nach den neuen Regelungen unbenotet,
-wird die Note nicht eingerechnet. Auf Antrag des Studierenden entscheidet der
-Prüfungsausschuss über eine Einrechnung nach Maßgabe der alten
-Prüfungsordnung. Der Antrag ist bis zum 30.09.2009 zu stellen.
+bestanden, und ist diese Prüfungsleistung nach den neuen Regelungen
+unbenotet, wird die Note nicht eingerechnet. Auf Antrag des Studierenden
+entscheidet der Prüfungsausschuss über eine Einrechnung nach Maßgabe der
+alten Prüfungsordnung. Der Antrag ist bis zum 30.09.2009 zu stellen.
 (5) Fehlversuche, die im Rahmen von Prüfungen vor Inkrafttreten dieser Satzung
 unternommen wurden, werden auf die Anzahl der Versuche nach der neuen
-Prüfungsordnung angerechnet, sofern sich die Anrechnung nicht nach der Struktur
-der neuen Modulprüfung verbietet.
+Prüfungsordnung angerechnet, sofern sich die Anrechnung nicht nach der
+Struktur der neuen Modulprüfung verbietet.
 (6) Über Härtefälle, die vom Studierenden nicht zu vertreten sind, entscheidet der
 Prüfungsausschuss auf Antrag.
 
@@ -729,46 +735,46 @@ Bachelor und Master
 103/62-0607-1
 
 Blatt: 14
-10/10
+03/11
 
 Artikel 2 der Änderungssatzung vom 24. Juli 2009
 (1) Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft.
 (2) Modulprüfungen, die bei Inkrafttreten dieser Satzung vollständig absolviert und
 bestanden worden sind, behalten ihre Gültigkeit.
 (3) Hat eine Studierende oder ein Studierender selbstständige Teilleistungen einer
-Modulprüfung absolviert und bestanden, werden diese Prüfungen angerechnet. Der
-Prüfungsausschuss entscheidet unter Berücksichtigung der Lernziele des Moduls
-und des Prüfungszwecks, welche weiteren Prüfungsleistungen zur Vervollständigung
-des jeweiligen Moduls erbracht werden müssen.
+Modulprüfung absolviert und bestanden, werden diese Prüfungen angerechnet.
+Der Prüfungsausschuss entscheidet unter Berücksichtigung der Lernziele des
+Moduls und des Prüfungszwecks, welche weiteren Prüfungsleistungen zur
+Vervollständigung des jeweiligen Moduls erbracht werden müssen.
 (4) Ist eine Prüfungsleistung bei Inkrafttreten dieser Satzung absolviert und
-bestanden, und ist diese Prüfungsleistung nach den neuen Regelungen unbenotet,
-wird die Note nicht eingerechnet. Auf Antrag des Studierenden entscheidet der
-Prüfungsausschuss über eine Einrechnung nach Maßgabe der alten
-Prüfungsordnung. Der Antrag ist bis zum 31.03.2010 zu stellen.
+bestanden, und ist diese Prüfungsleistung nach den neuen Regelungen
+unbenotet, wird die Note nicht eingerechnet. Auf Antrag des Studierenden
+entscheidet der Prüfungsausschuss über eine Einrechnung nach Maßgabe der
+alten Prüfungsordnung. Der Antrag ist bis zum 31.03.2010 zu stellen.
 (5) Fehlversuche, die im Rahmen von Prüfungen vor Inkrafttreten dieser Satzung
 unternommen wurden, werden auf die Anzahl der Versuche nach der neuen
-Prüfungsordnung angerechnet, sofern sich die Anrechnung nicht nach der Struktur
-der neuen Modulprüfung verbietet.
-(6)Über Härtefälle, die vom Studierenden nicht zu vertreten sind, entscheidet der
+Prüfungsordnung angerechnet, sofern sich die Anrechnung nicht nach der
+Struktur der neuen Modulprüfung verbietet.
+(6) Über Härtefälle, die vom Studierenden nicht zu vertreten sind, entscheidet der
 Prüfungsausschuss auf Antrag.
 Artikel 2 der Änderungssatzung vom 17. Dezember 2009:
 (1) Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft.
 (2) Modulprüfungen, die bei Inkrafttreten dieser Satzung vollständig absolviert und
 bestanden worden sind, behalten ihre Gültigkeit.
 (3) Hat eine Studierende oder ein Studierender selbstständige Teilleistungen einer
-Modulprüfung absolviert und bestanden, werden diese Prüfungen angerechnet. Der
-Prüfungsausschuss entscheidet unter Berücksichtigung der Lernziele des Moduls
-und des Prüfungszwecks, welche weiteren Prüfungsleistungen zur Vervollständigung
-des jeweiligen Moduls erbracht werden müssen.
+Modulprüfung absolviert und bestanden, werden diese Prüfungen angerechnet.
+Der Prüfungsausschuss entscheidet unter Berücksichtigung der Lernziele des
+Moduls und des Prüfungszwecks, welche weiteren Prüfungsleistungen zur
+Vervollständigung des jeweiligen Moduls erbracht werden müssen.
 (4) Ist eine Prüfungsleistung bei Inkrafttreten dieser Satzung absolviert und
-bestanden, und ist diese Prüfungsleistung nach den neuen Regelungen unbenotet,
-wird die Note nicht eingerechnet. Auf Antrag des Studierenden entscheidet der
-Prüfungsausschuss über eine Einrechnung nach Maßgabe der alten
-Prüfungsordnung. Der Antrag ist bis zum 31.03.2010 zu stellen.
+bestanden, und ist diese Prüfungsleistung nach den neuen Regelungen
+unbenotet, wird die Note nicht eingerechnet. Auf Antrag des Studierenden
+entscheidet der Prüfungsausschuss über eine Einrechnung nach Maßgabe der
+alten Prüfungsordnung. Der Antrag ist bis zum 31.03.2010 zu stellen.
 (5) Fehlversuche, die im Rahmen von Prüfungen vor Inkrafttreten dieser Satzung
 unternommen wurden, werden auf die Anzahl der Versuche nach der neuen
-Prüfungsordnung angerechnet, sofern sich die Anrechnung nicht nach der Struktur
-der neuen Modulprüfung verbietet.
+Prüfungsordnung angerechnet, sofern sich die Anrechnung nicht nach der
+Struktur der neuen Modulprüfung verbietet.
 (6) Über Härtefälle, die vom Studierenden nicht zu vertreten sind, entscheidet der
 Prüfungsausschuss auf Antrag.
 
@@ -787,26 +793,26 @@ Bachelor und Master
 103/62-0607-1
 
 Blatt: 15
-10/10
+03/11
 
 Artikel 2 der Änderungssatzung vom 23. Juli 2010:
 (1) Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft.
 (2) Modulprüfungen, die bei Inkrafttreten dieser Satzung vollständig absolviert und
 bestanden worden sind, behalten ihre Gültigkeit.
 (3) Hat eine Studierende oder ein Studierender selbstständige Teilleistungen einer
-Modulprüfung absolviert und bestanden, werden diese Prüfungen angerechnet. Der
-Prüfungsausschuss entscheidet unter Berücksichtigung der Lernziele des Moduls
-und des Prüfungszwecks, welche weiteren Prüfungsleistungen zur Vervollständigung
-des jeweiligen Moduls erbracht werden müssen.
+Modulprüfung absolviert und bestanden, werden diese Prüfungen angerechnet.
+Der Prüfungsausschuss entscheidet unter Berücksichtigung der Lernziele des
+Moduls und des Prüfungszwecks, welche weiteren Prüfungsleistungen zur
+Vervollständigung des jeweiligen Moduls erbracht werden müssen.
 (4) Ist eine Prüfungsleistung bei Inkrafttreten dieser Satzung absolviert und
-bestanden, und ist diese Prüfungsleistung nach den neuen Regelungen unbenotet,
-wird die Note nicht eingerechnet. Auf Antrag des Studierenden entscheidet der
-Prüfungsausschuss über eine Einrechnung nach Maßgabe der alten
-Prüfungsordnung. Der Antrag ist bis zum 31.03.2011 zu stellen.
+bestanden, und ist diese Prüfungsleistung nach den neuen Regelungen
+unbenotet, wird die Note nicht eingerechnet. Auf Antrag des Studierenden
+entscheidet der Prüfungsausschuss über eine Einrechnung nach Maßgabe der
+alten Prüfungsordnung. Der Antrag ist bis zum 31.03.2011 zu stellen.
 (5) Fehlversuche, die im Rahmen von Prüfungen vor Inkrafttreten dieser Satzung
 unternommen wurden, werden auf die Anzahl der Versuche nach der neuen
-Prüfungsordnung angerechnet, sofern sich die Anrechnung nicht nach der Struktur
-der neuen Modulprüfung verbietet.
+Prüfungsordnung angerechnet, sofern sich die Anrechnung nicht nach der
+Struktur der neuen Modulprüfung verbietet.
 (6) Über Härtefälle, die vom Studierenden nicht zu vertreten sind, entscheidet der
 Prüfungsausschuss auf Antrag.
 
@@ -823,7 +829,7 @@ Fachprüfungsordnung Physik 1-Fach
 Bachelor und Master
 
 Blatt: 16
-10/10
+03/11
 
 103/62-0607-1
 Physik
@@ -1163,7 +1169,7 @@ Fachprüfungsordnung Physik 1-Fach
 Bachelor und Master
 
 Blatt: 17
-10/10
+03/11
 
 103/62-0607-1
 
@@ -1453,7 +1459,7 @@ PL:
 LP:
 
 Blatt: 18
-10/10
+03/11
 
 Titel des Moduls in Form der Modulnummer
 Name des Moduls
@@ -1485,7 +1491,7 @@ Fachprüfungsordnung Physik 1-Fach
 Bachelor und Master
 
 Blatt: 19
-10/10
+03/11
 
 103/62-0607-1
 2. Studienverlaufsplan für den Master of Science „Physik“
@@ -1526,10 +1532,10 @@ Plasmaphysik, Theorie. Verteilt über
 2 Semester (6)
 Physikalisches
 Fortgeschrittenenpraktikum I
-Seminar aus einem Gebiet des
-Wahlpflichtschwerpunktbereiches (in
-der Semesterlage vertauschbar mit
-phys-1142)
+Seminar aus dem gewählten Gebiet
+des Wahlpflichtschwerpunktbereiches
+(in der Semesterlage vertauschbar
+mit phys-1142)
 Profilbildung: Lehrangebot außerhalb
 der Physik (5)
 
@@ -1624,8 +1630,8 @@ Oberflächenphysik, Plasmaphysik,
 Theorie. Verteilt über 2 Semester (6)
 Physikalisches
 Fortgeschrittenenpraktikum II
-Seminar aus einem Gebiet des
-Wahlpflichtbereiches (in der
+Seminar aus dem gewählten Gebiet
+des Wahlpflichtbereiches (in der
 Semesterlage vertauschbar mit phys1141)
 Profilbildung: Lehrangebot außerhalb
 der Physik (5)
@@ -1714,11 +1720,6 @@ X
 
 WP
 
-10
-über 2
-Sem
-∑ 30
-
 phys1311
 phys1321
 
@@ -1739,8 +1740,6 @@ S
 
 P
 
-phys1311
-
 phys1411
 
 Masterarbeit (7)
@@ -1752,9 +1751,10 @@ S
 
 P
 
-90 CP
-phys1311
-phys1321
+10
+über 2
+Sem
+∑ 30
 
 P
 
@@ -1764,11 +1764,19 @@ SA o. R
 
 15
 
+phys1311
+
 SA o. R
 
 ∑ 60
 
 15
+
+70 CP
+phys-1311
+phys-1321
+(8)
+
 ∑ 30
 30
 
@@ -1793,7 +1801,7 @@ Fachprüfungsordnung Physik 1-Fach
 Bachelor und Master
 
 Blatt: 20
-10/10
+03/11
 
 103/62-0607-1
 
@@ -1805,8 +1813,12 @@ mehr als ein Testat, ist das Modul nicht bestanden.
 (5) Mindestens 6 Leistungspunkte müssen aus benoteten Modulen stammen.
 (6) Im WP (phys-1121 bis phys-1126) muss ein anderes Gebiet gewählt werden als im WSP (phys-1111 bis phys-1116) mit der
 Ausnahme, dass „Theoretische Physik“ sowohl im WSP als auch im WP mit verschiedenen Ausrichtungen gewählt werden
-kann.
+kann. Soweit Lehrveranstaltungen sowohl im Wahlpflichtschwerpunkt als auch im Wahlpflichtbereich belegbar sind, müssen
+die Prüfungsinhalte in der Modulprüfung zum Wahlpflichtschwerpunktmodul und zum Wahlpflichtmodul aus unterschiedlichen
+Lehrveranstaltungen gewählt werden.
 (7) Die Module sind konsekutiv und sind auch inhaltlich zusammenhängend zu wählen.
+(8) Der Nachweis für den erfolgreichen Abschluss dieser Module kann binnen einer Frist von einem Monat nach Beginn der
+Masterarbeit nachgeliefert werden.
 
 Exportmodule der Sektion Physik:
 Export in
@@ -1826,9 +1838,64 @@ Nr.
 
 Phys-NF1
 
+Phys-NF2
+
 Modulbezeichnung
 Physik für
 Naturwissenschaftler
+
+Physik für Biochemiker
+(sowie 2-Fächer
+Bachelor mit
+Kombination
+Biologie+Chemie)
+Physik für Ingenieure I
++ II
+
+B.Sc. Elektrotechnik
+und
+Informationstechnik/
+Wirtschaftsingenieur
+E. u. I.
+B.Sc. Agrarwiss./
+B.Sc. Ökotrophologie
+
+MNF-physAgrar
+
+Physik
+
+B.Sc. Mathematik
+
+Phys-NF3
+
+M.Sc. Biologie
+
+biol-203/
+phys-1251
+
+Physik IV für
+Mathematiker
+Physik für Biologen I
+
+M.Sc. Biologie
+
+biol-203/
+phys-1252
+
+B.Sc. Phys. d.
+Erdsyst.
+
+Phys-pher303
+
+M.Sc. Mathematik
+
+Phys-EDMA
+
+M.Sc. Mathematik
+
+Phys-QMMA
+
+MNF-physIng
 
 LF
 
@@ -1842,6 +1909,14 @@ V+P
 4+4
 
 P
+
+V
+
+4
+
+V+Ü
+
+4+2
 
 Voraussetzung
 
@@ -1857,17 +1932,6 @@ Tta (1)
 ü. 2
 Sem
 
-Physik für Biochemiker
-(sowie 2-Fächer
-Bachelor mit
-Kombination
-Biologie+Chemie)
-Physik für Ingenieure I
-
-V
-
-4
-
 P
 
 keine
@@ -1876,35 +1940,15 @@ K
 
 5
 
-V+Ü
-
-2+1
-
 P
 
 keine
 
 K o. M
 
-4
-
-Physik für Ingenieure I
-
-V+Ü
-
-2+1
-
-P
-
-keine
-
-K o. M
-
-4
-
-Modul 2
-
-Physik
+8
+ü. 2
+Sem
 
 V+Ü
 
@@ -1918,10 +1962,6 @@ K
 
 6
 
-B.Sc. Mathematik
-
-Phys-NF3
-
 V
 
 4
@@ -1934,15 +1974,6 @@ K o. M
 
 5
 
-M.Sc. Biologie
-
-biol-203/
-phys-1251
-
-Physik IV für
-Mathematiker
-Physik für Biologen I
-
 V+Ü
 
 10+3
@@ -1952,11 +1983,6 @@ WP
 keine
 
 K+PÜ (2)
-
-M.Sc. Biologie
-
-biol-203/
-phys-1252
 
 Physik für Biologen II
 
@@ -1970,37 +1996,6 @@ WP
 
 keine
 
-B.Sc. Phys. d.
-Erdsyst.
-
-Phys-pher303
-
-P/BS
-
-3/1
-
-P
-
-M.Sc. Mathematik
-
-Phys-EDMA
-
-V+Ü
-
-4+2
-
-WP
-
-Keine
-
-K o. M
-
-10
-
-M.Sc. Mathematik
-
-Phys-QMMA
-
 ElektronikGrundpraktikum für
 PEMOG
 Elektrodynamik für
@@ -2009,6 +2004,12 @@ Sommersemester)
 Quantenmechanik für
 Mathematiker (nur im
 Wintersemester)
+
+P/BS
+
+3/1
+
+P
 
 K+PÜ+
 Pprog+
@@ -2036,24 +2037,17 @@ K o. M
 
 10
 
-B.Sc. Elektrotechnik
-und
-Informationstechnik/
-Wirtschaftsingenieur
-E. u. I.
-B.Sc. Elektrotechnik
-und
-Informationstechnik/
-Wirtschaftsingenieur
-E. u. I.
-B.Sc. Agrarwiss./
-B.Sc. Ökotrophologie
+V+Ü
 
-Phys-NF2
+4+2
 
-M 7.1
+WP
 
-M 7.2
+Keine
+
+K o. M
+
+10
 
 Phys-203
 

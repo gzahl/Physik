@@ -12,7 +12,7 @@ Bachelor und Master
 Az.: 103/0-0126
 
 Blatt: 1
-10/10
+4/11
 
 Gemeinsame Prüfungsordnung (Satzung) der Christian-Albrechts-Universität
 zu Kiel für Studierende der Zwei-Fächer-Bachelor- und Master-Studiengänge
@@ -27,7 +27,8 @@ Schl.-H. S. 40), geändert durch Satzung vom 17. Dezember 2009, Veröffentlichun
 vom 01. März 2010 (NBl. MWV. Schl.-H. S. 2), geändert durch Satzung vom 14. Mai
 2010, Veröffentlichung vom 16 .Juni 2010 (NBl. MWV. Schl.-H. S. 38), geändert
 durch Satzung vom 23. Juli 2010, Veröffentlichung vom 11. Oktober 2010 (NBl.
-MWV. Schl.-H. S. 59)
+MWV. Schl.-H. S. 59), geändert durch Satzung vom 10. Februar 2010
+Veröffentlichung vom 31. März 2011 (NBl. MWV. Schl.-H. S. 45)
 
 Aufgrund des § 52 Abs. 1 Satz 2 des Hochschulgesetzes (HSG) vom 28. Februar
 2007 (GVOBl. Schl.-H. 2007, S. 184) wird nach Beschlussfassung durch den Senat
@@ -78,7 +79,7 @@ Bachelor und Master
 Az.: 103/0-0126
 
 Blatt: 2
-10/10
+4/11
 
 III. Besondere Prüfungsbestimmungen für den Master-Studiengang mit dem
 Abschluss Master of Arts (M.A.)
@@ -117,14 +118,24 @@ Bildung der Gesamtnote
 Akademischer Grad
 
 V. Besondere Prüfungsbestimmungen für den Master-Studiengang mit dem
-Abschluss Master of Science (Handelslehrer) oder Master of Arts (Handelslehrer)
-§ 27 Ziel des Studiums, Zweck der Prüfung
-§ 28 Studienaufbau, Studienumfang und Regelstudienzeit
-§ 29 Fächerkombinationen
-§ 30 Zugang zum Master-Studium
-§ 31 Master-Arbeit
-§ 32 Bildung der Gesamtnote
-§ 33 Akademischer Grad
+Abschluss Master of Science (Handelslehrer) oder Master of Arts
+(Handelslehrer)
+§ 27
+§ 28
+§ 29
+§ 30
+§ 31
+§ 32
+§ 33
+
+Ziel des Studiums, Zweck der Prüfung
+Studienaufbau, Studienumfang und Regelstudienzeit
+Fächerkombinationen
+Zugang zum Master-Studium
+Master-Arbeit
+Bildung der Gesamtnote
+Akademischer Grad
+
 VI. Besondere Bestimmungen für Erweiterungs- und Ergänzungsprüfungen
 § 34
 § 35
@@ -152,7 +163,7 @@ Bachelor und Master
 Az.: 103/0-0126
 
 Blatt: 3
-10/10
+4/11
 
 VII. Übergangs- und Schlussvorschriften
 § 39
@@ -164,6 +175,7 @@ In-Kraft-Treten
 Anlage 1: Bestimmungen für das Studium des Profils Fachergänzung
 Anlage 2: Bestimmungen für das Studium des Profils Lehramt an Gymnasien
 Anlage 3: Bestimmungen für das Studium des Profils Handelslehrer
+
 Anhang 1: Übersicht der Module und Prüfungsleistungen im Profil Fachergänzung
 Anhang 2: Übersicht der Module und Prüfungsleistungen im Profil Lehramt an
 Gymnasien
@@ -185,7 +197,7 @@ Bachelor und Master
 Az.: 103/0-0126
 
 Blatt: 4
-10/10
+4/11
 
 I. Allgemeine Prüfungsbestimmungen
 §1
@@ -215,7 +227,7 @@ Wirtschafts- und Sozialwissenschaftlichen Fakultät zuständig.
 (4) Für importierte Module ist der Prüfungsausschuss des anbietenden Fachs
 zuständig.
 §3
-- gestrichen .
+- gestrichen -
 
 Christian-Albrechts-Universität zu Kiel
 Dokumentation der Studien -und Prüfungsordnungen
@@ -231,7 +243,7 @@ Bachelor und Master
 Az.: 103/0-0126
 
 Blatt: 5
-10/10
+4/11
 
 §4
 Bachelor- und Master-Arbeit
@@ -276,7 +288,7 @@ Bachelor und Master
 Az.: 103/0-0126
 
 Blatt: 6
-10/10
+4/11
 
 §7
 Fächerkombinationen mit dem Profil Fachergänzung
@@ -332,7 +344,7 @@ Bachelor und Master
 Az.: 103/0-0126
 
 Blatt: 7
-10/10
+4/11
 
 §8
 Fächerkombinationen mit dem Profil Lehramt an Gymnasien
@@ -388,7 +400,7 @@ Bachelor und Master
 Az.: 103/0-0126
 
 Blatt: 8
-10/10
+4/11
 
 (3) Näheres zu Inhalt und Aufbau des Profils Lehramt an Gymnasien ergibt sich aus
 Anlage 2 sowie der Praktikumsordnung für die Durchführung der
@@ -423,11 +435,6 @@ Prüfungsverfahrensordnung darf nicht mehr als drei Wochen betragen.
 Wochen zurückgegeben werden.
 (4) Die Bachelor-Arbeit ist innerhalb von sechs Wochen zu bewerten.
 
-§ 11
-Bildung der Gesamtnote
-(1) Bei Fächerkombinationen gemäß § 7 ergibt sich die Gesamtnote aus dem
-gewichteten Mittel der Fachnoten und der Note für die Bachelor-Arbeit. Dabei
-
 Christian-Albrechts-Universität zu Kiel
 Dokumentation der Studien -und Prüfungsordnungen
 
@@ -442,8 +449,12 @@ Bachelor und Master
 Az.: 103/0-0126
 
 Blatt: 9
-10/10
+4/11
 
+§ 11
+Bildung der Gesamtnote
+(1) Bei Fächerkombinationen gemäß § 7 ergibt sich die Gesamtnote aus dem
+gewichteten Mittel der Fachnoten und der Note für die Bachelor-Arbeit. Dabei
 werden die Fachnoten jeweils mit 7/15 und die Note für die Bachelor-Arbeit mit
 1/15 gewichtet.
 (2) Bei Fächerkombinationen gemäß § 8 ergibt sich die Gesamtnote aus dem
@@ -469,16 +480,24 @@ und 3.
 § 12
 Akademischer Grad
 Aufgrund der bestandenen Bachelor-Prüfung verleiht
-1. die Philosophische Fakultät bei Fächerkombinationen gemäß § 7 Abs. 1 und
+1.
+
+die Philosophische Fakultät bei Fächerkombinationen gemäß § 7 Abs. 1 und
 § 8 Abs. 1 den Grad „Bachelor of Arts (B.A.)“,
-2. die Mathematisch-Naturwissenschaftliche Fakultät den Grad „Bachelor of Science
-(B.Sc.)“, wenn im Fall von § 8 Abs. 1 zwei der Fächer Biologie, Chemie,
-Geographie, Informatik, Mathematik und Physik miteinander kombiniert werden
-und
-3. die Wirtschafts- und Sozialwissenschaftliche Fakultät den Grad „Bachelor of
+
+2.
+
+die Mathematisch-Naturwissenschaftliche Fakultät den Grad „Bachelor of
+Science (B.Sc.)“, wenn im Fall von § 8 Abs. 1 zwei der Fächer Biologie,
+Chemie, Geographie, Informatik, Mathematik und Physik miteinander
+kombiniert werden und
+
+3.
+
+die Wirtschafts- und Sozialwissenschaftliche Fakultät den Grad „Bachelor of
 Science“, wenn im Fall von § 9 Abs. 1 Wirtschaftswissenschaft mit einem der
-Fächer Geographie, Informatik oder Mathematik studiert wird, im Übrigen den Grad
-„Bachelor of Arts“.
+Fächer Geographie, Informatik oder Mathematik studiert wird, im Übrigen den
+Grad „Bachelor of Arts“.
 
 Christian-Albrechts-Universität zu Kiel
 Dokumentation der Studien -und Prüfungsordnungen
@@ -494,7 +513,7 @@ Bachelor und Master
 Az.: 103/0-0126
 
 Blatt: 10
-10/10
+4/11
 
 III. Besondere Prüfungsbestimmungen für den Master-Studiengang mit dem
 Abschluss Master of Arts (M.A.)
@@ -534,9 +553,10 @@ Lateinische Philologie,
 Mittel- und Neulateinische Philologie,
 
 Christian-Albrechts-Universität zu Kiel
-Dokumentation der Studien -und Prüfungsordnungen
 
 Ordnungsnummer:
+
+Dokumentation der Studien -und Prüfungsordnungen
 
 0-1-2.2
 
@@ -544,10 +564,11 @@ Ordnungsnummer:
 
 Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
-Az.: 103/0-0126
 
 Blatt: 11
-10/10
+4/11
+
+Az.: 103/0-0126
 
 Musikwissenschaft,
 Pädagogik,
@@ -557,15 +578,12 @@ Prähistorische und Historische Archäologie,
 Romanische Philologie,
 Skandinavistik,
 International vergleichende Soziologie,
-Sportwissenschaft,
 Sprachdokumentation und Korpuslinguistik und
 Vergleichende Slavistik.
 § 16
 Zugang zum Master-Studium
-(1) Zum Master-Studium kann nur zugelassen werden, wer
--
-
-nach einem Studium mit einer Regelstudienzeit von mindestens drei Jahren an
+Zum Master-Studium kann nur zugelassen werden, wer
+1. nach einem Studium mit einer Regelstudienzeit von mindestens drei Jahren an
 einer Hochschule in der Bundesrepublik Deutschland oder an einer
 gleichwertigen ausländischen Hochschule in zwei Fächern gemäß § 7 Abs. 1
 oder vergleichbaren Fächern einen Bachelor- oder einen gleichwertigen
@@ -573,35 +591,28 @@ anderen Hochschulabschluss erworben hat, der nach Inhalt, Umfang und
 wissenschaftlichen Anforderungen mindestens dem Bachelor-Abschluss nach
 dieser Prüfungsordnung und den jeweiligen Fachprüfungsordnungen
 entspricht,
-
--
-
-die
+2. die
 weiteren
 Zugangsvoraussetzungen
+Fachprüfungsordnungen erfüllt und
+
 in
+
 den
+
 jeweiligen
-Fachprüfungsordnungen, insbesondere eine fachspezifische Mindestnote für
-den Zugang zum Master-Studium, erfüllt und
 
--
-
-soweit für den jeweiligen Studiengang erforderlich, weitere Voraussetzungen
+3. soweit für den jeweiligen Studiengang erforderlich, weitere Voraussetzungen
 nach der Satzung über den Nachweis einer praktischen Tätigkeit oder von
 Fremdsprachenkenntnissen (Studienqualifikationssatzung) erfüllt.
-
-(2) Wird die fachspezifische Mindestnote eines der beiden Fächer um maximal 0,3
-unterschritten, wird dies ausgeglichen, wenn die fachspezifische Mindestnote des
-anderen Fachs um mindestens dieselbe Punktzahl überschritten wird. Sieht die
-Fachprüfungsordnung eines Fachs keine Mindestnote vor, gilt als Mindestnote
-4,0. Die Note für die Bachelor-Arbeit wird mit ihrer Leistungspunktzahl gewichtet
-und in die Fachnote des Fachs eingerechnet, in dem sie angefertigt wurde.
-(3) Wird die Mindestnote in einem der beiden Fächer um maximal 0,7 unterschritten,
-kann die Eignung für die Zulassung zum Master-Studium in diesem Fach durch
-ein Gutachten einer fachlich einschlägigen Hochschullehrerin oder eines fachlich
-einschlägigen Hochschullehrers nachgewiesen werden. Findet eine Bewerberin
-oder ein Bewerber keine Gutachterin oder keinen Gutachter, wählt die oder der
+§ 17
+Master-Arbeit
+(1) Zur Master-Arbeit kann zugelassen werden, wer durch Modulprüfungen in Pflichtund Wahlpflichtmodulen mindestens 60 Leistungspunkte erworben hat.
+(2) Die Zeit von der Ausgabe des Themas bis zur Ablieferung der Master-Arbeit
+beträgt sechs Monate. Eine Verlängerung der Bearbeitungszeit nach der
+Prüfungsverfahrensordnung darf nicht mehr als drei Monate betragen.
+(3) Das Thema der Master-Arbeit kann nur einmal und nur innerhalb der ersten zwei
+Monate zurückgegeben werden.
 
 Christian-Albrechts-Universität zu Kiel
 Dokumentation der Studien -und Prüfungsordnungen
@@ -617,28 +628,8 @@ Bachelor und Master
 Az.: 103/0-0126
 
 Blatt: 12
-10/10
+4/11
 
-Vorsitzende des Prüfungsausschusses auf Antrag der Bewerberin oder des
-Bewerbers eine Gutachterin oder einen Gutachter aus. Wird ein Gutachten einer
-auswärtigen Hochschullehrerin oder eines auswärtigen Hochschullehrers
-vorgelegt, entscheidet der zuständige Fachprüfungsausschuss auf Grundlage
-dieses Gutachtens über die Eignung der Bewerberin oder des Bewerbers.
-(4) Liegen Zugangsvoraussetzungen, die sich nicht auf die Erfüllung der Mindestnote
-beziehen, im Zeitpunkt der Bewerbung nicht vor, kann im Rahmen freier
-Studienplätze eine Zulassung unter der Auflage erfolgen, dass bis zur Anmeldung
-zu einer Modulprüfung oder zur Master-Arbeit ergänzend Modulprüfungen aus
-einem Bachelor-Studiengang erfolgreich abgelegt werden müssen. Der Inhalt der
-Auflage wird vom Prüfungsausschuss festgelegt.
-
-§ 17
-Master-Arbeit
-(1) Zur Master-Arbeit kann zugelassen werden, wer durch Modulprüfungen in Pflichtund Wahlpflichtmodulen mindestens 60 Leistungspunkte erworben hat.
-(2) Die Zeit von der Ausgabe des Themas bis zur Ablieferung der Master-Arbeit
-beträgt sechs Monate. Eine Verlängerung der Bearbeitungszeit nach der
-Prüfungsverfahrensordnung darf nicht mehr als drei Monate betragen.
-(3) Das Thema der Master-Arbeit kann nur einmal und nur innerhalb der ersten zwei
-Monate zurückgegeben werden.
 (4) Die Master-Arbeit ist innerhalb von sechs Wochen durch beide Gutachterinnen
 oder Gutachter zu bewerten.
 
@@ -656,22 +647,6 @@ jeweiligen
 Akademischer Grad
 Aufgrund der bestandenen Master-Prüfung verleiht die Philosophische Fakultät den
 Grad „Master of Arts (M.A.)“.
-
-Christian-Albrechts-Universität zu Kiel
-Dokumentation der Studien -und Prüfungsordnungen
-
-Ordnungsnummer:
-
-0-1-2.2
-
-(Keine amtliche Bekanntmachung)
-
-Zwei-Fächer-Prüfungsordnung
-Bachelor und Master
-Az.: 103/0-0126
-
-Blatt: 13
-10/10
 
 IV. Besondere Prüfungsbestimmungen für den Master-Studiengang mit dem
 Abschluss Master of Education (M.Ed.) (Lehramt an Gymnasien)
@@ -700,6 +675,24 @@ Studienaufbau, Studienumfang und Regelstudienzeit
 dem Studium zweier Fächer im Umfang von je 35 Leistungspunkten, davon
 mindestens 10 Leistungspunkte für Fachdidaktik,
 
+Christian-Albrechts-Universität zu Kiel
+
+Ordnungsnummer:
+
+Dokumentation der Studien -und Prüfungsordnungen
+
+0-1-2.2
+
+(Keine amtliche Bekanntmachung)
+
+Zwei-Fächer-Prüfungsordnung
+Bachelor und Master
+
+Blatt: 13
+4/11
+
+Az.: 103/0-0126
+
 -
 
 dem Studium des Profils Lehramt an Gymnasien im Umfang von 30
@@ -726,6 +719,32 @@ einer gemäß § 8 Abs. 2 genehmigten abweichenden Fächerkombination an der
 Christian-Albrechts-Universität zu Kiel erworben, ist die Fortsetzung dieser
 Kombination im Master of Education ohne erneute Genehmigung zulässig.
 
+§ 23
+Zugang zum Master-Studium
+Zum Master-Studium kann nur zugelassen werden, wer
+1. nach einem Studium mit einer Regelstudienzeit von mindestens drei Jahren an
+einer Hochschule in der Bundesrepublik Deutschland oder an einer
+gleichwertigen ausländischen Hochschule in zwei Fächern gemäß § 8 Abs. 1
+oder vergleichbaren Fächern einen Bachelor- oder einen gleichwertigen
+anderen Hochschulabschluss erworben hat, der nach Inhalt, Umfang und
+wissenschaftlichen Anforderungen mindestens dem Bachelor-Abschluss nach
+dieser Prüfungsordnung und den jeweiligen Fachprüfungsordnungen
+entspricht,
+2. die
+weiteren
+Zugangsvoraussetzungen
+Fachprüfungsordnungen erfüllt,
+
+in
+
+den
+
+jeweiligen
+
+3. soweit für den jeweiligen Studiengang erforderlich, weitere Voraussetzungen
+nach der Satzung über den Nachweis einer praktischen Tätigkeit oder von
+Fremdsprachenkenntnissen (Studienqualifikationssatzung) erfüllt und
+
 Christian-Albrechts-Universität zu Kiel
 Dokumentation der Studien -und Prüfungsordnungen
 
@@ -740,86 +759,12 @@ Bachelor und Master
 Az.: 103/0-0126
 
 Blatt: 14
-10/10
+4/11
 
-§ 23
-Zugang zum Master-Studium
-(1) Zum Master-Studium kann nur zugelassen werden, wer
--
-
-nach einem Studium mit einer Regelstudienzeit von mindestens drei Jahren an
-einer Hochschule in der Bundesrepublik Deutschland oder an einer
-gleichwertigen ausländischen Hochschule in zwei Fächern gemäß § 8 Abs. 1
-oder vergleichbaren Fächern einen Bachelor- oder einen gleichwertigen
-anderen Hochschulabschluss erworben hat, der nach Inhalt, Umfang und
-wissenschaftlichen Anforderungen mindestens dem Bachelor-Abschluss nach
-dieser Prüfungsordnung und den jeweiligen Fachprüfungsordnungen
-entspricht,
-
--
-
-die
-weiteren
-Zugangsvoraussetzungen
-in
-den
-jeweiligen
-Fachprüfungsordnungen, insbesondere eine fachspezifische Mindestnote für
-den Zugang zum Master-Studium, erfüllt,
-
--
-
-soweit für den jeweiligen Studiengang erforderlich, weitere Voraussetzungen
-nach der Satzung über den Nachweis einer praktischen Tätigkeit oder von
-Fremdsprachenkenntnissen (Studienqualifikationssatzung) erfüllt und
-
--
-
-in ihrem oder seinem Bachelor-Studium das Profil Lehramt an Gymnasien
+4. in ihrem oder seinem Bachelor-Studium das Profil Lehramt an Gymnasien
 oder mindestens gleichwertige Studienanteile in den Bereichen Fachdidaktik
 und Pädagogik sowie schulpraktische Studien im Umfang von mindestens
-sechs Wochen absolviert und in diesem Profil oder diesen Studienanteilen
-mindestens die Durchschnittsnote 3,0 erzielt hat.
-
-(2) Wird die fachspezifische Mindestnote eines der beiden Fächer um maximal 0,3
-unterschritten, wird dies ausgeglichen, wenn die fachspezifische Mindestnote des
-anderen Fachs um mindestens dieselbe Punktzahl überschritten wird. Sieht die
-Fachprüfungsordnung eines Fachs keine Mindestnote vor, gilt als Mindestnote
-4,0. Die Note für die Bachelor-Arbeit wird mit ihrer Leistungspunktzahl gewichtet
-und in die Fachnote des Fachs eingerechnet, in dem sie angefertigt wurde.
-(3) Wird die Mindestnote in einem der beiden Fächer um maximal 0,7 unterschritten,
-kann die Eignung für die Zulassung zum Master-Studium in diesem Fach durch
-ein Gutachten einer fachlich einschlägigen Hochschullehrerin oder eines fachlich
-einschlägigen Hochschullehrers nachgewiesen werden. Findet eine Bewerberin
-oder ein Bewerber keine Gutachterin oder keinen Gutachter, wählt die oder der
-Vorsitzende des Prüfungsausschusses auf Antrag der Bewerberin oder des
-Bewerbers eine Gutachterin oder einen Gutachter aus. Wird ein Gutachten einer
-auswärtigen Hochschullehrerin oder eines auswärtigen Hochschullehrers
-vorgelegt, entscheidet der zuständige Fachprüfungsausschuss auf Grundlage
-dieses Gutachtens über die Eignung der Bewerberin oder des Bewerbers.
-(4) Liegen Zugangsvoraussetzungen, die sich nicht auf die Erfüllung der
-Mindestnoten beziehen, im Zeitpunkt der Bewerbung nicht vor, kann im Rahmen
-
-Christian-Albrechts-Universität zu Kiel
-Dokumentation der Studien -und Prüfungsordnungen
-
-Ordnungsnummer:
-
-0-1-2.2
-
-(Keine amtliche Bekanntmachung)
-
-Zwei-Fächer-Prüfungsordnung
-Bachelor und Master
-Az.: 103/0-0126
-
-Blatt: 15
-10/10
-
-freier Studienplätze eine Zulassung unter der Auflage erfolgen, dass bis zur
-Anmeldung zu einer Modulprüfung oder zur Master-Arbeit ergänzend
-Modulprüfungen aus einem Bachelor-Studiengang erfolgreich abgelegt werden
-müssen. Der Inhalt der Auflage wird vom Prüfungsausschuss festgelegt.
+sechs Wochen absolviert hat.
 
 § 24
 Master-Arbeit
@@ -863,8 +808,8 @@ Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
 Az.: 103/0-0126
 
-Blatt: 16
-10/10
+Blatt: 15
+4/11
 
 V. Besondere Prüfungsbestimmungen für den Master-Studiengang mit dem
 Abschluss Master of Science (Handelslehrer) oder Master of Arts
@@ -889,8 +834,10 @@ erworben hat.
 § 28
 Studienaufbau, Studienumfang und Regelstudienzeit
 (1) Das Master-Studium setzt sich zusammen aus
-1. dem Studium des Fachs Wirtschaftswissenschaft im Umfang von 25 Leistungspunkten,
-2. dem Studium eines Fachs nach § 9 Abs. 1 im Umfang von 35 Leistungspunkten, davon mindestens 10 Leistungspunkte für Fachdidaktik,
+1. dem Studium des Fachs Wirtschaftswissenschaft im Umfang von 25
+Leistungspunkten,
+2. dem Studium eines Fachs nach § 9 Abs. 1 im Umfang von 35
+Leistungspunkten, davon mindestens 10 Leistungspunkte für Fachdidaktik,
 3. dem Studium des Profils Handelslehrer im Umfang von 40 Leistungspunkten
 und
 4. der Anfertigung der Master-Arbeit im Umfang von 20 Leistungspunkten.
@@ -901,6 +848,65 @@ Die zulässigen Fächerkombinationen entsprechen denen des § 9 Abs. 1. Die
 Bachelor-Studiengänge Anglistik/Nordamerikanistik, Französische Philologie und
 Spanische Philologie werden durch die Master-Studiengänge Englisch, Französisch
 und Spanisch weitergeführt.
+
+Christian-Albrechts-Universität zu Kiel
+
+Ordnungsnummer:
+
+Dokumentation der Studien -und Prüfungsordnungen
+
+0-1-2.2
+
+(Keine amtliche Bekanntmachung)
+
+Zwei-Fächer-Prüfungsordnung
+Bachelor und Master
+
+Blatt: 16
+4/11
+
+Az.: 103/0-0126
+
+§ 30
+Zugang zum Master-Studium
+Zum Master-Studium kann nur zugelassen werden, wer
+1. nach einem Studium mit einer Regelstudienzeit von mindestens drei Jahren an
+einer Hochschule in der Bundesrepublik Deutschland oder an einer
+gleichwertigen ausländischen Hochschule in Wirtschaftswissenschaft und
+einem weiteren Fach gemäß § 9 Abs. 1 oder vergleichbaren Fächern einen
+Bachelor- oder einen gleichwertigen anderen Hochschulabschluss erworben
+hat, der nach Inhalt, Umfang und wissenschaftlichen Anforderungen
+mindestens dem Bachelor-Abschluss nach dieser Prüfungsordnung und den
+jeweiligen Fachprüfungsordnungen entspricht,
+2. die
+weiteren
+Zugangsvoraussetzungen
+Fachprüfungsordnungen erfüllt,
+
+in
+
+den
+
+jeweiligen
+
+3. soweit für den jeweiligen Studiengang erforderlich, weitere Voraussetzungen
+nach der Satzung über den Nachweis einer praktischen Tätigkeit oder von
+Fremdsprachenkenntnissen (Studienqualifikationssatzung) erfüllt und
+4. in ihrem oder seinem Bachelor-Studium das Profil Handelslehrer oder
+mindestens gleichwertige Studienanteile in den Bereichen Fachdidaktik und
+Berufs- und Wirtschaftspädagogik sowie schulpraktische Studien im Umfang
+von mindestens sechs Wochen absolviert hat.
+
+§ 31
+Master-Arbeit
+(1) Zur Master-Arbeit kann zugelassen werden, wer durch Modulprüfungen in Pflichtund Wahlpflichtmodulen mindestens 60 Leistungspunkte erworben hat.
+(2) Die Zeit von der Ausgabe des Themas bis zur Ablieferung der Master-Arbeit
+beträgt vier Monate. Eine Verlängerung der Bearbeitungszeit nach der
+Prüfungsverfahrensordnung darf nicht mehr als einen Monat betragen.
+(3) Das Thema der Master-Arbeit kann nur einmal und nur innerhalb des ersten
+Monats zurückgegeben werden.
+(4) Die Master-Arbeit ist innerhalb von sechs Wochen durch beide Gutachterinnen
+oder Gutachter zu bewerten.
 
 Christian-Albrechts-Universität zu Kiel
 Dokumentation der Studien -und Prüfungsordnungen
@@ -916,79 +922,7 @@ Bachelor und Master
 Az.: 103/0-0126
 
 Blatt: 17
-10/10
-
-§ 30
-Zugang zum Master-Studium
-(1) Zum Master-Studium kann nur zugelassen werden, wer
-1. nach einem Studium mit einer Regelstudienzeit von mindestens drei Jahren an
-einer Hochschule in der Bundesrepublik Deutschland oder an einer
-gleichwertigen ausländischen Hochschule in Wirtschaftswissenschaft und
-einem weiteren Fach gemäß § 9 Abs. 1 oder vergleichbaren Fächern einen
-Bachelor- oder einen gleichwertigen anderen Hochschulabschluss erworben
-hat, der nach Inhalt, Umfang und wissenschaftlichen Anforderungen
-mindestens dem Bachelor-Abschluss nach dieser Prüfungsordnung und den
-jeweiligen Fachprüfungsordnungen entspricht,
-2. die weiteren Zugangsvoraussetzungen in den jeweiligen Fachprüfungsordnungen, insbesondere eine fachspezifische Mindestnote für den Zugang
-zum Master- Studium, erfüllt,
-3. soweit für den jeweiligen Studiengang erforderlich, weitere Voraussetzungen
-nach der Satzung über den Nachweis einer praktischen Tätigkeit oder von
-Fremdsprachenkenntnissen (Studienqualifikationssatzung) erfüllt und
-4. in ihrem oder seinem Bachelor-Studium das Profil Handelslehrer oder
-mindestens gleichwertige Studienanteile in den Bereichen Fachdidaktik und
-Berufs- und Wirtschaftspädagogik sowie schulpraktische Studien im Umfang
-von mindestens sechs Wochen absolviert und in diesem Profil oder diesen
-Studienanteilen mindestens die Durchschnittsnote 3,0 erzielt hat.
-(2) Wird die fachspezifische Mindestnote eines der beiden Fächer um maximal 0,3
-unterschritten, wird dies ausgeglichen, wenn die fachspezifische Mindestnote des
-anderen Fachs um mindestens dieselbe Punktzahl überschritten wird. Sieht die
-Fachprüfungsordnung eines Fachs keine Mindestnote vor, gilt als Mindestnote
-4,0. Die Note für die Bachelor-Arbeit wird mit ihrer Leistungspunktzahl gewichtet
-und in die Fachnote des Fachs Wirtschaftswissenschaft eingerechnet.
-(3) Wird die Mindestnote in einem der beiden Fächer um maximal 0,7 unterschritten,
-kann die Eignung für die Zulassung zum Master-Studium in diesem Fach durch
-ein Gutachten einer fachlich einschlägigen Hochschullehrerin oder eines fachlich
-einschlägigen Hochschullehrers nachgewiesen werden. Findet eine Bewerberin
-oder ein Bewerber keine Gutachterin oder keinen Gutachter, wählt die oder der
-Vorsitzende des Prüfungsausschusses auf Antrag der Bewerberin oder des
-Bewerbers eine Gutachterin oder einen Gutachter aus. Wird ein Gutachten einer
-auswärtigen Hochschullehrerin oder eines auswärtigen Hochschullehrers
-vorgelegt, entscheidet der zuständige Fachprüfungsausschuss auf Grundlage
-dieses Gutachtens über die Eignung der Bewerberin oder des Bewerbers.
-
-Christian-Albrechts-Universität zu Kiel
-Dokumentation der Studien -und Prüfungsordnungen
-
-Ordnungsnummer:
-
-0-1-2.2
-
-(Keine amtliche Bekanntmachung)
-
-Zwei-Fächer-Prüfungsordnung
-Bachelor und Master
-Az.: 103/0-0126
-
-Blatt: 18
-10/10
-
-(4) Liegen Zugangsvoraussetzungen, die sich nicht auf die Erfüllung der
-Mindestnoten beziehen, im Zeitpunkt der Bewerbung nicht vor, kann im Rahmen
-freier Studienplätze eine Zulassung unter der Auflage erfolgen, dass bis zur
-Anmeldung zu einer Modulprüfung oder zur Master-Arbeit ergänzend
-Modulprüfungen aus einem Bachelor-Studiengang erfolgreich abgelegt werden
-müssen. Der Inhalt der Auflage wird vom Prüfungsausschuss festgelegt.
-
-§ 31
-Master-Arbeit
-(1) Zur Master-Arbeit kann zugelassen werden, wer durch Modulprüfungen in Pflichtund Wahlpflichtmodulen mindestens 60 Leistungspunkte erworben hat.
-(2) Die Zeit von der Ausgabe des Themas bis zur Ablieferung der Master-Arbeit
-beträgt vier Monate. Eine Verlängerung der Bearbeitungszeit nach der
-Prüfungsverfahrensordnung darf nicht mehr als einen Monat betragen.
-(3) Das Thema der Master-Arbeit kann nur einmal und nur innerhalb des ersten
-Monats zurückgegeben werden.
-(4) Die Master-Arbeit ist innerhalb von sechs Wochen durch beide Gutachterinnen
-oder Gutachter zu bewerten.
+4/11
 
 § 32
 Bildung der Gesamtnote
@@ -1006,23 +940,6 @@ Akademischer Grad
 Die Wirtschafts- und Sozialwissenschaftliche Fakultät verleiht aufgrund der
 bestandenen Master-Prüfung den Grad „Master of Science“, wenn im Fall von § 9
 Abs. 1 Wirtschaftswissenschaft mit einem der Fächer Geographie, Informatik oder
-
-Christian-Albrechts-Universität zu Kiel
-Dokumentation der Studien -und Prüfungsordnungen
-
-Ordnungsnummer:
-
-0-1-2.2
-
-(Keine amtliche Bekanntmachung)
-
-Zwei-Fächer-Prüfungsordnung
-Bachelor und Master
-Az.: 103/0-0126
-
-Blatt: 19
-10/10
-
 Mathematik studiert wird. Bei allen anderen Kombinationen gemäß § 9 Abs. 1 verleiht
 sie den Grad „Master of Arts“.
 
@@ -1038,23 +955,58 @@ Anhang 5 ersichtlichen Fächern möglich.
 Erweiterungsstudium auf der Bachelor-Ebene und in ein Erweiterungsstudium auf
 der Master-Ebene.
 
+Christian-Albrechts-Universität zu Kiel
+Dokumentation der Studien -und Prüfungsordnungen
+
+Ordnungsnummer:
+
+0-1-2.2
+
+(Keine amtliche Bekanntmachung)
+
+Zwei-Fächer-Prüfungsordnung
+Bachelor und Master
+Az.: 103/0-0126
+
+Blatt: 18
+4/11
+
 § 35
 Erweiterungsstudium und -prüfung auf der Bachelor-Ebene
 (1) Das Erweiterungsstudium auf der Bachelor-Ebene entspricht nach Aufbau,
 Umfang, Ziel und Inhalt dem Bachelor-Studium des gewählten Fachs der
 jeweiligen Fachprüfungsordnung.
 (2) Die Erweiterungsprüfung auf der Bachelor-Ebene ist bestanden, wenn alle
-erforderlichen Modulprüfungen gemäß der Fachprüfungsordnung bestanden sind.
-Die Anfertigung einer Bachelor-Arbeit im Erweiterungsfach kann nicht erfolgen.
+erforderlichen Modulprüfungen gemäß der Fachprüfungsordnung sowie in den
+Modulen FD 1 und FD 2 des Profils Lehramt die Prüfungen zu den
+Lehrveranstaltungen des als Erweiterungsfach studierten Unterrichtsfachs gemäß
+der Zwei-Fächer-Prüfungsordnung bestanden sind. Die Anfertigung einer
+Bachelor-Arbeit im Erweiterungsfach kann nicht erfolgen.
 (3) Zum Erweiterungsstudium auf der Bachelor-Ebene kann zugelassen werden, wer
 1. in einem Zwei-Fächer-Bachelor-Studiengang mit dem Profil Lehramt an
-Gymnasien oder einem Studiengang mit dem Abschlussziel Staatsexamen für
-das Lehramt an Gymnasien eingeschrieben ist und in beiden Studienfächern
-mindestens zwei Fachsemester an der Christian-Albrechts-Universität absolviert
-hat,
-2. in einem Zwei-Fächer-Studiengang mit dem Abschluss Master of Education für
-das Lehramt an Gymnasien an der Christian-Albrechts-Universität eingeschrieben
-ist oder
+Gymnasien oder einem Studiengang mit dem Abschlussziel Staatsexamen
+für das Lehramt an Gymnasien eingeschrieben ist und in beiden
+Studienfächern mindestens zwei Fachsemester an der Christian-AlbrechtsUniversität absolviert hat,
+2. in einem Zwei-Fächer-Studiengang mit dem Abschluss Master of Education
+für das Lehramt an Gymnasien an der Christian-Albrechts-Universität
+eingeschrieben ist oder
+3. die Master-Prüfung in einem Zwei-Fächer-Studiengang mit dem Abschluss
+Master of Education für das Lehramt an Gymnasien oder eine vergleichbare
+Prüfung bestanden hat.
+Das Studium des Erweiterungsfachs Informatik oder Griechisch kann abweichend
+von Satz 1 Nr. 1 bereits begonnen werden, wenn die Studierenden in den beiden
+Fächern im ersten Fachsemester eingeschrieben sind. Bei der Einschreibung ist
+die Teilnahme an einer Studienberatung durch das jeweilige Fach nachzuweisen.
+Das Studium des Erweiterungsfachs Mathematik kann abweichend von Satz 1 Nr.
+1 begonnen werden, wenn die Bewerberinnen oder Bewerber eine diesbezügliche
+verbindliche Studienfachberatung wahrgenommen haben und in einem 2-FächerBachelor-Studiengang für das gymnasiale Lehramt Leistungspunkte im folgenden
+Umfang erworben haben:
+1. 55 Leistungspunkte innerhalb der ersten zwei Semester oder
+2. die Hälfte der insgesamt erforderlichen Leistungspunkte.
+§ 36
+Erweiterungsstudium und -prüfung auf der Master-Ebene
+(1) Das Erweiterungsstudium auf der Master-Ebene entspricht nach Aufbau, Umfang,
+Ziel und Inhalt dem Master-Studium des gewählten Fachs mit dem Abschluss
 
 Christian-Albrechts-Universität zu Kiel
 Dokumentation der Studien -und Prüfungsordnungen
@@ -1069,26 +1021,9 @@ Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
 Az.: 103/0-0126
 
-Blatt: 20
-10/10
+Blatt: 19
+4/11
 
-3. die Master-Prüfung in einem Zwei-Fächer-Studiengang mit dem Abschluss
-Master of Education für das Lehramt an Gymnasien oder eine vergleichbare
-Prüfung bestanden hat.
-Das Studium des Erweiterungsfachs Informatik oder Griechisch kann abweichend
-von Satz 1 Nr. 1 bereits begonnen werden, wenn die Studierenden in den beiden
-Fächern im ersten Fachsemester eingeschrieben sind. Bei der Einschreibung ist die
-Teilnahme an einer Studienberatung durch das jeweilige Fach nachzuweisen.
-Das Studium des Erweiterungsfachs Mathematik kann abweichend von Satz 1 Nr. 1
-begonnen werden, wenn die Bewerberinnen oder Bewerber eine diesbezügliche
-verbindliche Studienfachberatung wahrgenommen haben und in einem 2-FächerBachelor-Studiengang für das gymnasiale Lehramt Leistungspunkte im folgenden
-Umfang erworben haben:
-1. 55 Leistungspunkte innerhalb der ersten zwei Semester oder
-2. die Hälfte der insgesamt erforderlichen Leistungspunkte.
-§ 36
-Erweiterungsstudium und -prüfung auf der Master-Ebene
-(1) Das Erweiterungsstudium auf der Master-Ebene entspricht nach Aufbau, Umfang,
-Ziel und Inhalt dem Master-Studium des gewählten Fachs mit dem Abschluss
 Master of Education inklusive der fachdidaktischen Lehrveranstaltungen gemäß
 der jeweiligen Fachprüfungsordnung.
 (2) Die Erweiterungsprüfung auf der Master-Ebene ist bestanden, wenn alle
@@ -1105,22 +1040,6 @@ Prüfung bestanden hat und
 bestanden hat, den die jeweilige Fachprüfungsordnung für den Zugang zum
 Master of Education für das Lehramt an Gymnasien voraussetzt und die
 weiteren Zugangsvoraussetzungen gemäß der Fachprüfungsordnung erfüllt.
-
-Christian-Albrechts-Universität zu Kiel
-Dokumentation der Studien -und Prüfungsordnungen
-
-Ordnungsnummer:
-
-0-1-2.2
-
-(Keine amtliche Bekanntmachung)
-
-Zwei-Fächer-Prüfungsordnung
-Bachelor und Master
-Az.: 103/0-0126
-
-Blatt: 21
-10/10
 
 § 37
 Ergänzungsstudium und -prüfung
@@ -1140,17 +1059,6 @@ eingeschrieben ist oder
 3. die Master-Prüfung in einem Zwei-Fächer-Studiengang mit dem Abschluss
 Master of Education oder eine vergleichbare Prüfung bestanden hat.
 
-§ 38
-Bestehen der Erweiterungs- oder Ergänzungsprüfung und Zeugnis
-(1) Mit erfolgreichem Abschluss des Erweiterungsstudiums auf der Bachelor- oder
-Master- Ebene oder des Ergänzungsstudiums erhält die oder der Studierende
-ein Zeugnis über die bestandene Prüfung. Ein Hochschulgrad wird nicht
-verliehen.
-(2) Das Zeugnis bescheinigt Art und Umfang der erworbenen Fachkenntnisse
-entsprechend der Vorschrift der Prüfungsverfahrensordnung über das Zeugnis.
-Es trägt die Unterschrift der oder des Vorsitzenden des für das Fach, in dem die
-Prüfung abgelegt wurde, zuständigen Prüfungsausschusses.
-
 Christian-Albrechts-Universität zu Kiel
 Dokumentation der Studien -und Prüfungsordnungen
 
@@ -1164,10 +1072,22 @@ Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
 Az.: 103/0-0126
 
-Blatt: 22
-10/10
+Blatt: 20
+4/11
+
+§ 38
+Bestehen der Erweiterungs- oder Ergänzungsprüfung und Zeugnis
+(1) Mit erfolgreichem Abschluss des Erweiterungsstudiums auf der Bachelor- oder
+Master- Ebene oder des Ergänzungsstudiums erhält die oder der Studierende
+ein Zeugnis über die bestandene Prüfung. Ein Hochschulgrad wird nicht
+verliehen.
+(2) Das Zeugnis bescheinigt Art und Umfang der erworbenen Fachkenntnisse
+entsprechend der Vorschrift der Prüfungsverfahrensordnung über das Zeugnis.
+Es trägt die Unterschrift der oder des Vorsitzenden des für das Fach, in dem die
+Prüfung abgelegt wurde, zuständigen Prüfungsausschusses
 
 VII. Übergangs- und Schlussvorschriften
+
 § 39
 Übergangsbestimmungen
 (1) Diese Prüfungsordnung gilt erstmals für die Studierenden, die ihr Studium im
@@ -1184,6 +1104,22 @@ Berechnung der Bachelor-Note einbezogen werden können.
 Für Studierende die sich im Zeitpunkt der Umschreibung höchstes im sechsten
 Fachsemester befinden, gilt die Notengrenze nach § 16 Abs. 1 oder § 23 Abs. 1
 nicht. Über Zweifelsfragen und Härtefälle entscheidet der Prüfungsausschuss.
+
+Christian-Albrechts-Universität zu Kiel
+Dokumentation der Studien -und Prüfungsordnungen
+
+Ordnungsnummer:
+
+0-1-2.2
+
+(Keine amtliche Bekanntmachung)
+
+Zwei-Fächer-Prüfungsordnung
+Bachelor und Master
+Az.: 103/0-0126
+
+Blatt: 21
+4/11
 
 § 40
 In-Kraft-Treten
@@ -1209,8 +1145,8 @@ Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
 Az.: 103/0-0126
 
-Blatt: 23
-10/10
+Blatt: 22
+4/11
 
 Artikel 2 der Änderungssatzung vom 10. September 2008:
 (1) Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft.
@@ -1232,17 +1168,15 @@ Prüfungsordnung angerechnet, sofern sich die Anrechnung nicht nach der
 Struktur der neuen Modulprüfung verbietet.
 (6) Über Härtefälle, die vom Studierenden nicht zu vertreten sind, entscheidet der
 Prüfungsausschuss auf Antrag.
-____________________________________________________________________
 Artikel 2 der Änderungssatzung vom 18. Dezember 2008
 (1) Diese Satzung tritt am Tag nach ihrer Bekanntmachung in Kraft.
 (2) Modulprüfungen, die bei Inkrafttreten dieser Satzung vollständig absolviert und
 bestanden worden sind, behalten ihre Gültigkeit.
-(3) Hat eine Studierende oder ein Studierender selbstständige Teilleistungen
-einer Modulprüfung absolviert und bestanden, werden diese Prüfungen
-angerechnet. Der Prüfungsausschuss entscheidet unter Berücksichtigung der
-Lernziele des Moduls und des Prüfungszwecks, welche weiteren
-Prüfungsleistungen zur Vervollständigung des jeweiligen Moduls erbracht
-werden müssen.
+(3) Hat eine Studierende oder ein Studierender selbstständige Teilleistungen einer
+Modulprüfung absolviert und bestanden, werden diese Prüfungen angerechnet.
+Der Prüfungsausschuss entscheidet unter Berücksichtigung der Lernziele des
+Moduls und des Prüfungszwecks, welche weiteren Prüfungsleistungen zur
+Vervollständigung des jeweiligen Moduls erbracht werden müssen.
 (4) Ist eine Prüfungsleistung bei Inkrafttreten dieser Satzung absolviert und
 bestanden, und ist diese Prüfungsleistung nach den neuen Regelungen
 unbenotet, wird die Note nicht eingerechnet. Auf Antrag des Studierenden
@@ -1268,8 +1202,8 @@ Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
 Az.: 103/0-0126
 
-Blatt: 24
-10/10
+Blatt: 23
+4/11
 
 Anlage 1
 Bestimmungen für das Studium des Profils Fachergänzung
@@ -1314,8 +1248,8 @@ Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
 Az.: 103/0-0126
 
-Blatt: 25
-10/10
+Blatt: 24
+4/11
 
 (4) Ist ein Abbau des Überhangs nicht möglich, trifft das ZfS die Auswahl unter
 denjenigen Studierenden,
@@ -1355,10 +1289,9 @@ die Regelungen der Prüfungsverfahrensordnung.
 regelt die Praktikumsordnung für das Profil Fachergänzung.
 
 Christian-Albrechts-Universität zu Kiel
+Dokumentation der Studien -und Prüfungsordnungen
 
 Ordnungsnummer:
-
-Dokumentation der Studien -und Prüfungsordnungen
 
 0-1-2.2
 
@@ -1366,54 +1299,24 @@ Dokumentation der Studien -und Prüfungsordnungen
 
 Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
-
-Blatt: 26
-10/10
-
 Az.: 103/0-0126
+
+Blatt: 25
+4/11
 
 Anlage 2
 Bestimmungen für das Studium des Profils Lehramt an Gymnasien
 §1
 Aufbau des Profils Lehramt an Gymnasien
 (1) Das Profil Lehramt an Gymnasien setzt sich im Bachelor-Studium zusammen aus
--
-
-einem der Wahlpflichtfachmodule Philosophie oder Soziologie im Umfang von
+- einem der Wahlpflichtfachmodule Philosophie oder Soziologie im Umfang von
 5 Leistungspunkten
-
--
-
-einem Pädagogikmodul im Umfang von 5 Leistungspunkten,
-
--
-
-dem pädagogisch
+- einem Pädagogikmodul im Umfang von 5 Leistungspunkten,
+- dem pädagogisch vorbereiteten Praxismodul 1 im Umfang von 5
 Leistungspunkten,
-
--
-
-einem Fachdidaktikmodul im Umfang von 5 Leistungspunkten und
-
--
-
-dem fachdidaktisch vorbereiteten Praxismodul 2 im Umfang von 10
+- einem Fachdidaktikmodul im Umfang von 5 Leistungspunkten und
+- dem fachdidaktisch vorbereiteten Praxismodul 2 im Umfang von 10
 Leistungspunkten.
-
-vorbereiteten
-
-Praxismodul
-
-1
-
-im
-
-Umfang
-
-von
-
-5
-
 Studierende des Fachs Philosophie müssen das Wahlpflichtmodul Soziologie,
 Studierende des Fachs Wirtschaft/Politik das Wahlpflichtmodul Philosophie
 belegen. Sind beide Wahlpflichtmodule in den Fachcurricula enthalten, benennt
@@ -1423,17 +1326,9 @@ Fachergänzung, aus denen die Studierenden Module im Umfang von mindestens
 5 Leistungspunkten belegen müssen. Die Anmeldung zu diesen Modulen erfolgt
 bei den Prüfungsämtern.
 (2) Das Profil Lehramt an Gymnasien setzt sich im Master-Studium zusammen aus
--
-
-dem Studium der Pädagogik im Umfang von 10 Leistungspunkten,
-
--
-
-dem Studium der Psychologie im Umfang von 10 Leistungspunkten und
-
--
-
-dem Praxismodul 3: Master-Praktikum an einer Schule der Sekundarstufe II im
+- dem Studium der Pädagogik im Umfang von 10 Leistungspunkten,
+- dem Studium der Psychologie im Umfang von 10 Leistungspunkten und
+- dem Praxismodul 3: Master-Praktikum an einer Schule der Sekundarstufe II im
 Umfang von 10 Leistungspunkten1.
 
 ____________________________________________________________________
@@ -1455,8 +1350,8 @@ Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
 Az.: 103/0-0126
 
-Blatt: 27
-10/10
+Blatt: 26
+4/11
 
 §2
 Zulassung zu Lehrveranstaltungen
@@ -1505,8 +1400,8 @@ Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
 Az.: 103/0-0126
 
-Blatt: 28
-10/10
+Blatt: 27
+4/11
 
 Anlage 3
 Bestimmungen für das Studium des Profils Handelslehrer
@@ -1514,9 +1409,10 @@ Bestimmungen für das Studium des Profils Handelslehrer
 Aufbau des Profils Handelslehrer
 (1) Das Profil Handelslehrer setzt sich im Bachelor-Studium zusammen aus
 1. einem Fachdidaktikmodul im Umfang von 8 Leistungspunkten,
-2. dem fachdidaktisch vorbereiteten Praxismodul im Umfang von 10 Leistungspunkten und
-3. den Modulen in Berufs- und Wirtschaftspädagogik im Umfang von
-12 Leistungspunkten.
+2. dem fachdidaktisch vorbereiteten Praxismodul im Umfang von 10
+Leistungspunkten und
+3. den Modulen in Berufs- und Wirtschaftspädagogik im Umfang von 12
+Leistungspunkten.
 (2) Das Profil Handelslehrer setzt sich im Master-Studium zusammen aus Modulen in
 Berufs- und Wirtschaftspädagogik im Umfang von 30 Leistungspunkten und
 einem Schulpraktikum an einer berufsbildenden Schule oder einem Fachgymnasium Wirtschaft im Umfang von 10 Leistungspunkten.
@@ -1551,8 +1447,8 @@ Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
 Az.: 103/0-0126
 
-Blatt: 29
-10/10
+Blatt: 28
+4/11
 
 (3) Die Durchführung der Praktika im Rahmen der Praxismodule und der
 dazugehörigen Modulprüfungen regeln die Praktikumsordnung für das Profil
@@ -1565,8 +1461,8 @@ Bildung der Note für das Profil Handelslehrer
 (2) Für die Berechnung der Profilnote werden die Modulnoten des Profils mit den
 dem Modul zugeordneten Leistungspunkten gewichtet.
 
-Anhang 1: Übersicht der Module und Prüfungsleistungen im Profil
-Fachergänzung
+Anhang 1:
+Übersicht der Module und Prüfungsleistungen im Profil Fachergänzung
 (nicht Bestandteil der Satzung)
 
 siehe unter http://fachergaenzung.zfs.uni-kiel.de/file.php/1/FE_Module.pdf
@@ -1584,13 +1480,16 @@ Dokumentation der Studien -und Prüfungsordnungen
 Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
 
-Blatt: 30
-10/10
+Blatt: 29
+4/11
 
 Az.: 103/0-0126
 
-Anhang 2: Übersicht der Module und Prüfungsleistungen im Profil
-Lehramt an Gymnasien
+Anhang 2:
+
+Stand: 08.04.2011
+
+Übersicht der Module und Prüfungsleistungen im Profil Lehramt an Gymnasien
 (nicht Bestandteil der Satzung)
 1. Profil Lehramt an Gymnasien im Bachelor of Arts / Science
 1.1 Wahlpflichtmodul Philosophie oder Soziologie (WPF)
@@ -1606,9 +1505,21 @@ Semesterlage
 
 Dauer
 
+Status
+
+Zugangsvoraussetzung
+
+LP / Workload
+
 1. und 2. Semester
 
 2 Semester
+
+WPF
+
+-
+
+5 LP / 150 Stunden
 
 Lehrveranstaltung(en)
 
@@ -1664,17 +1575,6 @@ Take-home-Klausur
 
 benotet
 
-Status
-WPF
-
-Zugangsvoraussetzung
-
-LP / Workload
-
--
-
-5 LP / 150 Stunden
-
 Weitere Angaben:
 Die Studierenden können die dem Modul zugeordneten Lehrveranstaltungen ihren eigenen Studieninteressen gemäß kombinieren.
 Studierende des Fachs Philosophie müssen das Wahlpflichtmodul Soziologie absolvieren.
@@ -1687,21 +1587,9 @@ Semesterlage
 
 Dauer
 
-Status
-
-Zugangsvoraussetzung
-
-LP / Workload
-
 1. und 2. Semester
 
 2 Semester
-
-WPF
-
--
-
-5 LP / 150 Stunden
 
 Lehrveranstaltung(en)
 
@@ -1710,14 +1598,6 @@ Lehrform
 SWS
 
 LP
-
-Status
-
-Prüfungsleistung(en)
-
-Bewertungsart
-
-Wichtung
 
 Einführung in die Soziologie
 
@@ -1751,6 +1631,24 @@ benotet
 
 50 %
 
+Status
+WPF
+Status
+
+Zugangsvoraussetzung
+
+LP / Workload
+
+-
+
+5 LP / 150 Stunden
+
+Prüfungsleistung(en)
+
+Bewertungsart
+
+Wichtung
+
 Weitere Angaben:
 Studierende des Fachs Wirtschaft / Politik müssen das Wahlpflichtmodul Philosophie absolvieren.
 
@@ -1780,8 +1678,8 @@ Dokumentation der Studien -und Prüfungsordnungen
 Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
 
-Blatt: 31
-10/10
+Blatt: 30
+4/11
 
 Az.: 103/0-0126
 PHF-paed-LL1-BS9L
@@ -2151,8 +2049,8 @@ Dokumentation der Studien -und Prüfungsordnungen
 Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
 
-Blatt: 32
-10/10
+Blatt: 31
+4/11
 
 Az.: 103/0-0126
 PHF-paed-LL1-Prax1
@@ -2368,12 +2266,12 @@ Ordnungsnummer:
 Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
 
-10/10
+4/11
 
 Az.: 103/0-0126
 PHF-däni-FD1
 
-Blatt: 33
+Blatt: 32
 
 Dänisch
 Lehrform
@@ -2720,12 +2618,12 @@ Ordnungsnummer:
 Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
 
-10/10
+4/11
 
 Az.: 103/0-0126
 PHF-kuns-FD1
 
-Blatt: 34
+Blatt: 33
 
 Kunst
 Lehrform
@@ -2974,7 +2872,7 @@ Seminar
 
 2,5
 
-Stundenvorbereitung
+Referat, Protokoll
 
 benotet
 
@@ -3030,8 +2928,8 @@ Dokumentation der Studien -und Prüfungsordnungen
 Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
 
-Blatt: 35
-10/10
+Blatt: 34
+4/11
 
 Az.: 103/0-0126
 1.5 Praxismodul 2: Fachdidaktisches Praktikum (FD2)
@@ -3060,10 +2958,7 @@ Dauer
 
 Status
 
-Zugangsvoraussetzun
-g
-
-LP / Workload
+Zugangsvoraussetzung LP / Workload
 
 5. Semester
 
@@ -3094,9 +2989,6 @@ Bewertungsart
 
 Wichtung
 
-Planung, Durchführung und Analyse von
-Unterricht im Fach Biologie
-
 Seminar
 
 2
@@ -3109,9 +3001,6 @@ benotet
 
 50 %
 
-IPN-chem-FD2
-
-Chemie
 Lehrform
 
 SWS
@@ -3154,9 +3043,6 @@ Bewertungsart
 
 Wichtung
 
-Planung, Durchführung und Analyse von
-Unterricht im Fach Dänisch
-
 Übung
 
 2
@@ -3169,9 +3055,6 @@ benotet
 
 50 %
 
-PHF-deut-FD2
-
-Deutsch
 Lehrform
 
 SWS
@@ -3214,6 +3097,20 @@ benotet
 
 50 %
 
+Planung, Durchführung und Analyse von
+Unterricht im Fach Biologie
+
+IPN-chem-FD2
+
+Planung, Durchführung und Analyse von
+Unterricht im Fach Dänisch
+
+PHF-deut-FD2
+
+Chemie
+
+Deutsch
+
 Weitere Angaben: Die Studierenden wählen entweder das Seminar zum Sprach- oder zum Literaturunterricht.
 
 Christian-Albrechts-Universität zu Kiel
@@ -3228,12 +3125,12 @@ Ordnungsnummer:
 Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
 
-10/10
+4/11
 
 Az.: 103/0-0126
 PHF-engl-FD2
 
-Blatt: 36
+Blatt: 35
 
 Englisch
 Lehrform
@@ -3535,12 +3432,12 @@ Ordnungsnummer:
 Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
 
-10/10
+4/11
 
 Az.: 103/0-0126
 PHF-laph-FD2
 
-Blatt: 37
+Blatt: 36
 
 Latein
 Lehrform
@@ -3753,7 +3650,7 @@ fachprakt.
 
 3
 
-Unterrichtsentwurf
+Lehrprobe
 
 benotet
 
@@ -3804,11 +3701,832 @@ Dokumentation der Studien -und Prüfungsordnungen
 Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
 
-Blatt: 38
-10/10
+Blatt: 37
+4/11
 
 Az.: 103/0-0126
 
+1.6 Modul Fachdidaktik (FD 1 und FD 2) für das Erweiterungsstudium auf der Bachelor-Ebene (FD Erw)
+Das Modul hat einen Umfang von 5,5 LP und besteht aus den dem studierten Erweiterungsfach zugeordneten
+Lehrveranstaltungen „Grundlagen fachbezogenen Lehrens und Lernens“ (FD 1) und „Planung, Durchführung
+und Analyse von Unterricht“ (FD 2). Die Veranstaltungen des Moduls sind im 4. (FD 1) und 5. (FD 2) Semester
+verortet.
+Fachdidaktik (FD 1 und FD 2) für das Erweiterungsstudium auf der Bachelor-Ebene (FD Erw)
+Semesterlage
+
+Dauer
+
+Status
+
+Zugangsvoraussetzung
+
+LP / Workload
+
+4. + 5. Semester
+
+2 Semester
+
+Pflicht
+
+-
+
+5,5 LP / 165 Stunden
+
+Grundlagen fachbezogenen Lehrens und Lernens (FD 1)
+PHF-däni-FD1
+
+Dänisch
+Lehrform
+
+SWS
+
+LP
+
+Prüfungsleistung(en)
+
+Bewertungsart
+
+Wichtung
+
+Grundlagen fachbezogenen Lehrens und
+Lernens im Fach Dänisch
+
+Übung
+
+2
+
+2,5
+
+Hausarbeit (ca. 5 Seiten)
+
+benotet
+
+50 %
+
+PHF-theol-FD1
+
+Evangelische Religionslehre
+Lehrform
+
+Grundlagen fachbezogenen Lehrens und
+Lernens im Fach Evangelische Religionslehre
+
+PHF-fran-FD1
+
+SWS
+
+LP
+
+Prüfungsleistung(en)
+
+Bewertungsart
+
+Wichtung
+
+Seminar
+
+2
+
+2,5
+
+Referat, Hausarbeit oder ausgearbeiteter
+Stundenentwurf
+
+benotet
+
+50 %
+
+Französisch
+Lehrform
+
+SWS
+
+LP
+
+Prüfungsleistung(en)
+
+Bewertungsart
+
+Wichtung
+
+Grundlagen fachbezogenen Lehrens und
+Lernens im Fach Französisch
+
+Übung
+
+2
+
+2,5
+
+Stundenentwurf
+
+benotet
+
+50 %
+
+PHF-gesc-FD1
+
+Geschichte
+Lehrform
+
+Grundlagen fachbezogenen Lehrens und
+Lernens im Fach Geschichte
+
+PHF-grph-FD1
+
+SWS
+
+LP
+
+Prüfungsleistung(en)
+
+Bewertungsart
+
+Wichtung
+
+Seminar
+
+2
+
+2,5
+
+Hausarbeit (10-12 Seiten)
+
+benotet
+
+50 %
+
+Griechisch
+Lehrform
+
+SWS
+
+LP
+
+Prüfungsleistung(en)
+
+Bewertungsart
+
+Wichtung
+
+Grundlagen fachbezogenen Lehrens und
+Lernens im Fach Griechisch
+
+Übung
+
+2
+
+2,5
+
+Klausur
+
+benotet
+
+50 %
+
+TEF-info-FD1
+
+Informatik
+Lehrform
+
+SWS
+
+LP
+
+Prüfungsleistung(en)
+
+Bewertungsart
+
+Wichtung
+
+Grundlagen fachbezogenen Lehrens und
+Lernens im Fach Informatik
+
+Vorlesung
+
+2
+
+2,5
+
+Klausur
+
+benotet
+
+50 %
+
+PHF-ital-FD1
+
+Italienisch
+Lehrform
+
+SWS
+
+LP
+
+Prüfungsleistung(en)
+
+Bewertungsart
+
+Wichtung
+
+Grundlagen fachbezogenen Lehrens und
+Lernens im Fach Italienisch
+
+Übung
+
+2
+
+2,5
+
+Stundenentwurf
+
+benotet
+
+50 %
+
+Lehrform
+
+SWS
+
+LP
+
+Prüfungsleistung(en)
+
+Bewertungsart
+
+Wichtung
+
+Seminar
+
+2
+
+2,5
+
+Stundenentwurf und Test
+
+benotet
+
+50 %
+
+PHF-laph-FD1
+Grundlagen fachbezogenen Lehrens und
+Lernens im Fach Latein
+
+Latein
+
+Christian-Albrechts-Universität zu Kiel
+Dokumentation der Studien -und Prüfungsordnungen
+
+Ordnungsnummer:
+
+0-1-2.2
+
+(Keine amtliche Bekanntmachung)
+
+Zwei-Fächer-Prüfungsordnung
+Bachelor und Master
+
+4/11
+
+Az.: 103/0-0126
+MNF-math-FD1
+
+Blatt: 38
+
+Mathematik
+Lehrform
+
+SWS
+
+Grundlagen fachbezogenen Lehrens und
+Lernens im Fach Mathematik
+
+Übung
+
+1
+
+Grundlagen fachbezogenen Lehrens und
+Lernens im Fach Mathematik
+
+Vorlesung
+
+1
+
+PHF-phil-FD1
+
+LP
+
+Philosophie
+
+2,5
+
+Prüfungsleistung(en)
+
+Bewertungsart
+
+Wichtung
+
+Klausur (max 180 Minuten) oder
+mündliche Prüfung (max. 30 Min.)
+
+benotet
+
+50 %
+
+Lehrform
+
+SWS
+
+LP
+
+Prüfungsleistung(en)
+
+Bewertungsart
+
+Wichtung
+
+Grundlagen fachbezogenen Lehrens und
+Lernens im Fach Philosophie
+
+Seminar
+
+2
+
+2,5
+
+90-minütige Klausur
+
+benotet
+
+50 %
+
+PHF-russ-FD1
+
+Russisch
+Lehrform
+
+SWS
+
+LP
+
+Prüfungsleistung(en)
+
+Bewertungsart
+
+Wichtung
+
+Übung
+
+2
+
+2,5
+
+Klausur
+
+benotet
+
+50 %
+
+Lehrform
+
+SWS
+
+LP
+
+Prüfungsleistung(en)
+
+Bewertungsart
+
+Wichtung
+
+Übung
+
+2
+
+2,5
+
+Stundenentwurf
+
+benotet
+
+50 %
+
+Grundlagen fachbezogenen Lehrens und
+Lernens im Fach Russisch
+
+PHF-span-FD1
+Grundlagen fachbezogenen Lehrens und
+Lernens im Fach Spanisch
+
+Spanisch
+
+Planung, Durchführung und Analyse von Unterricht (FD 2)
+PHF-däni-FD2
+
+Dänisch
+Lehrform
+
+SWS
+
+LP
+
+Prüfungsleistung(en)
+
+Bewertungsart
+
+Wichtung
+
+Planung, Durchführung und Analyse von
+Unterricht im Fach Dänisch
+
+Übung
+
+2
+
+3
+
+Unterrichtsentwurf
+
+benotet
+
+50 %
+
+PHF-theol-FD2
+
+Evangelische Religionslehre
+Lehrform
+
+Planung, Durchführung und Analyse von
+Seminar
+Unterricht im Fach Evangelische Religionslehre
+
+PHF-fran-FD2
+
+SWS
+
+LP
+
+Prüfungsleistung(en)
+
+Bewertungsart
+
+Wichtung
+
+2
+
+3
+
+Stundenentwurf
+
+benotet
+
+50 %
+
+Französisch
+Lehrform
+
+SWS
+
+LP
+
+Prüfungsleistung(en)
+
+Bewertungsart
+
+Wichtung
+
+Planung, Durchführung und Analyse von
+Unterricht im Fach Französisch
+
+Übung
+
+2
+
+3
+
+kumulative Ausarbeitung und
+abschließende Präsentation eines
+Stundenentwurfs
+
+benotet
+
+50 %
+
+PHF-gesc-FD2
+
+Geschichte
+Lehrform
+
+Planung, Durchführung und Analyse von
+Unterricht im Fach Geschichte
+
+PHF-grph-FD2
+
+SWS
+
+LP
+
+Prüfungsleistung(en)
+
+Bewertungsart
+
+Wichtung
+
+Seminar
+
+2
+
+3
+
+Kumulative Ausarbeitung und
+abschließende Präsentation eines
+vollständigen Stundenentwurfs (8-10
+Seiten)
+
+benotet
+
+50 %
+
+Griechisch
+Lehrform
+
+Planung, Durchführung und Analyse von
+Unterricht im Fach Griechisch
+
+SWS
+
+LP
+
+Prüfungsleistung(en)
+
+Bewertungsart
+
+Wichtung
+
+Seminar
+
+2
+
+3
+
+Stundenentwurf
+
+benotet
+
+50 %
+
+Christian-Albrechts-Universität zu Kiel
+Dokumentation der Studien -und Prüfungsordnungen
+
+Ordnungsnummer:
+
+0-1-2.2
+
+(Keine amtliche Bekanntmachung)
+
+Zwei-Fächer-Prüfungsordnung
+Bachelor und Master
+
+4/11
+
+Az.: 103/0-0126
+TEF-info-FD2
+
+Blatt: 39
+
+Informatik
+Lehrform
+
+SWS
+
+LP
+
+Prüfungsleistung(en)
+
+Bewertungsart
+
+Wichtung
+
+Planung, Durchführung und Analyse von
+Unterricht im Fach Informatik
+
+Seminar
+
+2
+
+3
+
+Hausarbeit: Praktikumsbericht mit
+Stundenplanungen und Reflexion
+
+benotet
+
+50 %
+
+PHF-ital-FD2
+
+Italienisch
+Lehrform
+
+SWS
+
+LP
+
+Prüfungsleistung(en)
+
+Bewertungsart
+
+Wichtung
+
+Planung, Durchführung und Analyse von
+Unterricht im Fach Italienisch
+
+Übung
+
+2
+
+3
+
+kumulative Ausarbeitung und
+abschließende Präsentation eines
+Stundenentwurfs
+
+benotet
+
+50 %
+
+PHF-laph-FD2
+
+Latein
+Lehrform
+
+SWS
+
+LP
+
+Prüfungsleistung(en)
+
+Bewertungsart
+
+Wichtung
+
+Planung, Durchführung und Analyse von
+Unterricht im Fach Latein
+
+Seminar
+
+2
+
+3
+
+Stundenentwurf und Test
+
+benotet
+
+50 %
+
+MNF-math-FD2
+
+Mathematik
+LP
+
+Prüfungsleistung(en)
+
+Bewertungsart
+
+Wichtung
+
+3
+
+Klausur (max 180 Minuten) oder
+mündliche Prüfung (max. 30 Min.)
+
+benotet
+
+50 %
+
+Lehrform
+
+SWS
+
+Planung und Analyse von Mathematikunterricht Übung
+
+1
+
+Planung und Analyse von Mathematikunterricht Vorlesung
+
+1
+
+PHF-phil-FD2
+
+Philosophie
+Lehrform
+
+SWS
+
+LP
+
+Prüfungsleistung(en)
+
+Bewertungsart
+
+Wichtung
+
+Seminar
+
+2
+
+3
+
+Entwurf einer Unterrichtsstunde
+
+benotet
+
+50 %
+
+Lehrform
+
+SWS
+
+LP
+
+Prüfungsleistung(en)
+
+Bewertungsart
+
+Wichtung
+
+Planung, Durchführung und Analyse von
+Unterricht im Fach Russisch
+
+Übung
+
+2
+
+3
+
+Referat
+
+benotet
+
+50 %
+
+PHF-span-FD2
+
+Spanisch
+Lehrform
+
+SWS
+
+LP
+
+Prüfungsleistung(en)
+
+Bewertungsart
+
+Wichtung
+
+Übung
+
+2
+
+3
+
+kumulative Ausarbeitung und
+abschließende Präsentation eines
+Stundenentwurfs
+
+benotet
+
+50 %
+
+Planung, Durchführung und Analyse von
+Unterricht im Fach Philosophie
+
+PHF-russ-FD2
+
+Planung, Durchführung und Analyse von
+Unterricht im Fach Spanisch
+
+Russisch
+
+Christian-Albrechts-Universität zu Kiel
+
+Ordnungsnummer:
+
+Dokumentation der Studien -und Prüfungsordnungen
+
+0-1-2.2
+
+(Keine amtliche Bekanntmachung)
+
+Zwei-Fächer-Prüfungsordnung
+Bachelor und Master
+
+Blatt: 40
+4/11
+
+Az.: 103/0-0126
 2. Profil Lehramt an Gymnasien im Master of Education
 
 2.1 Module Pädagogik: Lehren und Lernen 2 (LL2)
@@ -4059,8 +4777,8 @@ Dokumentation der Studien -und Prüfungsordnungen
 Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
 
-Blatt: 39
-10/10
+Blatt: 41
+4/11
 
 Az.: 103/0-0126
 PHF-paed-LL2-MP4L
@@ -4337,13 +5055,12 @@ Praktikum
 
 Pflicht
 
-Portfolio: Praktikumsbericht
+-
 
-benotet
+-
 
 Wichtung
-arithmetisch
-es Mittel
+-
 
 Christian-Albrechts-Universität zu Kiel
 
@@ -4358,8 +5075,8 @@ Dokumentation der Studien -und Prüfungsordnungen
 Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
 
-Blatt: 40
-10/10
+Blatt: 42
+4/11
 
 Az.: 103/0-0126
 2.3 Modul Psychologie: Psychologie des Lehrens und Lernens (PM)
@@ -4463,14 +5180,16 @@ Dokumentation der Studien -und Prüfungsordnungen
 Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
 
-Blatt: 41
-10/10
+Blatt: 43
+4/11
 
 Az.: 103/0-0126
 
 Anhang 3
-Übersicht der Module und Prüfungsleistungen im Profil
-Handelslehrer
+
+Stand: 08.04.2011
+
+Übersicht der Module und Prüfungsleistungen im Profil Handelslehrer
 (nicht Bestandteil der Satzung)
 
 1. Profil Handelslehrer im Bachelor of Arts / Science
@@ -4594,6 +5313,9 @@ benotet
 
 25 %
 
+PHF-engl-FD1
+
+Englisch
 Lehrform
 
 SWS
@@ -4636,38 +5358,15 @@ benotet
 
 50 %
 
-PHF-engl-FD1
-
-Englisch
-
 Weitere Angaben: Die Studierenden wählen entweder die Vorlesung zur Sprach- oder zur Literaturdidaktik.
 
-Christian-Albrechts-Universität zu Kiel
-Dokumentation der Studien -und Prüfungsordnungen
-
-Ordnungsnummer:
-
-0-1-2.2
-
-(Keine amtliche Bekanntmachung)
-
-Zwei-Fächer-Prüfungsordnung
-Bachelor und Master
-
-10/10
-
-Az.: 103/0-0126
 PHF-theol-FD1
-
-Blatt: 42
 
 Evangelische Religionslehre
 Lehrform
 
 Grundlagen fachbezogenen Lehrens und
 Lernens im Fach Evangelische Religionslehre
-
-PHF-fran-FD1
 
 SWS
 
@@ -4691,6 +5390,26 @@ Stundenentwurf
 benotet
 
 50 %
+
+Christian-Albrechts-Universität zu Kiel
+Dokumentation der Studien -und Prüfungsordnungen
+
+Ordnungsnummer:
+
+0-1-2.2
+
+(Keine amtliche Bekanntmachung)
+
+Zwei-Fächer-Prüfungsordnung
+Bachelor und Master
+
+4/11
+
+Az.: 103/0-0126
+
+PHF-fran-FD1
+
+Blatt: 44
 
 Französisch
 Lehrform
@@ -4925,7 +5644,7 @@ Seminar
 
 2,5
 
-Stundenvorbereitung
+Referat, Protokoll
 
 benotet
 
@@ -4953,8 +5672,8 @@ Dokumentation der Studien -und Prüfungsordnungen
 Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
 
-Blatt: 43
-10/10
+Blatt: 45
+4/11
 
 Az.: 103/0-0126
 1.2 Fachdidaktisches Praktikum (FD2)
@@ -5204,8 +5923,8 @@ Dokumentation der Studien -und Prüfungsordnungen
 Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
 
-Blatt: 44
-10/10
+Blatt: 46
+4/11
 
 Az.: 103/0-0126
 MNF-Geogr-62
@@ -5425,7 +6144,7 @@ fachprakt.
 
 3
 
-Unterrichtsentwurf
+Lehrprobe
 
 benotet
 
@@ -5526,8 +6245,8 @@ Dokumentation der Studien -und Prüfungsordnungen
 Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
 
-Blatt: 45
-10/10
+Blatt: 47
+4/11
 
 Az.: 103/0-0126
 
@@ -5862,8 +6581,8 @@ Dokumentation der Studien -und Prüfungsordnungen
 Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
 
-Blatt: 46
-10/10
+Blatt: 48
+4/11
 
 Az.: 103/0-0126
 
@@ -5949,10 +6668,13 @@ Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
 Az.: 103/0-0126
 
-Blatt: 47
-10/10
+Anhang 4:
+Praktikumsordnung Schulpraktische Studien
 
-Anhang 4: Praktikumsordnung Schulpraktische Studien
+Blatt: 49
+4/11
+Stand: 01.04.2011
+
 (nicht Bestandteil der Satzung)
 
 Schulpraktische Studien / Bachelor / Master of Education
@@ -5961,7 +6683,7 @@ Von den Studierenden der Bachelor- und Master-Studiengänge mit dem Profil
 Lehramt an Gymnasien sind aufgrund § 1 der Anlage 2 der Gemeinsamen
 Prüfungsordnung der Christian-Albrechts-Universität zu Kiel für Studierende der
 Zwei-Fächer-Bachelor- und Master-Studiengänge (Zwei-Fächer-Prüfungsordnung)
-vom 29. November 2007 Schulpraktische Studien zu leisten.
+vom 21. Februar 2008 Schulpraktische Studien zu leisten.
 Schulpraktische Studien sind in den modularisierten Studiengängen verortet als:
 1. Praxismodul 1 im zweiten Studienjahr / Bachelor: Pädagogisches Praktikum
 2. Praxismodul 2 im dritten Studienjahr / Bachelor: Fachdidaktisches Praktikum
@@ -5981,7 +6703,14 @@ Die Schulen stellen im Rahmen ihrer fachlichen und schulorganisatorischen
 Kapazitäten Praktikumsplätze zur Verfügung. Sie stellen sicher, dass den
 Praktikantinnen und Praktikanten Möglichkeiten zur Hospitation im Unterricht geboten
 werden, sie angemessen in Unterrichtssituationen eingeführt und ihnen Einblicke in
-den Berufsalltag der Lehrkräfte ermöglicht werden. Soweit eigene
+den
+Berufsalltag
+der
+Lehrkräfte
+ermöglicht
+werden.
+Soweit
+eigene
 Unterrichtsversuche durchgeführt werden, geben die Lehrkräfte (im folgenden
 Mentorinnen und Mentoren genannt) Hilfen zur Planung der Unterrichtsversuche und
 zu deren Auswertung.
@@ -6001,8 +6730,8 @@ Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
 Az.: 103/0-0126
 
-Blatt: 48
-10/10
+Blatt: 50
+4/11
 
 I.
 Praxismodul 1: Pädagogisches Praktikum
@@ -6038,7 +6767,7 @@ und deren Einverständniserklärung beibringen.
 3. Betreuung der Praktikantinnen und Praktikanten
 Die Studierenden werden in den Schulen betreut; für die Dauer des Praktikums sind
 die Studierenden an das Weisungsrecht der Schule gebunden. Die Schule testiert die
-ordnungsgemäße Ableistung der unter Nummer 4a) bis e) genannten Anforderungen
+ordnungsgemäße Ableistung der unter Nummer 4a) bis e) genannten Anforderungen.
 
 Christian-Albrechts-Universität zu Kiel
 Dokumentation der Studien -und Prüfungsordnungen
@@ -6053,12 +6782,16 @@ Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
 Az.: 103/0-0126
 
-Blatt: 49
-10/10
+Blatt: 51
+4/11
 
 4. Anforderungen an die Studierenden im Praktikum
 a) Die Studierenden müssen während der von der Schule festzulegenden
-Hospitationen Unterrichtsbeobachtungen vornehmen und ihre
+Hospitationen
+Unterrichtsbeobachtungen
+vornehmen
+und
+ihre
 Beobachtungsergebnisse im Gespräch mit den Mentorinnen und Mentoren
 vortragen.
 b) Eine Unterrichtsstunde muss selbst vorbereitet und erteilt werden.
@@ -6069,12 +6802,19 @@ teilnehmen.
 e) Zum Ende des Praktikums ist eine Lerngruppenbeschreibung der Gruppe
 anzufertigen, in der überwiegend hospitiert wurde.
 f) Nach der Beendigung des Praktikums sind der Praktikumsnachweis der Schule
-und die Dokumente zu b) und e) im Institut für Pädagogik vorzulegen.
+und die Dokumente zu b) und e) im Zentrum für Lehrerbildung vorzulegen.
 5. Abbruch des Praktikums
 Im Falle der Erkrankung oder eines sonstigen wichtigen Grundes kann das Praktikum
 abgebrochen werden. In diesem Fall hat die Praktikantin / der Praktikant sowohl die
 Schule als auch das Zentrum für Lehrerbildung unverzüglich zu verständigen; die
-Erkrankung ist durch ein ärztliches Attest nachzuweisen.
+Erkrankung
+ist
+durch
+ein
+ärztliches
+Attest
+nachzuweisen.
+
 II.
 Praxismodul 2: Fachdidaktisches Praktikum
 Ziele
@@ -6087,11 +6827,11 @@ jeweiligen Fachinstitutes vorbereitet.
 Das fachdidaktische Praktikum wird in der Regel als dreiwöchiges Blockpraktikum
 beider Fächer in Schulen der Sekundarstufe I und II in Schleswig-Holstein
 durchgeführt.
+
 Durchführung
 1. Zeit
 Das fachdidaktische Praktikum findet im Regelfall während der vorlesungsfreien Zeit
 nach einem Wintersemester statt; es erstreckt sich über das reguläre
-Stundenangebot dreier Schulwochen. Die Studierenden haben die Pflicht, während
 
 Christian-Albrechts-Universität zu Kiel
 Dokumentation der Studien -und Prüfungsordnungen
@@ -6106,9 +6846,10 @@ Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
 Az.: 103/0-0126
 
-Blatt: 50
-10/10
+Blatt: 52
+4/11
 
+Stundenangebot dreier Schulwochen. Die Studierenden haben die Pflicht, während
 dieser Zeit zu den für sie von der Schule festgesetzten Unterrichts- und
 Besprechungsstunden anwesend zu sein.
 2. Zulassungs- und Anmeldeverfahren, Vermittlung
@@ -6125,7 +6866,6 @@ die Studierenden an das Weisungsrecht der Schule gebunden. Die Schule testiert d
 ordnungsgemäße Ableistung der unter Nummer 4a) bis d) genannten Anforderungen.
 Im Rahmen zur Verfügung stehender Kapazitäten können auch Lehrende der
 Fachinstitute Betreuungsaufgaben in der Schule übernehmen.
-
 4. Anforderungen an die Studierenden im Praktikum
 a) Die Studierenden müssen zu den von der Schule festgelegten Zeiten regelmäßig
 hospitieren.
@@ -6135,10 +6875,14 @@ c) Eine angemessene Zahl von Unterrichtsstunden ist in Abstimmung mit der Schule
 zusätzlich eigenverantwortlich durchzuführen.
 d) Die Studierenden sollen an den in der Schule anberaumten Besprechungen
 teilnehmen.
-e) Nach Beendigung des Praktikums sind der Praktikumsnachweis der Schule im
-Gemeinsamen Prüfungsamt in der Philosophischen Fakultät und die Dokumente
-zu b) bei der oder dem jeweils zuständigen Modulverantwortlichen vorzulegen.
-Einzelheiten der Prüfungsanforderungen sind in der Zwei-FächerPrüfungsordnung geregelt.
+e) Nach Beendigung des Praktikums sind der Praktikumsnachweis der Schule dem
+Zentrum für Lehrerbildung und die Dokumente zu b) bei der oder dem jeweils
+zuständigen
+Modulverantwortlichen
+vorzulegen.
+Einzelheiten
+der
+Prüfungsanforderungen sind in der Zwei-Fächer-Prüfungsordnung geregelt.
 5. Abbruch des Praktikums
 Im Falle der Erkrankung oder eines sonstigen wichtigen Grundes kann das Praktikum
 abgebrochen werden. In diesem Fall hat die Praktikantin / der Praktikant sowohl die
@@ -6158,8 +6902,8 @@ Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
 Az.: 103/0-0126
 
-Blatt: 51
-10/10
+Blatt: 53
+4/11
 
 III.
 Praxismodul 3: Master-Praktikum
@@ -6179,9 +6923,9 @@ Laufbahn ableisten.
 
 Durchführung
 1. Zeit
-Das Master-Praktikum wird in den gewählten Studienfächern durchgeführt.
-Es findet im Regelfall in der vorlesungsfreien Zeit nach einem Sommersemester statt
-und erstreckt sich über das reguläre Stundenangebot von vier Schulwochen. Die
+Das Master-Praktikum wird in den gewählten Studienfächern durchgeführt. Es findet
+im Regelfall in der vorlesungsfreien Zeit nach einem Sommersemester statt und
+erstreckt sich über das reguläre Stundenangebot von vier Schulwochen. Die
 Studierenden haben die Pflicht, während dieser Zeit zu den für sie von der Schule
 festgesetzten Unterrichts- und Besprechungsstunden anwesend zu sein.
 2. Zulassungs- und Anmeldeverfahren, Vermittlung
@@ -6210,17 +6954,14 @@ Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
 Az.: 103/0-0126
 
-Blatt: 52
-10/10
+Blatt: 54
+4/11
 
 4. Anforderungen an die Studierenden
 a) Zu Beginn des Praktikums muss nach Abstimmung mit der Mentorin bzw. dem
 Mentor eine Tätigkeitsübersicht erstellt werden, unter Berücksichtigung des
 Lehrplanes und für die Lerngruppen, in denen eigene Unterrichtsversuche
-unternommen werden sollen. Zu Beginn des Praktikums muss nach Abstimmung
-mit der Mentorin bzw. dem Mentor unter Berücksichtigung des Lehrplanes für die
-Lerngruppen, in denen eigene Unterrichtsversuche unternommen werden sollen,
-eine Tätigkeitsübersicht erstellt werden.
+unternommen werden sollen.
 b) Die Studierenden müssen zu den von der Schule festgelegten Zeiten regelmäßig
 hospitieren.
 c) Die Studierenden müssen mindestens eine mehrstündige Unterrichtseinheit je
@@ -6230,25 +6971,25 @@ d) Eine angemessene Zahl von Unterrichtsstunden ist in Abstimmung mit der Schule
 zusätzlich eigenverantwortlich durchzuführen.
 e) Die Studierenden sollen an den in der Schule angesetzten Besprechungen
 teilnehmen.
-f) Nach der Beendigung des Master-Praktikums müssen die unter Nummer 4a) bis
-e) genannten Anforderungen in einem Praktikumsbericht dokumentiert werden.
-Dieser Praktikumsbericht ist dem Zentrum für Lehrerbildung vorzulegen.
-5. Bescheinigung über das Hauptpraktikum
+f) Nach der Beendigung des Master-Praktikums müssen die Dokumente zu den
+unter Nummer 4a) bis e) genannten Anforderungen im Zentrum für Lehrerbildung
+vorgelegt werden.
+5. Bescheinigung über das Master-Praktikum
 Die Ableistung des Master-Praktikums wird vom Zentrum für Lehrerbildung
 bescheinigt, wenn
 a) die Praktikumsschule die unter Nummer 4a) bis e) genannten Anforderungen
-testiert hat
-b) dem Zentrum für Lehrerbildung ein laut Nummer 4f) ordnungsgemäßer
-Praktikumsbericht und der Praktikumsnachweis der Schule vorgelegen hat.
+testiert hat und
+b) dem Zentrum für Lehrerbildung die laut Nummer 4f) beizubringenden Dokumente
+und der Praktikumsnachweis der Schule vorgelegt worden sind.
 6. Erkrankung und Versäumnis
 Versäumt der Praktikant mehr als drei Tage, so ist das Praktikum nach Rücksprache
 mit der Praktikumsschule um eine entsprechende Zeit zu verlängern. Im Falle der
 Erkrankung hat die Praktikantin / der Praktikant der Schule und dem Zentrum für
 Lehrerbildung unverzüglich ein ärztliches Attest vorzulegen. Wegen Krankheit oder
 sonstiger wichtiger Gründe kann, wenn sie vom Zentrum für Lehrerbildung anerkannt
-werden, das Praktikum abgebrochen werden.
-Erfolgt der Abbruch ohne den Nachweis eines wichtigen Grundes, so wird das
-Praktikum nur einmal zur Wiederholung angeboten.
+werden, das Praktikum abgebrochen werden. Erfolgt der Abbruch ohne den
+Nachweis eines wichtigen Grundes, so wird das Praktikum nur einmal zur
+Wiederholung angeboten.
 
 Christian-Albrechts-Universität zu Kiel
 Dokumentation der Studien -und Prüfungsordnungen
@@ -6263,9 +7004,17 @@ Zwei-Fächer-Prüfungsordnung
 Bachelor und Master
 Az.: 103/0-0126
 
-Anhang 5: Erweiterungs- und Ergänzungsfächer
+Anhang 5:
+Erweiterungs- und Ergänzungsfächer
+
+Blatt: 55
+4/11
+Stand: 01.04.2011
+
 (nicht Bestandteil der Satzung)
 
+Das Erweiterungs- / das Ergänzungsstudium ist in folgenden Fächern möglich, soweit
+für diese keine Zulassungsbeschränkung gilt:
 Erweiterungsfächer
 Dänisch
 evangelische Religionslehre
@@ -6282,8 +7031,5 @@ Spanisch
 Ergänzungsfächer
 Friesische Philologie
 Niederdeutsch
-
-Blatt: 53
-10/10
 
 
